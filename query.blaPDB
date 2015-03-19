@@ -1,0 +1,3747 @@
+BLASTP 2.2.16 [Mar-25-2007]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics:
+Schaffer, Alejandro A., L. Aravind, Thomas L. Madden,
+Sergei Shavirin, John L. Spouge, Yuri I. Wolf,  
+Eugene V. Koonin, and Stephen F. Altschul (2001), 
+"Improving the accuracy of PSI-BLAST protein database searches with 
+composition-based statistics and other refinements",  Nucleic Acids Res. 29:2994-3005.
+
+Query= T0837
+         (54 letters)
+
+Database: MUFOLD_04302014_AA 
+           65,819 sequences; 16,662,166 total letters
+
+Searching..................................................done
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+2QNA_A                                                                 29   0.77 
+1QGK_A                                                                 29   0.82 
+1M5N_S                                                                 29   0.82 
+1IBR_B                                                                 29   0.82 
+3W5K_A                                                                 29   0.87 
+2Q5D_A                                                                 29   0.87 
+1F59_A                                                                 29   0.87 
+1UKL_A                                                                 29   0.90 
+1GCJ_A                                                                 29   0.92 
+3FRN_A                                                                 25   9.7  
+4KP2_B                                                                 25      11
+2BMB_A                                                                 25      15
+2G54_A                                                                 25      15
+2JG4_A                                                                 25      15
+3QGB_A                                                                 25      16
+3QG9_A                                                                 25      16
+4I3B_C                                                                 25      17
+4I3C_B                                                                 25      17
+4I3D_D                                                                 25      17
+3K64_A                                                                 25      17
+4A35_A                                                                 25      17
+3E4A_A                                                                 24      19
+3CWW_A                                                                 24      19
+3E4Z_A                                                                 24      19
+2YB3_A                                                                 24      19
+4GS8_B                                                                 24      20
+2WBY_A                                                                 24      20
+3HGZ_A                                                                 24      20
+4IOF_A                                                                 24      20
+3QZ2_A                                                                 24      20
+2QM6_A                                                                 24      21
+2NQO_A                                                                 24      21
+1FH7_A                                                                 24      21
+2HIS_A                                                                 24      21
+3CUJ_A                                                                 24      21
+4GB7_A                                                                 24      26
+4KP1_A                                                                 24      26
+2GI3_A                                                                 24      27
+3AL0_A                                                                 24      28
+4CE4_h                                                                 24      28
+3MWC_A                                                                 24      29
+3HF3_A                                                                 24      29
+3DF8_A                                                                 24      30
+3GDF_A                                                                 23      34
+4LLF_E                                                                 23      37
+2XZL_A                                                                 23      39
+2JGZ_B                                                                 23      42
+4E8C_A                                                                 23      42
+1GZS_B                                                                 23      42
+1E28_A                                                                 23      43
+1A1M_A                                                                 23      43
+1A1O_A                                                                 23      43
+2ZNC_A                                                                 23      45
+4EFF_A                                                                 23      48
+2UZ0_A                                                                 23      49
+3QN3_A                                                                 23      49
+4E21_B                                                                 23      49
+4JDU_A                                                                 23      50
+3P7L_A                                                                 23      50
+3P7O_A                                                                 23      50
+3TUV_A                                                                 23      50
+4M8O_A                                                                 23      52
+2B9R_A                                                                 23      53
+4D9K_A                                                                 23      57
+4NAQ_A                                                                 23      60
+4NZ8_A                                                                 23      60
+4F5C_A                                                                 23      60
+4FKE_A                                                                 23      60
+4FKF_A                                                                 23      60
+4H5H_A                                                                 23      60
+4HOL_A                                                                 23      60
+4DHD_A                                                                 23      66
+2BTU_A                                                                 23      68
+3ZFM_A                                                                 23      69
+2FL4_A                                                                 23      70
+1AVF_A                                                                 23      72
+1A1N_A                                                                 23      72
+1J5S_A                                                                 22      76
+3ZFY_B                                                                 22      80
+1Y3Q_A                                                                 22      80
+3VLW_A                                                                 22      80
+3VZH_A                                                                 22      83
+3ODS_A                                                                 22      90
+4NPA_D                                                                 22      91
+2PMB_A                                                                 22      91
+3OOU_A                                                                 22      91
+3ODR_A                                                                 22      92
+4NHB_A                                                                 22      96
+1NWB_A                                                                 22      96
+2WZM_A                                                                 22      97
+3O2T_A                                                                 22      97
+3PZL_A                                                                 22      97
+1RPU_A                                                                 22      98
+4JZ6_A                                                                 22     100
+3O2Q_A                                                                 22     100
+3LYE_A                                                                 22     103
+3GDE_A                                                                 22     104
+2QIB_A                                                                 22     107
+3W1B_A                                                                 22     109
+3ZH3_A                                                                 22     110
+3ZH4_A                                                                 22     110
+3ECP_A                                                                 22     110
+1MM8_A                                                                 22     110
+1MUH_A                                                                 22     110
+4DM0_A                                                                 22     110
+1M9I_A                                                                 22     111
+1MUS_A                                                                 22     111
+4EAC_D                                                                 22     113
+3KUL_A                                                                 22     116
+3KD6_A                                                                 22     119
+4JEP_A                                                                 22     121
+4KH4_A                                                                 22     121
+4KH5_A                                                                 22     121
+4A5B_A                                                                 22     121
+3LLD_A                                                                 21     126
+4KH6_A                                                                 21     127
+4A4Z_A                                                                 21     127
+4BUJ_E                                                                 21     129
+4BWM_A                                                                 21     133
+3PY8_A                                                                 21     133
+1O59_A                                                                 21     135
+1SG3_A                                                                 21     135
+2B7T_A                                                                 21     135
+2L3C_A                                                                 21     135
+2L3J_A                                                                 21     135
+1JWW_A                                                                 21     138
+3O04_A                                                                 21     141
+2GX8_A                                                                 21     143
+3ZJ2_A                                                                 21     144
+2GLU_A                                                                 21     144
+3QAO_A                                                                 21     144
+4E9I_A                                                                 21     144
+3MFX_A                                                                 21     145
+1JPA_A                                                                 21     147
+2HEN_A                                                                 21     147
+4DR0_A                                                                 21     147
+3ZGX_A                                                                 21     149
+2HBM_A                                                                 21     149
+4DJF_E                                                                 21     149
+1S8E_A                                                                 21     150
+3DSC_A                                                                 21     150
+1II7_A                                                                 21     150
+3DSD_A                                                                 21     150
+4HD0_A                                                                 21     150
+1FL6_H                                                                 21     157
+1Q9Q_B                                                                 21     157
+1Q9T_B                                                                 21     157
+1NQ6_A                                                                 21     159
+1KQK_A                                                                 21     159
+4F4C_A                                                                 21     159
+1P6T_A                                                                 21     162
+2PT2_A                                                                 21     169
+2D9T_A                                                                 21     170
+3HDO_A                                                                 21     172
+4LIM_A                                                                 21     175
+2RML_A                                                                 21     175
+2WZG_A                                                                 21     175
+3JSZ_A                                                                 21     175
+4FH0_A                                                                 21     176
+2FGE_B                                                                 21     178
+1TAQ_A                                                                 21     181
+1TAU_A                                                                 21     181
+1EXN_B                                                                 21     185
+1UT8_A                                                                 21     185
+1XO1_A                                                                 21     187
+4FQ0_B                                                                 21     188
+4GC8_A                                                                 21     188
+2I00_A                                                                 21     188
+4DWN_A                                                                 21     190
+3QE6_B                                                                 21     190
+3D4J_A                                                                 21     193
+4ELU_A                                                                 21     196
+1QSS_A                                                                 21     196
+1KTQ_A                                                                 21     196
+2KTQ_A                                                                 21     196
+1QTM_A                                                                 21     196
+3KTQ_A                                                                 21     196
+4KTQ_A                                                                 21     196
+2WZF_A                                                                 21     196
+1RIQ_A                                                                 21     198
+3HTZ_A                                                                 21     198
+4HTI_A                                                                 21     200
+3PHO_B                                                                 21     201
+3PHQ_B                                                                 21     201
+3ZFX_G                                                                 21     203
+2HLE_B                                                                 21     203
+2VSM_B                                                                 21     203
+1IKO_P                                                                 21     203
+2VSK_B                                                                 21     203
+2I85_A                                                                 21     203
+1KGY_E                                                                 21     203
+2WO2_B                                                                 21     203
+3GXU_B                                                                 21     203
+3M3W_B                                                                 21     203
+3SYV_H                                                                 21     203
+4NVS_B                                                                 21     206
+3NV6_A                                                                 21     208
+4DXY_A                                                                 21     208
+1VHN_A                                                                 21     210
+1J3K_C                                                                 21     210
+3JSU_A                                                                 21     210
+3QGT_A                                                                 21     210
+3UM5_A                                                                 21     210
+3ANJ_A                                                                 21     212
+3ANK_A                                                                 21     212
+3VXD_B                                                                 21     212
+3KQF_A                                                                 21     213
+3SQ5_B                                                                 21     213
+3SQ7_B                                                                 21     213
+3SQ8_B                                                                 21     213
+4GXT_A                                                                 21     213
+4HLZ_G                                                                 21     215
+2DGU_A                                                                 21     215
+3J39_e                                                                 21     224
+3JZ3_A                                                                 21     226
+2ZNL_A                                                                 21     228
+3DKO_A                                                                 21     228
+2M85_A                                                                 21     230
+1LKX_A                                                                 21     232
+4A7F_G                                                                 21     232
+2UUD_H                                                                 21     236
+4IXJ_A                                                                 21     238
+2P82_A                                                                 21     238
+3VUP_A                                                                 21     238
+4IEG_C                                                                 21     240
+1ZT2_A                                                                 21     240
+4LFM_D                                                                 21     242
+1GON_A                                                                 21     242
+1YQT_A                                                                 21     242
+3FHO_A                                                                 21     244
+1MJE_A                                                                 21     246
+3IEC_A                                                                 21     248
+4DB1_B                                                                 21     252
+1KGZ_A                                                                 21     254
+3VZI_B                                                                 21     259
+1ZMW_A                                                                 21     259
+3H93_A                                                                 21     263
+1Q32_A                                                                 21     265
+2R2P_A                                                                 21     270
+1ZMU_A                                                                 21     270
+1ZMV_A                                                                 21     270
+2WZJ_A                                                                 21     270
+2Q3Z_A                                                                 21     274
+3LY6_A                                                                 21     274
+3S3P_A                                                                 21     274
+2PFD_B                                                                 21     276
+2HCY_A                                                                 21     276
+1HN0_A                                                                 20     279
+1MIU_A                                                                 20     279
+3KAA_A                                                                 20     279
+3KYC_B                                                                 20     281
+2I6L_A                                                                 20     281
+2INC_B                                                                 20     281
+2IND_B                                                                 20     281
+1T0S_B                                                                 20     281
+3RI7_B                                                                 20     288
+3RMK_E                                                                 20     288
+3S5H_A                                                                 20     288
+4LC6_A                                                                 20     291
+3G5B_A                                                                 20     293
+3Q8L_A                                                                 20     293
+1KJJ_A                                                                 20     298
+1EYZ_A                                                                 20     298
+1UL1_X                                                                 20     298
+3Q3O_B                                                                 20     298
+4EVZ_A                                                                 20     300
+1Y8Q_B                                                                 20     300
+3Q8M_B                                                                 20     300
+1QAT_A                                                                 20     306
+1DJG_A                                                                 20     306
+3FHT_A                                                                 20     308
+1CZS_A                                                                 20     311
+3AWD_A                                                                 20     313
+3I4K_A                                                                 20     316
+1D0N_A                                                                 20     319
+1RGI_G                                                                 20     319
+2FGH_A                                                                 20     319
+1E27_A                                                                 20     319
+4IF8_B                                                                 20     321
+4O8M_H                                                                 20     321
+3DHG_B                                                                 20     321
+3GE3_B                                                                 20     321
+3IBS_A                                                                 20     321
+4IEI_A                                                                 20     327
+4IFE_A                                                                 20     327
+3FYS_A                                                                 20     329
+4AYG_A                                                                 20     332
+1KFT_A                                                                 20     332
+3FHC_B                                                                 20     332
+2G5B_B                                                                 20     332
+2QPJ_A                                                                 20     332
+3HZ3_A                                                                 20     332
+3P4E_A                                                                 20     332
+3KLK_A                                                                 20     332
+3EWS_A                                                                 20     335
+2YK0_A                                                                 20     335
+3G0H_A                                                                 20     338
+3FAS_A                                                                 20     338
+3SQ3_D                                                                 20     338
+3FMP_B                                                                 20     343
+2EG5_A                                                                 20     343
+3KEI_A                                                                 20     346
+3EMK_A                                                                 20     346
+3ENN_A                                                                 20     346
+2E4V_A                                                                 20     349
+3SM9_A                                                                 20     349
+3ZEY_3                                                                 20     352
+1WZ9_A                                                                 20     352
+3EPE_A                                                                 20     352
+1XU8_A                                                                 20     352
+2IVX_A                                                                 20     355
+2FE0_A                                                                 20     364
+4HHE_A                                                                 20     367
+2QS0_A                                                                 20     367
+2IMG_A                                                                 20     367
+3FMO_B                                                                 20     367
+4AMC_A                                                                 20     370
+2ZZR_A                                                                 20     373
+2YG4_A                                                                 20     373
+1TLL_A                                                                 20     376
+1F20_A                                                                 20     376
+3NQ8_A                                                                 20     376
+4AJT_A                                                                 20     376
+3IYF_A                                                                 20     380
+4BFR_B                                                                 20     383
+4JVM_B                                                                 20     383
+3DU5_A                                                                 20     383
+1E3D_B                                                                 20     383
+1G3M_A                                                                 20     383
+1HY3_A                                                                 20     383
+2Y3A_A                                                                 20     383
+3V2U_C                                                                 20     383
+3V5R_B                                                                 20     383
+3J3X_B                                                                 20     386
+3PEI_A                                                                 20     386
+3U1T_A                                                                 20     386
+2OPX_A                                                                 20     389
+2IMP_A                                                                 20     389
+2G82_O                                                                 20     389
+4DGK_A                                                                 20     389
+3VYH_A                                                                 20     396
+3LC6_A                                                                 20     396
+3EPS_A                                                                 20     396
+1IRE_A                                                                 20     396
+1UGQ_A                                                                 20     396
+1UGR_A                                                                 20     396
+1UGS_A                                                                 20     396
+3N98_A                                                                 20     396
+2EER_A                                                                 20     399
+3RUW_D                                                                 20     406
+3PMO_A                                                                 20     409
+4K4S_E                                                                 20     413
+4K4U_A                                                                 20     413
+4K4W_E                                                                 20     413
+4NLO_A                                                                 20     413
+4NLP_A                                                                 20     413
+4NLQ_A                                                                 20     413
+4NLR_A                                                                 20     413
+4NLS_A                                                                 20     413
+4NLT_A                                                                 20     413
+4NLU_A                                                                 20     413
+4NLV_A                                                                 20     413
+4NLW_A                                                                 20     413
+4NLX_A                                                                 20     413
+4NLY_A                                                                 20     413
+1RDR_A                                                                 20     413
+2ZNT_A                                                                 20     413
+2IJF_A                                                                 20     413
+2IJD_1                                                                 20     413
+1RAJ_A                                                                 20     413
+2IM3_A                                                                 20     413
+1TQL_A                                                                 20     413
+3IYE_A                                                                 20     413
+3OLB_M                                                                 20     413
+3WSS_A                                                                 20     416
+2LT4_A                                                                 20     420
+3FWW_A                                                                 20     420
+1YSP_A                                                                 20     420
+2DA3_A                                                                 20     420
+4AE8_A                                                                 20     420
+4FCE_A                                                                 20     420
+4GAH_A                                                                 20     420
+4IRZ_H                                                                 20     423
+3KXR_A                                                                 20     423
+3W0L_B                                                                 20     430
+2V8U_A                                                                 20     430
+1OVM_A                                                                 20     430
+2HK9_A                                                                 20     434
+2HK8_A                                                                 20     434
+1DBW_A                                                                 20     434
+3QZ1_A                                                                 20     434
+4GIT_B                                                                 20     437
+4MTJ_A                                                                 20     437
+2I4R_B                                                                 20     437
+1Q67_A                                                                 20     437
+1R8W_A                                                                 20     437
+2WUA_A                                                                 20     441
+3LUP_A                                                                 20     441
+1UVG_A                                                                 20     445
+2DR3_A                                                                 20     445
+3NIW_A                                                                 20     445
+3RRW_B                                                                 20     445
+1B9B_A                                                                 20     448
+1VEL_A                                                                 20     452
+1DQT_A                                                                 20     456
+1IY9_A                                                                 20     464
+2V84_A                                                                 20     464
+3TB6_B                                                                 20     464
+4JDP_A                                                                 20     468
+1WY9_A                                                                 20     468
+2JIS_A                                                                 20     468
+3QGM_D                                                                 20     468
+3M5K_A                                                                 20     471
+2V6F_A                                                                 20     471
+3IZN_P                                                                 20     471
+3O6X_D                                                                 20     471
+3J02_K                                                                 20     471
+3SB6_A                                                                 20     471
+2PV7_B                                                                 20     475
+3IZL_O                                                                 20     475
+2YMV_A                                                                 20     475
+2CY8_A                                                                 20     479
+1GSU_A                                                                 20     479
+1WZU_A                                                                 20     479
+3IZI_M                                                                 20     483
+2NLK_A                                                                 20     487
+3LTM_A                                                                 20     487
+3IZM_F                                                                 20     487
+4AEE_B                                                                 20     487
+2Q3F_B                                                                 20     492
+4JW2_B                                                                 20     500
+2HY3_B                                                                 20     500
+3LTJ_A                                                                 20     500
+3QCK_A                                                                 20     500
+1UX4_A                                                                 20     504
+3GTU_B                                                                 20     504
+3QCM_A                                                                 20     504
+1SEF_A                                                                 20     508
+1XZP_A                                                                 20     508
+1CSM_A                                                                 20     513
+1UX5_A                                                                 20     513
+4AAY_G                                                                 20     513
+3GBZ_A                                                                 20     517
+3OZI_A                                                                 20     517
+3SBA_D                                                                 20     517
+4JSN_C                                                                 20     521
+2OZV_A                                                                 20     521
+1W36_B                                                                 20     521
+2H4V_A                                                                 20     521
+4JUW_Y                                                                 20     526
+4KD8_Y                                                                 20     526
+1ZN0_B                                                                 20     526
+2J7K_A                                                                 20     526
+4CSM_A                                                                 20     526
+1E4O_A                                                                 20     526
+2EFG_A                                                                 20     526
+2ECP_A                                                                 20     526
+1AHP_A                                                                 20     526
+1L5V_A                                                                 20     526
+3QCL_A                                                                 20     526
+4CR1_Y                                                                 20     530
+2OM7_L                                                                 20     530
+3IZP_E                                                                 20     530
+4A1B_J                                                                 20     530
+2WKB_A                                                                 20     534
+3OGZ_A                                                                 20     534
+3OH4_A                                                                 20     534
+4JRY_A                                                                 20     539
+1B0M_A                                                                 20     539
+2NX5_A                                                                 20     539
+1A9E_A                                                                 20     539
+1FNM_A                                                                 20     539
+3CSM_A                                                                 20     539
+1B0K_A                                                                 20     539
+2BM1_A                                                                 20     539
+2CIU_A                                                                 20     539
+1C96_A                                                                 20     539
+7ACN_A                                                                 20     539
+1B0J_A                                                                 20     539
+2PK0_A                                                                 20     539
+2BM0_A                                                                 20     539
+2BV3_A                                                                 20     539
+1CG9_A                                                                 20     539
+2FZ3_A                                                                 20     539
+5CSM_A                                                                 20     539
+5ACN_A                                                                 20     539
+3VFM_A                                                                 20     539
+3VFN_A                                                                 20     539
+3VFO_A                                                                 20     539
+3VFP_A                                                                 20     539
+4PRA_A                                                                 20     539
+2VUG_A                                                                 20     543
+2EGH_A                                                                 20     548
+1R4K_A                                                                 20     548
+3GY1_A                                                                 20     548
+3ANN_A                                                                 20     548
+2L6B_A                                                                 20     548
+3S47_B                                                                 20     548
+4IIL_A                                                                 20     552
+2VH4_A                                                                 20     557
+
+>2QNA_A
+          Length = 762
+
+ Score = 29.2 bits (64), Expect = 0.77,   Method: Composition-based stats.
+ Identities = 12/29 (41%), Positives = 17/29 (58%)
+
+Query: 2   DTRKAIDTISNLLKIKPIYIESMLQEMGP 30
+           DTR  +  + NL+KI  +Y + M   MGP
+Sbjct: 105 DTRVRVAALQNLVKIMSLYYQYMETYMGP 133
+
+
+>1QGK_A
+          Length = 876
+
+ Score = 28.8 bits (63), Expect = 0.82,   Method: Composition-based stats.
+ Identities = 12/29 (41%), Positives = 17/29 (58%)
+
+Query: 2   DTRKAIDTISNLLKIKPIYIESMLQEMGP 30
+           DTR  +  + NL+KI  +Y + M   MGP
+Sbjct: 230 DTRVRVAALQNLVKIMSLYYQYMETYMGP 258
+
+
+>1M5N_S
+          Length = 485
+
+ Score = 28.8 bits (63), Expect = 0.82,   Method: Composition-based stats.
+ Identities = 12/29 (41%), Positives = 17/29 (58%)
+
+Query: 2   DTRKAIDTISNLLKIKPIYIESMLQEMGP 30
+           DTR  +  + NL+KI  +Y + M   MGP
+Sbjct: 230 DTRVRVAALQNLVKIMSLYYQYMETYMGP 258
+
+
+>1IBR_B
+          Length = 462
+
+ Score = 28.8 bits (63), Expect = 0.82,   Method: Composition-based stats.
+ Identities = 12/29 (41%), Positives = 17/29 (58%)
+
+Query: 2   DTRKAIDTISNLLKIKPIYIESMLQEMGP 30
+           DTR  +  + NL+KI  +Y + M   MGP
+Sbjct: 230 DTRVRVAALQNLVKIMSLYYQYMETYMGP 258
+
+
+>3W5K_A
+          Length = 876
+
+ Score = 28.8 bits (63), Expect = 0.87,   Method: Composition-based stats.
+ Identities = 12/29 (41%), Positives = 17/29 (58%)
+
+Query: 2   DTRKAIDTISNLLKIKPIYIESMLQEMGP 30
+           DTR  +  + NL+KI  +Y + M   MGP
+Sbjct: 230 DTRVRVAALQNLVKIMSLYYQYMETYMGP 258
+
+
+>2Q5D_A
+          Length = 876
+
+ Score = 28.8 bits (63), Expect = 0.87,   Method: Composition-based stats.
+ Identities = 12/29 (41%), Positives = 17/29 (58%)
+
+Query: 2   DTRKAIDTISNLLKIKPIYIESMLQEMGP 30
+           DTR  +  + NL+KI  +Y + M   MGP
+Sbjct: 230 DTRVRVAALQNLVKIMSLYYQYMETYMGP 258
+
+
+>1F59_A
+          Length = 442
+
+ Score = 28.8 bits (63), Expect = 0.87,   Method: Composition-based stats.
+ Identities = 12/29 (41%), Positives = 17/29 (58%)
+
+Query: 2   DTRKAIDTISNLLKIKPIYIESMLQEMGP 30
+           DTR  +  + NL+KI  +Y + M   MGP
+Sbjct: 230 DTRVRVAALQNLVKIMSLYYQYMETYMGP 258
+
+
+>1UKL_A
+          Length = 876
+
+ Score = 28.8 bits (63), Expect = 0.90,   Method: Composition-based stats.
+ Identities = 12/29 (41%), Positives = 17/29 (58%)
+
+Query: 2   DTRKAIDTISNLLKIKPIYIESMLQEMGP 30
+           DTR  +  + NL+KI  +Y + M   MGP
+Sbjct: 230 DTRVRVAALQNLVKIMSLYYQYMETYMGP 258
+
+
+>1GCJ_A
+          Length = 460
+
+ Score = 28.8 bits (63), Expect = 0.92,   Method: Composition-based stats.
+ Identities = 12/29 (41%), Positives = 17/29 (58%)
+
+Query: 2   DTRKAIDTISNLLKIKPIYIESMLQEMGP 30
+           DTR  +  + NL+KI  +Y + M   MGP
+Sbjct: 236 DTRVRVAALQNLVKIMSLYYQYMETYMGP 264
+
+
+>3FRN_A
+          Length = 278
+
+ Score = 25.3 bits (54), Expect = 9.7,   Method: Composition-based stats.
+ Identities = 9/37 (24%), Positives = 16/37 (43%), Gaps = 5/37 (13%)
+
+Query: 15  KIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKA 51
+           ++ P Y++     MG  +   F+    NG   E  +A
+Sbjct: 214 QVVPAYVD-----MGSIKVTTFVEVLENGYLGETVRA 245
+
+
+>4KP2_B
+          Length = 441
+
+ Score = 25.3 bits (54), Expect =    11,   Method: Composition-based stats.
+ Identities = 12/27 (44%), Positives = 17/27 (62%), Gaps = 1/27 (3%)
+
+Query: 29  GPRQTQMFIRSTSNGSAEEVRKAA-YL 54
+           G    Q+FI S +NG   ++R+AA YL
+Sbjct: 312 GTEINQVFIGSCTNGRLSDLREAAKYL 338
+
+
+>2BMB_A
+          Length = 545
+
+ Score = 24.6 bits (52), Expect =    15,   Method: Composition-based stats.
+ Identities = 11/30 (36%), Positives = 18/30 (60%), Gaps = 4/30 (13%)
+
+Query: 14  LKIKPIYIESMLQEMGPRQTQMFIRSTSNG 43
+           LK K + I ++ QE+G R    +I++  NG
+Sbjct: 402 LKDKTVLIRNVGQEIGER----YIKAIDNG 427
+
+
+>2G54_A
+          Length = 990
+
+ Score = 24.6 bits (52), Expect =    15,   Method: Composition-based stats.
+ Identities = 9/45 (20%), Positives = 23/45 (51%), Gaps = 9/45 (20%)
+
+Query: 17  KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA 52
+           +PI ++ ++++M   +          + ++RS +N  AE+  + A
+Sbjct: 609 QPILLKKIIEKMATFEIDEKRFEIIKEAYMRSLNNFRAEQPHQHA 653
+
+
+>2JG4_A
+          Length = 990
+
+ Score = 24.6 bits (52), Expect =    15,   Method: Composition-based stats.
+ Identities = 9/45 (20%), Positives = 23/45 (51%), Gaps = 9/45 (20%)
+
+Query: 17  KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA 52
+           +PI ++ ++++M   +          + ++RS +N  AE+  + A
+Sbjct: 609 QPILLKKIIEKMATFEIDEKRFEIIKEAYMRSLNNFRAEQPHQHA 653
+
+
+>3QGB_A
+          Length = 413
+
+ Score = 24.6 bits (52), Expect =    16,   Method: Composition-based stats.
+ Identities = 9/20 (45%), Positives = 13/20 (65%)
+
+Query: 1   SDTRKAIDTISNLLKIKPIY 20
+           S  +K I+T++NL    PIY
+Sbjct: 391 SSGKKMIETLANLRSTHPIY 410
+
+
+>3QG9_A
+          Length = 413
+
+ Score = 24.6 bits (52), Expect =    16,   Method: Composition-based stats.
+ Identities = 9/20 (45%), Positives = 13/20 (65%)
+
+Query: 1   SDTRKAIDTISNLLKIKPIY 20
+           S  +K I+T++NL    PIY
+Sbjct: 391 SSGKKMIETLANLRSTHPIY 410
+
+
+>4I3B_C
+          Length = 139
+
+ Score = 24.6 bits (52), Expect =    17,   Method: Composition-based stats.
+ Identities = 12/43 (27%), Positives = 24/43 (55%), Gaps = 5/43 (11%)
+
+Query: 1   SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNG 43
+           SD RK + ++ NL+  K +Y+    Q+   ++T  ++R   +G
+Sbjct: 80  SDRRKGVKSVVNLVGEKLVYV----QKWDGKET-TYVREIKDG 117
+
+
+>4I3C_B
+          Length = 139
+
+ Score = 24.6 bits (52), Expect =    17,   Method: Composition-based stats.
+ Identities = 12/43 (27%), Positives = 24/43 (55%), Gaps = 5/43 (11%)
+
+Query: 1   SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNG 43
+           SD RK + ++ NL+  K +Y+    Q+   ++T  ++R   +G
+Sbjct: 80  SDRRKGVKSVVNLVGEKLVYV----QKWDGKET-TYVREIKDG 117
+
+
+>4I3D_D
+          Length = 139
+
+ Score = 24.6 bits (52), Expect =    17,   Method: Composition-based stats.
+ Identities = 12/43 (27%), Positives = 24/43 (55%), Gaps = 5/43 (11%)
+
+Query: 1   SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNG 43
+           SD RK + ++ NL+  K +Y+    Q+   ++T  ++R   +G
+Sbjct: 80  SDRRKGVKSVVNLVGEKLVYV----QKWDGKET-TYVREIKDG 117
+
+
+>3K64_A
+          Length = 412
+
+ Score = 24.6 bits (52), Expect =    17,   Method: Composition-based stats.
+ Identities = 9/20 (45%), Positives = 13/20 (65%)
+
+Query: 1   SDTRKAIDTISNLLKIKPIY 20
+           S  +K I+T++NL    PIY
+Sbjct: 390 SSGKKMIETLANLRSTHPIY 409
+
+
+>4A35_A
+          Length = 441
+
+ Score = 24.6 bits (52), Expect =    17,   Method: Composition-based stats.
+ Identities = 9/21 (42%), Positives = 15/21 (71%)
+
+Query: 2   DTRKAIDTISNLLKIKPIYIE 22
+           D  +A++ +S L K KP++IE
+Sbjct: 257 DVPEAVEWMSKLAKFKPLWIE 277
+
+
+>3E4A_A
+          Length = 1019
+
+ Score = 24.2 bits (51), Expect =    19,   Method: Composition-based stats.
+ Identities = 9/45 (20%), Positives = 23/45 (51%), Gaps = 9/45 (20%)
+
+Query: 17  KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA 52
+           +PI ++ ++++M   +          + ++RS +N  AE+  + A
+Sbjct: 638 QPILLKKIIEKMATFEIDEKRFEIIKEAYMRSLNNFRAEQPHQHA 682
+
+
+>3CWW_A
+          Length = 990
+
+ Score = 24.2 bits (51), Expect =    19,   Method: Composition-based stats.
+ Identities = 9/45 (20%), Positives = 23/45 (51%), Gaps = 9/45 (20%)
+
+Query: 17  KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA 52
+           +PI ++ ++++M   +          + ++RS +N  AE+  + A
+Sbjct: 609 QPILLKKIIEKMATFEIDEARFEIIKEAYMRSLNNFRAEQPHQHA 653
+
+
+>3E4Z_A
+          Length = 990
+
+ Score = 24.2 bits (51), Expect =    19,   Method: Composition-based stats.
+ Identities = 9/45 (20%), Positives = 23/45 (51%), Gaps = 9/45 (20%)
+
+Query: 17  KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA 52
+           +PI ++ ++++M   +          + ++RS +N  AE+  + A
+Sbjct: 609 QPILLKKIIEKMATFEIDEKRFEIIKEAYMRSLNNFRAEQPHQHA 653
+
+
+>2YB3_A
+          Length = 969
+
+ Score = 24.2 bits (51), Expect =    19,   Method: Composition-based stats.
+ Identities = 9/45 (20%), Positives = 23/45 (51%), Gaps = 9/45 (20%)
+
+Query: 17  KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA 52
+           +PI ++ ++++M   +          + ++RS +N  AE+  + A
+Sbjct: 596 QPILLKKIIEKMATFEIDEKRFEIIKEAYMRSLNNFRAEQPHQHA 640
+
+
+>4GS8_B
+          Length = 990
+
+ Score = 24.2 bits (51), Expect =    20,   Method: Composition-based stats.
+ Identities = 9/45 (20%), Positives = 23/45 (51%), Gaps = 9/45 (20%)
+
+Query: 17  KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA 52
+           +PI ++ ++++M   +          + ++RS +N  AE+  + A
+Sbjct: 609 QPILLKKIIEKMATFEIDEKRFEIIKEAYMRSLNNFRAEQPHQHA 653
+
+
+>2WBY_A
+          Length = 990
+
+ Score = 24.2 bits (51), Expect =    20,   Method: Composition-based stats.
+ Identities = 9/45 (20%), Positives = 23/45 (51%), Gaps = 9/45 (20%)
+
+Query: 17  KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA 52
+           +PI ++ ++++M   +          + ++RS +N  AE+  + A
+Sbjct: 609 QPILLKKIIEKMATFEIDEKRFEIIKEAYMRSLNNFRAEQPHQHA 653
+
+
+>3HGZ_A
+          Length = 969
+
+ Score = 24.2 bits (51), Expect =    20,   Method: Composition-based stats.
+ Identities = 9/45 (20%), Positives = 23/45 (51%), Gaps = 9/45 (20%)
+
+Query: 17  KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA 52
+           +PI ++ ++++M   +          + ++RS +N  AE+  + A
+Sbjct: 596 QPILLKKIIEKMATFEIDEKRFEIIKEAYMRSLNNFRAEQPHQHA 640
+
+
+>4IOF_A
+          Length = 990
+
+ Score = 24.2 bits (51), Expect =    20,   Method: Composition-based stats.
+ Identities = 9/45 (20%), Positives = 23/45 (51%), Gaps = 9/45 (20%)
+
+Query: 17  KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA 52
+           +PI ++ ++++M   +          + ++RS +N  AE+  + A
+Sbjct: 609 QPILLKKIIEKMATFEIDEKRFEIIKEAYMRSLNNFRAEQPHQHA 653
+
+
+>3QZ2_A
+          Length = 990
+
+ Score = 24.2 bits (51), Expect =    20,   Method: Composition-based stats.
+ Identities = 9/45 (20%), Positives = 23/45 (51%), Gaps = 9/45 (20%)
+
+Query: 17  KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA 52
+           +PI ++ ++++M   +          + ++RS +N  AE+  + A
+Sbjct: 609 QPILLKKIIEKMATFEIDEKRFEIIKEAYMRSLNNFRAEQPHQHA 653
+
+
+>2QM6_A
+          Length = 377
+
+ Score = 24.2 bits (51), Expect =    21,   Method: Composition-based stats.
+ Identities = 12/38 (31%), Positives = 22/38 (57%), Gaps = 4/38 (10%)
+
+Query: 21  IESMLQEMGPRQ-TQMF---IRSTSNGSAEEVRKAAYL 54
+           +E+ML++ G ++ +Q+    I+   NG A   R+A  L
+Sbjct: 141 MEAMLKKYGTKKLSQLIDPAIKLAENGYAISQRQAETL 178
+
+
+>2NQO_A
+          Length = 376
+
+ Score = 24.2 bits (51), Expect =    21,   Method: Composition-based stats.
+ Identities = 12/38 (31%), Positives = 22/38 (57%), Gaps = 4/38 (10%)
+
+Query: 21  IESMLQEMGPRQ-TQMF---IRSTSNGSAEEVRKAAYL 54
+           +E+ML++ G ++ +Q+    I+   NG A   R+A  L
+Sbjct: 140 MEAMLKKYGTKKLSQLIDPAIKLAENGYAISQRQAETL 177
+
+
+>1FH7_A
+          Length = 312
+
+ Score = 24.2 bits (51), Expect =    21,   Method: Composition-based stats.
+ Identities = 9/24 (37%), Positives = 11/24 (45%)
+
+Query: 29  GPRQTQMFIRSTSNGSAEEVRKAA 52
+           G RQ   F +   NG  E   +AA
+Sbjct: 134 GRRQDSAFQQKLGNGYIETAFRAA 157
+
+
+>2HIS_A
+          Length = 312
+
+ Score = 24.2 bits (51), Expect =    21,   Method: Composition-based stats.
+ Identities = 9/24 (37%), Positives = 11/24 (45%)
+
+Query: 29  GPRQTQMFIRSTSNGSAEEVRKAA 52
+           G RQ   F +   NG  E   +AA
+Sbjct: 134 GRRQDSAFQQKLGNGYIETAFRAA 157
+
+
+>3CUJ_A
+          Length = 315
+
+ Score = 24.2 bits (51), Expect =    21,   Method: Composition-based stats.
+ Identities = 9/24 (37%), Positives = 11/24 (45%)
+
+Query: 29  GPRQTQMFIRSTSNGSAEEVRKAA 52
+           G RQ   F +   NG  E   +AA
+Sbjct: 134 GRRQDSAFQQKLGNGYIETAFRAA 157
+
+
+>4GB7_A
+          Length = 422
+
+ Score = 23.8 bits (50), Expect =    26,   Method: Composition-based stats.
+ Identities = 11/31 (35%), Positives = 15/31 (48%)
+
+Query: 18  PIYIESMLQEMGPRQTQMFIRSTSNGSAEEV 48
+           P+ I  MLQE         + S +NGS E +
+Sbjct: 227 PMKIYDMLQEAKETAPPGSVFSYNNGSTETL 257
+
+
+>4KP1_A
+          Length = 445
+
+ Score = 23.8 bits (50), Expect =    26,   Method: Composition-based stats.
+ Identities = 13/45 (28%), Positives = 23/45 (51%), Gaps = 8/45 (17%)
+
+Query: 15  KIKPIY--------IESMLQEMGPRQTQMFIRSTSNGSAEEVRKA 51
+           KI+P++        ++   +  G    Q+FI S +NG  E++R A
+Sbjct: 292 KIEPVFACPHNVDNVKQAREVAGKPIDQVFIGSCTNGRLEDLRMA 336
+
+
+>2GI3_A
+          Length = 476
+
+ Score = 23.8 bits (50), Expect =    27,   Method: Composition-based stats.
+ Identities = 12/40 (30%), Positives = 23/40 (57%), Gaps = 2/40 (5%)
+
+Query: 11  SNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRK 50
+           SNL +   +     ++E G R  +M++++ + G  EEVR+
+Sbjct: 306 SNLARFDGVKYGLRIKEKGLR--EMYMKTRNVGFGEEVRR 343
+
+
+>3AL0_A
+          Length = 475
+
+ Score = 23.8 bits (50), Expect =    28,   Method: Composition-based stats.
+ Identities = 12/40 (30%), Positives = 23/40 (57%), Gaps = 2/40 (5%)
+
+Query: 11  SNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRK 50
+           SNL +   +     ++E G R  +M++++ + G  EEVR+
+Sbjct: 305 SNLARFDGVKYGLRIKEKGLR--EMYMKTRNVGFGEEVRR 342
+
+
+>4CE4_h
+          Length = 298
+
+ Score = 23.8 bits (50), Expect =    28,   Method: Composition-based stats.
+ Identities = 9/18 (50%), Positives = 13/18 (72%)
+
+Query: 21  IESMLQEMGPRQTQMFIR 38
+           I ++LQ  GP +T +FIR
+Sbjct: 165 IGALLQSSGPERTALFIR 182
+
+
+>3MWC_A
+          Length = 400
+
+ Score = 23.8 bits (50), Expect =    29,   Method: Composition-based stats.
+ Identities = 11/32 (34%), Positives = 20/32 (62%), Gaps = 2/32 (6%)
+
+Query: 2   DTRKAIDTISNLLKIKPIYIESM--LQEMGPR 31
+           +T KA+D    L   +P++ E++  L+E+G R
+Sbjct: 222 ETFKAMDAAKCLFHEQPLHYEALLDLKELGER 253
+
+
+>3HF3_A
+          Length = 349
+
+ Score = 23.8 bits (50), Expect =    29,   Method: Composition-based stats.
+ Identities = 8/38 (21%), Positives = 22/38 (57%), Gaps = 1/38 (2%)
+
+Query: 9   TISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAE 46
+           ++ N ++  P+ +   ++E+ PR+  +F+R ++    E
+Sbjct: 197 SLENRMRF-PLQVAQAVREVVPRELPLFVRVSATDWGE 233
+
+
+>3DF8_A
+          Length = 111
+
+ Score = 23.8 bits (50), Expect =    30,   Method: Composition-based stats.
+ Identities = 9/26 (34%), Positives = 14/26 (53%)
+
+Query: 22 ESMLQEMGPRQTQMFIRSTSNGSAEE 47
+          ES+L  +G + T + I    NGS  +
+Sbjct: 18 ESVLHLLGKKYTMLIISVLGNGSTRQ 43
+
+
+
+ Score = 18.4 bits (36), Expect =  1349,   Method: Composition-based stats.
+ Identities = 16/46 (34%), Positives = 22/46 (47%), Gaps = 4/46 (8%)
+
+Query: 2  DTRKAID---TISNLLKIK-PIYIESMLQEMGPRQTQMFIRSTSNG 43
+          DT   ID   ++ +LL  K  + I S+L     RQ    IRS+  G
+Sbjct: 9  DTEICIDPSESVLHLLGKKYTMLIISVLGNGSTRQNFNDIRSSIPG 54
+
+
+>3GDF_A
+          Length = 267
+
+ Score = 23.4 bits (49), Expect =    34,   Method: Composition-based stats.
+ Identities = 15/43 (34%), Positives = 24/43 (55%), Gaps = 5/43 (11%)
+
+Query: 16  IKPIYIESMLQEMGPRQTQMFIRST----SNGSAEEVRKAAYL 54
+           I P YI++ L +  P++TQ    S      +G A+E+ K AY+
+Sbjct: 202 ISPGYIDTGLSDFVPKETQQLWHSMIPMGRDGLAKEL-KGAYV 243
+
+
+>4LLF_E
+          Length = 380
+
+ Score = 23.4 bits (49), Expect =    37,   Method: Composition-based stats.
+ Identities = 12/42 (28%), Positives = 20/42 (47%), Gaps = 2/42 (4%)
+
+Query: 2   DTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNG 43
+           D R A+   ++L +I P  I  +   +     + FI  TS+G
+Sbjct: 182 DDRAALANYAHLSEISPWAITKL--TVPTDNVKRFISDTSSG 221
+
+
+>2XZL_A
+          Length = 802
+
+ Score = 23.4 bits (49), Expect =    39,   Method: Composition-based stats.
+ Identities = 14/48 (29%), Positives = 22/48 (45%), Gaps = 5/48 (10%)
+
+Query: 4   RKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKA 51
+           R A   + NLLK+K       + E+    T+ F++      AE + KA
+Sbjct: 457 RGAKGELKNLLKLK-----DEVGELSASDTKRFVKLVRKTEAEILNKA 499
+
+
+>2JGZ_B
+          Length = 260
+
+ Score = 23.4 bits (49), Expect =    42,   Method: Composition-based stats.
+ Identities = 10/40 (25%), Positives = 20/40 (50%), Gaps = 1/40 (2%)
+
+Query: 12  NLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAE-EVRK 50
+            L+ +  ++I S  +EM P +   F   T N   + ++R+
+Sbjct: 79  QLVGVTAMFIASKYEEMYPPEIGDFAFVTDNTYTKHQIRQ 118
+
+
+>4E8C_A
+          Length = 595
+
+ Score = 23.4 bits (49), Expect =    42,   Method: Composition-based stats.
+ Identities = 12/45 (26%), Positives = 26/45 (57%), Gaps = 3/45 (6%)
+
+Query: 5   KAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVR 49
+           + +D++S+   ++ +Y + M +E+G     +  R+ +N  AEE R
+Sbjct: 359 ETLDSLSS--PVESLYPQKM-EELGQSYGYLLYRTETNWDAEEER 400
+
+
+
+ Score = 18.0 bits (35), Expect =  1762,   Method: Composition-based stats.
+ Identities = 5/10 (50%), Positives = 9/10 (90%)
+
+Query: 15  KIKPIYIESM 24
+           +++P+Y ESM
+Sbjct: 335 QLEPLYKESM 344
+
+
+
+ Score = 15.7 bits (29), Expect =  7588,   Method: Composition-based stats.
+ Identities = 6/14 (42%), Positives = 7/14 (50%)
+
+Query: 35  MFIRSTSNGSAEEV 48
+           M IRS+     E V
+Sbjct: 113 MRIRSSDPAYIEAV 126
+
+
+>1GZS_B
+          Length = 165
+
+ Score = 23.4 bits (49), Expect =    42,   Method: Composition-based stats.
+ Identities = 16/39 (41%), Positives = 18/39 (46%), Gaps = 9/39 (23%)
+
+Query: 1  SDTRKAI---------DTISNLLKIKPIYIESMLQEMGP 30
+          S TR+AI         D   NLL  K I I   LQE+G 
+Sbjct: 33 SQTREAILSAVYSKNKDQCCNLLISKGINIAPFLQEIGE 71
+
+
+>1E28_A
+          Length = 276
+
+ Score = 23.4 bits (49), Expect =    43,   Method: Composition-based stats.
+ Identities = 11/35 (31%), Positives = 18/35 (51%), Gaps = 1/35 (2%)
+
+Query: 17 KPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKA 51
+          +P +IE    E   R TQ+F ++ +    E +R A
+Sbjct: 48 RPPWIEQEGPEYWDRNTQIF-KTNTQTYRENLRIA 81
+
+
+>1A1M_A
+          Length = 278
+
+ Score = 23.4 bits (49), Expect =    43,   Method: Composition-based stats.
+ Identities = 11/35 (31%), Positives = 18/35 (51%), Gaps = 1/35 (2%)
+
+Query: 17 KPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKA 51
+          +P +IE    E   R TQ+F ++ +    E +R A
+Sbjct: 48 RPPWIEQEGPEYWDRNTQIF-KTNTQTYRENLRIA 81
+
+
+>1A1O_A
+          Length = 276
+
+ Score = 23.4 bits (49), Expect =    43,   Method: Composition-based stats.
+ Identities = 11/35 (31%), Positives = 18/35 (51%), Gaps = 1/35 (2%)
+
+Query: 17 KPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKA 51
+          +P +IE    E   R TQ+F ++ +    E +R A
+Sbjct: 48 RPPWIEQEGPEYWDRNTQIF-KTNTQTYRENLRIA 81
+
+
+>2ZNC_A
+          Length = 258
+
+ Score = 23.0 bits (48), Expect =    45,   Method: Composition-based stats.
+ Identities = 11/23 (47%), Positives = 14/23 (60%)
+
+Query: 22  ESMLQEMGPRQTQMFIRSTSNGS 44
+           ES LQ+M P  T+M+     NGS
+Sbjct: 173 ESSLQDMLPPSTKMYTYFRYNGS 195
+
+
+>4EFF_A
+          Length = 420
+
+ Score = 23.0 bits (48), Expect =    48,   Method: Composition-based stats.
+ Identities = 11/35 (31%), Positives = 18/35 (51%), Gaps = 2/35 (5%)
+
+Query: 18  PIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAA 52
+           P    S +QE+G  + +  IR+  NG  E ++ A 
+Sbjct: 324 PELRASWVQELGEMRDR--IRAMRNGLVERLKAAG 356
+
+
+>2UZ0_A
+          Length = 263
+
+ Score = 23.0 bits (48), Expect =    49,   Method: Composition-based stats.
+ Identities = 10/43 (23%), Positives = 19/43 (44%)
+
+Query: 1   SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNG 43
+           +DT+   D  + L +  P  ++     M  ++ + FI   S G
+Sbjct: 85  TDTQYGFDYYTALAEELPQVLKRFFPNMTSKREKTFIAGLSMG 127
+
+
+>3QN3_A
+          Length = 417
+
+ Score = 23.0 bits (48), Expect =    49,   Method: Composition-based stats.
+ Identities = 12/46 (26%), Positives = 21/46 (45%), Gaps = 5/46 (10%)
+
+Query: 7   IDTISNLLKIKPIYIESMLQEM-----GPRQTQMFIRSTSNGSAEE 47
+           I  ++N + IKP  I ++ Q M       R     + S  +G +E+
+Sbjct: 325 IKKMANAVLIKPNQIGTITQTMRTVRLAQRNNYKCVMSHRSGESED 370
+
+
+>4E21_B
+          Length = 358
+
+ Score = 23.0 bits (48), Expect =    49,   Method: Composition-based stats.
+ Identities = 10/40 (25%), Positives = 20/40 (50%), Gaps = 2/40 (5%)
+
+Query: 14  LKIKPIYIESMLQEMGP--RQTQMFIRSTSNGSAEEVRKA 51
+           L +    ++SMLQ M P      + I   ++   +++R+A
+Sbjct: 87  LMVPAAVVDSMLQRMTPLLAANDIVIDGGNSHYQDDIRRA 126
+
+
+
+ Score = 16.1 bits (30), Expect =  5762,   Method: Composition-based stats.
+ Identities = 5/15 (33%), Positives = 7/15 (46%)
+
+Query: 29  GPRQTQMFIRSTSNG 43
+           GP     F++   NG
+Sbjct: 201 GPSGAGHFVKMVHNG 215
+
+
+>4JDU_A
+          Length = 215
+
+ Score = 23.0 bits (48), Expect =    50,   Method: Composition-based stats.
+ Identities = 8/26 (30%), Positives = 16/26 (61%)
+
+Query: 22  ESMLQEMGPRQTQMFIRSTSNGSAEE 47
+           E+M QE+      ++IR  ++ SA++
+Sbjct: 175 EAMCQEIAKEGNGIYIRVDNSNSAQK 200
+
+
+>3P7L_A
+          Length = 978
+
+ Score = 23.0 bits (48), Expect =    50,   Method: Composition-based stats.
+ Identities = 9/45 (20%), Positives = 22/45 (48%), Gaps = 9/45 (20%)
+
+Query: 17  KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA 52
+           +PI ++ + ++M   +          + ++RS +N  AE+  + A
+Sbjct: 597 QPILLKKITEKMATFEIDKKRFEIIKEAYMRSLNNFRAEQPHQHA 641
+
+
+>3P7O_A
+          Length = 1019
+
+ Score = 23.0 bits (48), Expect =    50,   Method: Composition-based stats.
+ Identities = 9/45 (20%), Positives = 22/45 (48%), Gaps = 9/45 (20%)
+
+Query: 17  KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA 52
+           +PI ++ + ++M   +          + ++RS +N  AE+  + A
+Sbjct: 638 QPILLKKITEKMATFEIDKKRFEIIKEAYMRSLNNFRAEQPHQHA 682
+
+
+>3TUV_A
+          Length = 1019
+
+ Score = 23.0 bits (48), Expect =    50,   Method: Composition-based stats.
+ Identities = 9/45 (20%), Positives = 22/45 (48%), Gaps = 9/45 (20%)
+
+Query: 17  KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA 52
+           +PI ++ + ++M   +          + ++RS +N  AE+  + A
+Sbjct: 638 QPILLKKITEKMATFEIDKKRFEIIKEAYMRSLNNFRAEQPHQHA 682
+
+
+>4M8O_A
+          Length = 1228
+
+ Score = 23.0 bits (48), Expect =    52,   Method: Composition-based stats.
+ Identities = 11/39 (28%), Positives = 20/39 (51%), Gaps = 1/39 (2%)
+
+Query: 10  ISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEV 48
+           + N  KI P  I+ +LQE+ P   +  +   +  S ++V
+Sbjct: 570 LKNEFKIDPSAIDELLQEL-PEALKFSVEVENKSSVDKV 607
+
+
+
+ Score = 16.9 bits (32), Expect =  3435,   Method: Composition-based stats.
+ Identities = 6/18 (33%), Positives = 10/18 (55%)
+
+Query: 35 MFIRSTSNGSAEEVRKAA 52
+          MF +  +NG +   R +A
+Sbjct: 2  MFGKKKNNGGSSTARYSA 19
+
+
+>2B9R_A
+          Length = 269
+
+ Score = 23.0 bits (48), Expect =    53,   Method: Composition-based stats.
+ Identities = 10/40 (25%), Positives = 20/40 (50%), Gaps = 1/40 (2%)
+
+Query: 12  NLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAE-EVRK 50
+            L+ +  ++I S  +EM P +   F   T N   + ++R+
+Sbjct: 81  QLVGVTAMFIASKYEEMYPPEIGDFAFVTDNTYTKHQIRQ 120
+
+
+>4D9K_A
+          Length = 398
+
+ Score = 22.6 bits (47), Expect =    57,   Method: Composition-based stats.
+ Identities = 7/24 (29%), Positives = 14/24 (58%)
+
+Query: 6  AIDTISNLLKIKPIYIESMLQEMG 29
+          A+D ++NL  +K I ++   +  G
+Sbjct: 49 ALDDLANLFGVKKILVKDESKRFG 72
+
+
+>4NAQ_A
+          Length = 907
+
+ Score = 22.6 bits (47), Expect =    60,   Method: Composition-based stats.
+ Identities = 12/40 (30%), Positives = 17/40 (42%), Gaps = 3/40 (7%)
+
+Query: 18  PIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRK---AAYL 54
+           P  I  M   +   +    IR  SN   E++ K   A+YL
+Sbjct: 397 PAQISEMFDSISYSKGASVIRMLSNFLTEDLFKEGLASYL 436
+
+
+>4NZ8_A
+          Length = 907
+
+ Score = 22.6 bits (47), Expect =    60,   Method: Composition-based stats.
+ Identities = 12/40 (30%), Positives = 17/40 (42%), Gaps = 3/40 (7%)
+
+Query: 18  PIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRK---AAYL 54
+           P  I  M   +   +    IR  SN   E++ K   A+YL
+Sbjct: 397 PAQISEMFDSISYSKGASVIRMLSNFLTEDLFKEGLASYL 436
+
+
+>4F5C_A
+          Length = 959
+
+ Score = 22.6 bits (47), Expect =    60,   Method: Composition-based stats.
+ Identities = 12/40 (30%), Positives = 17/40 (42%), Gaps = 3/40 (7%)
+
+Query: 18  PIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRK---AAYL 54
+           P  I  M   +   +    IR  SN   E++ K   A+YL
+Sbjct: 442 PAQISEMFDSISYSKGASVIRMLSNFLTEDLFKEGLASYL 481
+
+
+>4FKE_A
+          Length = 909
+
+ Score = 22.6 bits (47), Expect =    60,   Method: Composition-based stats.
+ Identities = 12/40 (30%), Positives = 17/40 (42%), Gaps = 3/40 (7%)
+
+Query: 18  PIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRK---AAYL 54
+           P  I  M   +   +    IR  SN   E++ K   A+YL
+Sbjct: 399 PAQISEMFDSISYSKGASVIRMLSNFLTEDLFKEGLASYL 438
+
+
+>4FKF_A
+          Length = 909
+
+ Score = 22.6 bits (47), Expect =    60,   Method: Composition-based stats.
+ Identities = 12/40 (30%), Positives = 17/40 (42%), Gaps = 3/40 (7%)
+
+Query: 18  PIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRK---AAYL 54
+           P  I  M   +   +    IR  SN   E++ K   A+YL
+Sbjct: 399 PAQISEMFDSISYSKGASVIRMLSNFLTEDLFKEGLASYL 438
+
+
+>4H5H_A
+          Length = 908
+
+ Score = 22.6 bits (47), Expect =    60,   Method: Composition-based stats.
+ Identities = 12/40 (30%), Positives = 17/40 (42%), Gaps = 3/40 (7%)
+
+Query: 18  PIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRK---AAYL 54
+           P  I  M   +   +    IR  SN   E++ K   A+YL
+Sbjct: 398 PAQISEMFDSISYSKGASVIRMLSNFLTEDLFKEGLASYL 437
+
+
+>4HOL_A
+          Length = 908
+
+ Score = 22.6 bits (47), Expect =    60,   Method: Composition-based stats.
+ Identities = 12/40 (30%), Positives = 17/40 (42%), Gaps = 3/40 (7%)
+
+Query: 18  PIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRK---AAYL 54
+           P  I  M   +   +    IR  SN   E++ K   A+YL
+Sbjct: 398 PAQISEMFDSISYSKGASVIRMLSNFLTEDLFKEGLASYL 437
+
+
+>4DHD_A
+          Length = 358
+
+ Score = 22.6 bits (47), Expect =    66,   Method: Composition-based stats.
+ Identities = 9/31 (29%), Positives = 16/31 (51%)
+
+Query: 21 IESMLQEMGPRQTQMFIRSTSNGSAEEVRKA 51
+          +  + Q+ G    +  +R  S G AE+ R+A
+Sbjct: 6  VSRLHQKYGAEVEKALVRYLSIGLAEDFREA 36
+
+
+>2BTU_A
+          Length = 346
+
+ Score = 22.6 bits (47), Expect =    68,   Method: Composition-based stats.
+ Identities = 11/23 (47%), Positives = 17/23 (73%), Gaps = 3/23 (13%)
+
+Query: 15  KIKPIYIESMLQEMGP-RQTQMF 36
+           KI+PI+  S+LQE+G   + +MF
+Sbjct: 274 KIQPIF--SLLQEVGKLEEKEMF 294
+
+
+
+ Score = 15.7 bits (29), Expect =  7463,   Method: Composition-based stats.
+ Identities = 8/34 (23%), Positives = 15/34 (44%), Gaps = 2/34 (5%)
+
+Query: 17  KP--IYIESMLQEMGPRQTQMFIRSTSNGSAEEV 48
+           KP  IY++ +L+ +   +       T  G  E +
+Sbjct: 223 KPTKIYVKPILELLKNHEVYGMAHITGGGFIENI 256
+
+
+>3ZFM_A
+          Length = 298
+
+ Score = 22.6 bits (47), Expect =    69,   Method: Composition-based stats.
+ Identities = 13/63 (20%), Positives = 27/63 (42%), Gaps = 13/63 (20%)
+
+Query: 1  SDTRKAIDTISNLLKIKPIYIESM-------------LQEMGPRQTQMFIRSTSNGSAEE 47
+          SD  +A+   +  + I  + IE +             L+  G R+  + I++  +G  E+
+Sbjct: 3  SDPNEAVREFAKEIDISCVKIEQVIGAGEFGEVCSGHLKLPGKREIFVAIKTLKSGYTEK 62
+
+Query: 48 VRK 50
+           R+
+Sbjct: 63 QRR 65
+
+
+>2FL4_A
+          Length = 149
+
+ Score = 22.6 bits (47), Expect =    70,   Method: Composition-based stats.
+ Identities = 9/28 (32%), Positives = 17/28 (60%), Gaps = 1/28 (3%)
+
+Query: 1  SDTRKAIDTISNLLKIKPIYIESMLQEM 28
+          SD RKA++ +  +   +  +IESM + +
+Sbjct: 11 SDNRKAVENL-QVFAEQQAFIESMAENL 37
+
+
+>1AVF_A
+          Length = 329
+
+ Score = 22.6 bits (47), Expect =    72,   Method: Composition-based stats.
+ Identities = 8/28 (28%), Positives = 18/28 (64%)
+
+Query: 7   IDTISNLLKIKPIYIESMLQEMGPRQTQ 34
+           +DT ++LL +   Y+ ++LQ  G ++ +
+Sbjct: 216 VDTGTSLLTVPQQYMSALLQATGAQEDE 243
+
+
+>1A1N_A
+          Length = 276
+
+ Score = 22.6 bits (47), Expect =    72,   Method: Composition-based stats.
+ Identities = 10/33 (30%), Positives = 17/33 (51%), Gaps = 1/33 (3%)
+
+Query: 17 KPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVR 49
+          +P +IE    E   R TQ+F ++ +    E +R
+Sbjct: 48 RPPWIEQEGPEYWDRNTQIF-KTNTQTYRESLR 79
+
+
+>1J5S_A
+          Length = 463
+
+ Score = 22.3 bits (46), Expect =    76,   Method: Composition-based stats.
+ Identities = 12/27 (44%), Positives = 13/27 (48%), Gaps = 1/27 (3%)
+
+Query: 25  LQEMGPRQTQMFIRSTSNGSAEEVRKA 51
+           L   G R T+MF R  SN   E V K 
+Sbjct: 413 LLSFGSR-TEMFRRVLSNVVGEMVEKG 438
+
+
+>3ZFY_B
+          Length = 298
+
+ Score = 22.3 bits (46), Expect =    80,   Method: Composition-based stats.
+ Identities = 12/63 (19%), Positives = 26/63 (41%), Gaps = 13/63 (20%)
+
+Query: 1  SDTRKAIDTISNLLKIKPIYIESM-------------LQEMGPRQTQMFIRSTSNGSAEE 47
+          SD  +A+   +  + +  + IE +             L++ G R+  + I++   G  E 
+Sbjct: 3  SDPNEAVREFAKEIDVSCVKIEEVIGAGEFGEVCRGRLKQPGRREVFVAIKTLKVGYTER 62
+
+Query: 48 VRK 50
+           R+
+Sbjct: 63 QRR 65
+
+
+>1Y3Q_A
+          Length = 490
+
+ Score = 22.3 bits (46), Expect =    80,   Method: Composition-based stats.
+ Identities = 7/20 (35%), Positives = 13/20 (65%)
+
+Query: 17  KPIYIESMLQEMGPRQTQMF 36
+           KP+Y +++L+   P   QM+
+Sbjct: 360 KPVYKDTVLKAAQPVNNQMY 379
+
+
+>3VLW_A
+          Length = 502
+
+ Score = 22.3 bits (46), Expect =    80,   Method: Composition-based stats.
+ Identities = 7/20 (35%), Positives = 13/20 (65%)
+
+Query: 17  KPIYIESMLQEMGPRQTQMF 36
+           KP+Y +++L+   P   QM+
+Sbjct: 360 KPVYKDTVLKAAQPVNNQMY 379
+
+
+>3VZH_A
+          Length = 244
+
+ Score = 22.3 bits (46), Expect =    83,   Method: Composition-based stats.
+ Identities = 12/55 (21%), Positives = 31/55 (56%), Gaps = 3/55 (5%)
+
+Query: 3  TRKAIDTISNLLKIKPIY--IESMLQEMGPRQTQM-FIRSTSNGSAEEVRKAAYL 54
+          TR+A++ I + +  KP +  I + ++ +   QT++  +R+  +  + ++   +YL
+Sbjct: 38 TRQALNGIVDAIYYKPTFTNIVTEVKVINQIQTELQGVRALLHDYSADLSYVSYL 92
+
+
+>3ODS_A
+          Length = 415
+
+ Score = 22.3 bits (46), Expect =    90,   Method: Composition-based stats.
+ Identities = 4/21 (19%), Positives = 16/21 (76%)
+
+Query: 6   AIDTISNLLKIKPIYIESMLQ 26
+           A+ +++N+ + +P+++  ++Q
+Sbjct: 276 ALGSLANIARQRPMFMSEVIQ 296
+
+
+>4NPA_D
+          Length = 456
+
+ Score = 22.3 bits (46), Expect =    91,   Method: Composition-based stats.
+ Identities = 7/24 (29%), Positives = 14/24 (58%)
+
+Query: 29  GPRQTQMFIRSTSNGSAEEVRKAA 52
+           GP+Q++ + RS      + + +AA
+Sbjct: 287 GPKQSEAYFRSLDKFITDTLGEAA 310
+
+
+>2PMB_A
+          Length = 462
+
+ Score = 22.3 bits (46), Expect =    91,   Method: Composition-based stats.
+ Identities = 7/24 (29%), Positives = 14/24 (58%)
+
+Query: 29  GPRQTQMFIRSTSNGSAEEVRKAA 52
+           GP+Q++ + RS      + + +AA
+Sbjct: 287 GPKQSEAYFRSLDKFITDTLGEAA 310
+
+
+>3OOU_A
+          Length = 108
+
+ Score = 22.3 bits (46), Expect =    91,   Method: Composition-based stats.
+ Identities = 13/46 (28%), Positives = 22/46 (47%), Gaps = 1/46 (2%)
+
+Query: 6  AIDTISNLLKIKPIYIESMLQ-EMGPRQTQMFIRSTSNGSAEEVRK 50
+          ++ T+ N   I  +Y+  + Q EMG   T    R   N + EE+ +
+Sbjct: 23 SLKTLGNDFHINAVYLGQLFQKEMGEHFTDYLNRYRVNYAKEELLQ 68
+
+
+>3ODR_A
+          Length = 415
+
+ Score = 22.3 bits (46), Expect =    92,   Method: Composition-based stats.
+ Identities = 4/21 (19%), Positives = 16/21 (76%)
+
+Query: 6   AIDTISNLLKIKPIYIESMLQ 26
+           A+ +++N+ + +P+++  ++Q
+Sbjct: 276 ALGSLANIARQRPMFMSEVIQ 296
+
+
+>4NHB_A
+          Length = 341
+
+ Score = 21.9 bits (45), Expect =    96,   Method: Composition-based stats.
+ Identities = 11/37 (29%), Positives = 19/37 (51%)
+
+Query: 12  NLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEV 48
+           ++L I  +YI     +  P Q Q +I   +  SA++V
+Sbjct: 233 HILVIHSLYINDKFFKSLPEQDQKWIEEAAKRSADDV 269
+
+
+>1NWB_A
+          Length = 124
+
+ Score = 21.9 bits (45), Expect =    96,   Method: Composition-based stats.
+ Identities = 8/23 (34%), Positives = 13/23 (56%)
+
+Query: 30 PRQTQMFIRSTSNGSAEEVRKAA 52
+            Q Q FI   ++ + EE++K A
+Sbjct: 2  QEQAQQFIFKVTDKAVEEIKKVA 24
+
+
+>2WZM_A
+          Length = 283
+
+ Score = 21.9 bits (45), Expect =    97,   Method: Composition-based stats.
+ Identities = 7/16 (43%), Positives = 11/16 (68%)
+
+Query: 2   DTRKAIDTISNLLKIK 17
+           DT K +D+   L+K+K
+Sbjct: 121 DTSKYVDSWGGLMKVK 136
+
+
+>3O2T_A
+          Length = 386
+
+ Score = 21.9 bits (45), Expect =    97,   Method: Composition-based stats.
+ Identities = 4/21 (19%), Positives = 16/21 (76%)
+
+Query: 6   AIDTISNLLKIKPIYIESMLQ 26
+           A+ +++N+ + +P+++  ++Q
+Sbjct: 247 ALGSLANIARQRPMFMSEVIQ 267
+
+
+>3PZL_A
+          Length = 313
+
+ Score = 21.9 bits (45), Expect =    97,   Method: Composition-based stats.
+ Identities = 11/54 (20%), Positives = 24/54 (44%), Gaps = 6/54 (11%)
+
+Query: 1   SDTRKAIDTIS------NLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEV 48
+           +D R+ I+ +S      ++++  P+Y       +  +  Q+FI S      E +
+Sbjct: 252 TDVRRLIERLSYKAVGFDIVEFSPLYDNGNTSMLAAKLLQVFIASREKYYKEHI 305
+
+
+>1RPU_A
+          Length = 172
+
+ Score = 21.9 bits (45), Expect =    98,   Method: Composition-based stats.
+ Identities = 9/31 (29%), Positives = 16/31 (51%)
+
+Query: 6   AIDTISNLLKIKPIYIESMLQEMGPRQTQMF 36
+           AI +   LL++ P+ +ES +    P   + F
+Sbjct: 137 AIRSKQELLQLTPVEVESNVSRGCPEGIETF 167
+
+
+>4JZ6_A
+          Length = 500
+
+ Score = 21.9 bits (45), Expect =   100,   Method: Composition-based stats.
+ Identities = 15/55 (27%), Positives = 31/55 (56%), Gaps = 3/55 (5%)
+
+Query: 1   SDTRKAIDTISNLLKIK-PIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAAYL 54
+           S+ R+ +  ++++++ K P +IE M  E+G   + ++     + SA   R+AA L
+Sbjct: 79  SERRRLLLKVADVMESKTPKFIEVMAMEVGA--SALWAGFNVHASANVFREAASL 131
+
+
+>3O2Q_A
+          Length = 351
+
+ Score = 21.9 bits (45), Expect =   100,   Method: Composition-based stats.
+ Identities = 4/21 (19%), Positives = 16/21 (76%)
+
+Query: 6   AIDTISNLLKIKPIYIESMLQ 26
+           A+ +++N+ + +P+++  ++Q
+Sbjct: 247 ALGSLANIARQRPMFMSEVIQ 267
+
+
+>3LYE_A
+          Length = 307
+
+ Score = 21.9 bits (45), Expect =   103,   Method: Composition-based stats.
+ Identities = 14/43 (32%), Positives = 17/43 (39%), Gaps = 5/43 (11%)
+
+Query: 2   DTRKAIDTISNLLKIKPIYIESMLQEMG-----PRQTQMFIRS 39
+           D R   D I+NL    P  I  M    G      R  + +IRS
+Sbjct: 73  DMRDNADMIANLDPFGPPLIADMDTGYGGPIMVARTVEHYIRS 115
+
+
+>3GDE_A
+          Length = 558
+
+ Score = 21.9 bits (45), Expect =   104,   Method: Composition-based stats.
+ Identities = 8/22 (36%), Positives = 14/22 (63%)
+
+Query: 8  DTISNLLKIKPIYIESMLQEMG 29
+          + + N+  +K   IESM++E G
+Sbjct: 71 EALENVSGVKRSEIESMIREYG 92
+
+
+>2QIB_A
+          Length = 231
+
+ Score = 21.9 bits (45), Expect =   107,   Method: Composition-based stats.
+ Identities = 14/50 (28%), Positives = 24/50 (48%), Gaps = 7/50 (14%)
+
+Query: 11  SNLLKIKPIYIESMLQEMGP------RQTQMFIRSTSNGSAEEVRKAAYL 54
+           + LL++   Y +  + E GP      R       +T+N   + VR+AAY+
+Sbjct: 86  ARLLRVMGRYFD-FVDEHGPGFSALMRGGPAVGSTTTNALVDSVRQAAYV 134
+
+
+>3W1B_A
+          Length = 610
+
+ Score = 21.9 bits (45), Expect =   109,   Method: Composition-based stats.
+ Identities = 7/15 (46%), Positives = 11/15 (73%)
+
+Query: 14  LKIKPIYIESMLQEM 28
+           LKIKP Y+  ++ E+
+Sbjct: 449 LKIKPEYVSGLMDEL 463
+
+
+>3ZH3_A
+          Length = 419
+
+ Score = 21.9 bits (45), Expect =   110,   Method: Composition-based stats.
+ Identities = 12/33 (36%), Positives = 17/33 (51%), Gaps = 4/33 (12%)
+
+Query: 25  LQEMGPRQT----QMFIRSTSNGSAEEVRKAAY 53
+           L+EMG R T     +F+   SN  A  ++ A Y
+Sbjct: 268 LEEMGVRMTVSEDSIFVEEQSNLKAINIKTAPY 300
+
+
+>3ZH4_A
+          Length = 419
+
+ Score = 21.9 bits (45), Expect =   110,   Method: Composition-based stats.
+ Identities = 12/33 (36%), Positives = 17/33 (51%), Gaps = 4/33 (12%)
+
+Query: 25  LQEMGPRQT----QMFIRSTSNGSAEEVRKAAY 53
+           L+EMG R T     +F+   SN  A  ++ A Y
+Sbjct: 268 LEEMGVRMTVSEDSIFVEEQSNLKAINIKTAPY 300
+
+
+>3ECP_A
+          Length = 477
+
+ Score = 21.9 bits (45), Expect =   110,   Method: Composition-based stats.
+ Identities = 17/52 (32%), Positives = 24/52 (46%), Gaps = 3/52 (5%)
+
+Query: 3  TRKAIDTISNLLKI--KPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAA 52
+          T + ++  + L K   K I I S   +        FIR+  N SAE +RKA 
+Sbjct: 28 TARLVNVAAQLAKYSGKSITISSEGSKAAQEGAYRFIRN-PNVSAEAIRKAG 78
+
+
+>1MM8_A
+          Length = 481
+
+ Score = 21.9 bits (45), Expect =   110,   Method: Composition-based stats.
+ Identities = 17/52 (32%), Positives = 24/52 (46%), Gaps = 3/52 (5%)
+
+Query: 3  TRKAIDTISNLLKI--KPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAA 52
+          T + ++  + L K   K I I S   +        FIR+  N SAE +RKA 
+Sbjct: 32 TARLVNVAAQLAKYSGKSITISSEGSKAAQEGAYRFIRN-PNVSAEAIRKAG 82
+
+
+>1MUH_A
+          Length = 481
+
+ Score = 21.9 bits (45), Expect =   110,   Method: Composition-based stats.
+ Identities = 17/52 (32%), Positives = 24/52 (46%), Gaps = 3/52 (5%)
+
+Query: 3  TRKAIDTISNLLKI--KPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAA 52
+          T + ++  + L K   K I I S   +        FIR+  N SAE +RKA 
+Sbjct: 32 TARLVNVAAQLAKYSGKSITISSEGSKAAQEGAYRFIRN-PNVSAEAIRKAG 82
+
+
+>4DM0_A
+          Length = 477
+
+ Score = 21.9 bits (45), Expect =   110,   Method: Composition-based stats.
+ Identities = 17/52 (32%), Positives = 24/52 (46%), Gaps = 3/52 (5%)
+
+Query: 3  TRKAIDTISNLLKI--KPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAA 52
+          T + ++  + L K   K I I S   +        FIR+  N SAE +RKA 
+Sbjct: 28 TARLVNVAAQLAKYSGKSITISSEGSKAAQEGAYRFIRN-PNVSAEAIRKAG 78
+
+
+>1M9I_A
+          Length = 672
+
+ Score = 21.9 bits (45), Expect =   111,   Method: Composition-based stats.
+ Identities = 8/30 (26%), Positives = 14/30 (46%)
+
+Query: 22  ESMLQEMGPRQTQMFIRSTSNGSAEEVRKA 51
+           E  L E+   +T   IR+ +    E+  K+
+Sbjct: 454 EKALIEILATRTNAEIRAINEAYKEDYHKS 483
+
+
+
+ Score = 16.9 bits (32), Expect =  3703,   Method: Composition-based stats.
+ Identities = 8/15 (53%), Positives = 9/15 (60%)
+
+Query: 37  IRSTSNGSAEEVRKA 51
+           IRST    AE + KA
+Sbjct: 248 IRSTPEYFAERLFKA 262
+
+
+
+ Score = 16.9 bits (32), Expect =  3703,   Method: Composition-based stats.
+ Identities = 8/24 (33%), Positives = 11/24 (45%)
+
+Query: 2   DTRKAIDTISNLLKIKPIYIESML 25
+           D R A   I   +K KP++    L
+Sbjct: 584 DVRDAFVAIVQSVKNKPLFFADKL 607
+
+
+>1MUS_A
+          Length = 477
+
+ Score = 21.9 bits (45), Expect =   111,   Method: Composition-based stats.
+ Identities = 17/52 (32%), Positives = 24/52 (46%), Gaps = 3/52 (5%)
+
+Query: 3  TRKAIDTISNLLKI--KPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAA 52
+          T + ++  + L K   K I I S   +        FIR+  N SAE +RKA 
+Sbjct: 28 TARLVNVAAQLAKYSGKSITISSEGSKAAQEGAYRFIRN-PNVSAEAIRKAG 78
+
+
+>4EAC_D
+          Length = 414
+
+ Score = 21.9 bits (45), Expect =   113,   Method: Composition-based stats.
+ Identities = 10/32 (31%), Positives = 18/32 (56%), Gaps = 1/32 (3%)
+
+Query: 24  MLQEMGPRQTQMFIRST-SNGSAEEVRKAAYL 54
+           M+++ GPR     +RST    + +   +AA+L
+Sbjct: 306 MIKQFGPRIYFTHLRSTMREDNPKTFHEAAHL 337
+
+
+>3KUL_A
+          Length = 325
+
+ Score = 21.9 bits (45), Expect =   116,   Method: Composition-based stats.
+ Identities = 6/22 (27%), Positives = 10/22 (45%)
+
+Query: 29 GPRQTQMFIRSTSNGSAEEVRK 50
+          G R   + I++   G  E  R+
+Sbjct: 74 GQRDVPVAIKALKAGYTERQRR 95
+
+
+>3KD6_A
+          Length = 313
+
+ Score = 21.9 bits (45), Expect =   119,   Method: Composition-based stats.
+ Identities = 8/26 (30%), Positives = 17/26 (65%), Gaps = 2/26 (7%)
+
+Query: 8   DTISNLLKIKPIYIES--MLQEMGPR 31
+           D+ + LL   P  +++  +++EMGP+
+Sbjct: 176 DSEARLLSGDPNLVKTARIIREMGPK 201
+
+
+>4JEP_A
+          Length = 611
+
+ Score = 21.9 bits (45), Expect =   121,   Method: Composition-based stats.
+ Identities = 11/37 (29%), Positives = 19/37 (51%), Gaps = 2/37 (5%)
+
+Query: 18  PIYI--ESMLQEMGPRQTQMFIRSTSNGSAEEVRKAA 52
+           P++I    ML  +   +    +RS  +G  EE+ +AA
+Sbjct: 462 PMFITGREMLASIDTLKDHRLLRSDFSGDVEELAEAA 498
+
+
+>4KH4_A
+          Length = 611
+
+ Score = 21.9 bits (45), Expect =   121,   Method: Composition-based stats.
+ Identities = 11/37 (29%), Positives = 19/37 (51%), Gaps = 2/37 (5%)
+
+Query: 18  PIYI--ESMLQEMGPRQTQMFIRSTSNGSAEEVRKAA 52
+           P++I    ML  +   +    +RS  +G  EE+ +AA
+Sbjct: 462 PMFITGREMLASIDTLKDHRLLRSDFSGDVEELAEAA 498
+
+
+
+ Score = 15.7 bits (29), Expect =  6981,   Method: Composition-based stats.
+ Identities = 4/12 (33%), Positives = 8/12 (66%)
+
+Query: 23  SMLQEMGPRQTQ 34
+           SM+ E G + ++
+Sbjct: 234 SMIDEYGVKHSR 245
+
+
+>4KH5_A
+          Length = 612
+
+ Score = 21.9 bits (45), Expect =   121,   Method: Composition-based stats.
+ Identities = 11/37 (29%), Positives = 19/37 (51%), Gaps = 2/37 (5%)
+
+Query: 18  PIYI--ESMLQEMGPRQTQMFIRSTSNGSAEEVRKAA 52
+           P++I    ML  +   +    +RS  +G  EE+ +AA
+Sbjct: 462 PMFITGREMLASIDTLKDHRLLRSDFSGDVEELAEAA 498
+
+
+
+ Score = 15.7 bits (29), Expect =  6981,   Method: Composition-based stats.
+ Identities = 4/12 (33%), Positives = 8/12 (66%)
+
+Query: 23  SMLQEMGPRQTQ 34
+           SM+ E G + ++
+Sbjct: 234 SMIDEYGVKHSR 245
+
+
+>4A5B_A
+          Length = 611
+
+ Score = 21.9 bits (45), Expect =   121,   Method: Composition-based stats.
+ Identities = 11/37 (29%), Positives = 19/37 (51%), Gaps = 2/37 (5%)
+
+Query: 18  PIYI--ESMLQEMGPRQTQMFIRSTSNGSAEEVRKAA 52
+           P++I    ML  +   +    +RS  +G  EE+ +AA
+Sbjct: 462 PMFITGREMLASIDTLKDHRLLRSDFSGDVEELAEAA 498
+
+
+
+ Score = 15.7 bits (29), Expect =  6981,   Method: Composition-based stats.
+ Identities = 4/12 (33%), Positives = 8/12 (66%)
+
+Query: 23  SMLQEMGPRQTQ 34
+           SM+ E G + ++
+Sbjct: 234 SMIDEYGVKHSR 245
+
+
+>3LLD_A
+          Length = 228
+
+ Score = 21.5 bits (44), Expect =   126,   Method: Composition-based stats.
+ Identities = 10/27 (37%), Positives = 17/27 (62%), Gaps = 4/27 (14%)
+
+Query: 24  MLQEMGPRQTQMFIRSTSNGSAEEVRK 50
+           +L EMG    +MFI+    G+A+E+ +
+Sbjct: 122 LLTEMGHPGAEMFIQ----GAADEIAR 144
+
+
+>4KH6_A
+          Length = 611
+
+ Score = 21.5 bits (44), Expect =   127,   Method: Composition-based stats.
+ Identities = 11/37 (29%), Positives = 19/37 (51%), Gaps = 2/37 (5%)
+
+Query: 18  PIYI--ESMLQEMGPRQTQMFIRSTSNGSAEEVRKAA 52
+           P++I    ML  +   +    +RS  +G  EE+ +AA
+Sbjct: 462 PMFITGRGMLASIDTLKDHRLLRSDFSGDVEELAEAA 498
+
+
+
+ Score = 15.7 bits (29), Expect =  6981,   Method: Composition-based stats.
+ Identities = 4/12 (33%), Positives = 8/12 (66%)
+
+Query: 23  SMLQEMGPRQTQ 34
+           SM+ E G + ++
+Sbjct: 234 SMIDEYGVKHSR 245
+
+
+>4A4Z_A
+          Length = 997
+
+ Score = 21.5 bits (44), Expect =   127,   Method: Composition-based stats.
+ Identities = 9/26 (34%), Positives = 16/26 (61%)
+
+Query: 1   SDTRKAIDTISNLLKIKPIYIESMLQ 26
+           S  R   + I NLL+I+ + +E M++
+Sbjct: 512 SQFRLTYNMILNLLRIEALRVEEMIK 537
+
+
+
+ Score = 16.1 bits (30), Expect =  6640,   Method: Composition-based stats.
+ Identities = 4/17 (23%), Positives = 7/17 (41%)
+
+Query: 25  LQEMGPRQTQMFIRSTS 41
+           + EM P      +R  +
+Sbjct: 937 IMEMSPEAEGTVVRVIT 953
+
+
+>4BUJ_E
+          Length = 1044
+
+ Score = 21.5 bits (44), Expect =   129,   Method: Composition-based stats.
+ Identities = 9/26 (34%), Positives = 16/26 (61%)
+
+Query: 1   SDTRKAIDTISNLLKIKPIYIESMLQ 26
+           S  R   + I NLL+I+ + +E M++
+Sbjct: 806 SQFRLTYNMILNLLRIEALRVEEMIK 831
+
+
+
+ Score = 16.1 bits (30), Expect =  6585,   Method: Composition-based stats.
+ Identities = 4/17 (23%), Positives = 7/17 (41%)
+
+Query: 25   LQEMGPRQTQMFIRSTS 41
+            + EM P      +R  +
+Sbjct: 984  IMEMSPEAEGTVVRVIT 1000
+
+
+>4BWM_A
+          Length = 540
+
+ Score = 21.5 bits (44), Expect =   133,   Method: Composition-based stats.
+ Identities = 11/33 (33%), Positives = 19/33 (57%), Gaps = 5/33 (15%)
+
+Query: 4   RKAID-----TISNLLKIKPIYIESMLQEMGPR 31
+           RKA +     T ++L+K+  + +   L+EMG R
+Sbjct: 454 RKAFNMPVQGTAADLMKLAMVKLFPRLEEMGAR 486
+
+
+
+ Score = 18.4 bits (36), Expect =  1241,   Method: Composition-based stats.
+ Identities = 9/33 (27%), Positives = 16/33 (48%)
+
+Query: 13  LLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSA 45
+           L K+K  YI+ +   + PR  ++  R     +A
+Sbjct: 246 LTKLKSTYIDPLPDLIHPRTGRLHTRFNQTATA 278
+
+
+>3PY8_A
+          Length = 540
+
+ Score = 21.5 bits (44), Expect =   133,   Method: Composition-based stats.
+ Identities = 11/33 (33%), Positives = 19/33 (57%), Gaps = 5/33 (15%)
+
+Query: 4   RKAID-----TISNLLKIKPIYIESMLQEMGPR 31
+           RKA +     T ++L+K+  + +   L+EMG R
+Sbjct: 454 RKAFNMPVQGTAADLMKLAMVKLFPRLEEMGAR 486
+
+
+
+ Score = 18.4 bits (36), Expect =  1241,   Method: Composition-based stats.
+ Identities = 9/33 (27%), Positives = 16/33 (48%)
+
+Query: 13  LLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSA 45
+           L K+K  YI+ +   + PR  ++  R     +A
+Sbjct: 246 LTKLKSTYIDPLPDLIHPRTGRLHTRFNQTATA 278
+
+
+
+ Score = 16.1 bits (30), Expect =  5666,   Method: Composition-based stats.
+ Identities = 7/14 (50%), Positives = 9/14 (64%)
+
+Query: 38  RSTSNGSAEEVRKA 51
+           RSTS    E +R+A
+Sbjct: 220 RSTSAAVLEALREA 233
+
+
+>1O59_A
+          Length = 355
+
+ Score = 21.5 bits (44), Expect =   135,   Method: Composition-based stats.
+ Identities = 9/21 (42%), Positives = 12/21 (57%), Gaps = 2/21 (9%)
+
+Query: 27  EMGPRQTQMFIRSTSNGSAEE 47
+           E GP Q  +F+R   NG  +E
+Sbjct: 154 ECGPSQRHLFVR--GNGLTKE 172
+
+
+>1SG3_A
+          Length = 349
+
+ Score = 21.5 bits (44), Expect =   135,   Method: Composition-based stats.
+ Identities = 9/21 (42%), Positives = 12/21 (57%), Gaps = 2/21 (9%)
+
+Query: 27  EMGPRQTQMFIRSTSNGSAEE 47
+           E GP Q  +F+R   NG  +E
+Sbjct: 142 ECGPSQRHLFVR--GNGLTKE 160
+
+
+>2B7T_A
+          Length = 73
+
+ Score = 21.5 bits (44), Expect =   135,   Method: Composition-based stats.
+ Identities = 12/41 (29%), Positives = 19/41 (46%), Gaps = 1/41 (2%)
+
+Query: 8  DTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTS-NGSAEE 47
+          + +  L +IKP     +L + GP    +F+ S   NG   E
+Sbjct: 8  NALMQLNEIKPGLQYMLLSQTGPVHAPLFVMSVEVNGQVFE 48
+
+
+>2L3C_A
+          Length = 74
+
+ Score = 21.5 bits (44), Expect =   135,   Method: Composition-based stats.
+ Identities = 12/41 (29%), Positives = 19/41 (46%), Gaps = 1/41 (2%)
+
+Query: 8  DTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTS-NGSAEE 47
+          + +  L +IKP     +L + GP    +F+ S   NG   E
+Sbjct: 8  NALMQLNEIKPGLQYMLLSQTGPVHAPLFVMSVEVNGQVFE 48
+
+
+>2L3J_A
+          Length = 236
+
+ Score = 21.5 bits (44), Expect =   135,   Method: Composition-based stats.
+ Identities = 12/41 (29%), Positives = 19/41 (46%), Gaps = 1/41 (2%)
+
+Query: 8  DTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTS-NGSAEE 47
+          + +  L +IKP     +L + GP    +F+ S   NG   E
+Sbjct: 8  NALMQLNEIKPGLQYMLLSQTGPVHAPLFVMSVEVNGQVFE 48
+
+
+>1JWW_A
+          Length = 80
+
+ Score = 21.5 bits (44), Expect =   138,   Method: Composition-based stats.
+ Identities = 7/17 (41%), Positives = 12/17 (70%)
+
+Query: 1  SDTRKAIDTISNLLKIK 17
+          SD ++A+D +   LK+K
+Sbjct: 55 SDLKEAVDKLGYKLKLK 71
+
+
+>3O04_A
+          Length = 413
+
+ Score = 21.5 bits (44), Expect =   141,   Method: Composition-based stats.
+ Identities = 8/29 (27%), Positives = 16/29 (55%), Gaps = 2/29 (6%)
+
+Query: 15  KIKPIYIESMLQEMGPRQTQMFIRSTSNG 43
+           ++ P ++  M+ +MG    Q+ IR  + G
+Sbjct: 129 RVSPFFVPMMIPDMGS--GQVSIRFGAKG 155
+
+
+>2GX8_A
+          Length = 397
+
+ Score = 21.5 bits (44), Expect =   143,   Method: Composition-based stats.
+ Identities = 14/42 (33%), Positives = 20/42 (47%), Gaps = 9/42 (21%)
+
+Query: 10  ISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKA 51
+           + N   + P Y E M      ++  +F+  T    AEEVRKA
+Sbjct: 147 LQNTEVLAPTYAEEM------KKVVVFVPVT---HAEEVRKA 179
+
+
+>3ZJ2_A
+          Length = 71
+
+ Score = 21.5 bits (44), Expect =   144,   Method: Composition-based stats.
+ Identities = 7/18 (38%), Positives = 13/18 (72%)
+
+Query: 2  DTRKAIDTISNLLKIKPI 19
+          + RKA  ++S + ++KPI
+Sbjct: 51 ECRKAHSSLSKIKEVKPI 68
+
+
+>2GLU_A
+          Length = 239
+
+ Score = 21.5 bits (44), Expect =   144,   Method: Composition-based stats.
+ Identities = 7/15 (46%), Positives = 11/15 (73%)
+
+Query: 1   SDTRKAIDTISNLLK 15
+           SD RKA+  ++ +LK
+Sbjct: 101 SDVRKAVREVARVLK 115
+
+
+>3QAO_A
+          Length = 249
+
+ Score = 21.5 bits (44), Expect =   144,   Method: Composition-based stats.
+ Identities = 17/62 (27%), Positives = 23/62 (37%), Gaps = 13/62 (20%)
+
+Query: 2   DTRKAIDTISNLLKIKPIYIESMLQ-------------EMGPRQTQMFIRSTSNGSAEEV 48
+           D   A+D   +LL  K   IE+ML               M  ++       +SN   EE 
+Sbjct: 76  DKNVALDMQRHLLIEKKQRIETMLATLDLTIKNEKGEITMTNKEKFTGFDFSSNPYEEEA 135
+
+Query: 49  RK 50
+           RK
+Sbjct: 136 RK 137
+
+
+>4E9I_A
+          Length = 541
+
+ Score = 21.5 bits (44), Expect =   144,   Method: Composition-based stats.
+ Identities = 11/27 (40%), Positives = 15/27 (55%), Gaps = 4/27 (14%)
+
+Query: 29  GPRQTQMFIRS----TSNGSAEEVRKA 51
+           GP + Q FIR     T+NG+A +   A
+Sbjct: 515 GPEEAQEFIRISGYKTTNGNAYKCSNA 541
+
+
+
+ Score = 17.6 bits (34), Expect =  1931,   Method: Composition-based stats.
+ Identities = 6/22 (27%), Positives = 10/22 (45%)
+
+Query: 18  PIYIESMLQEMGPRQTQMFIRS 39
+           P   ES++ E     +  F+R 
+Sbjct: 461 PDAYESLIHEALLGNSTNFVRV 482
+
+
+>3MFX_A
+          Length = 129
+
+ Score = 21.5 bits (44), Expect =   145,   Method: Composition-based stats.
+ Identities = 10/33 (30%), Positives = 17/33 (51%)
+
+Query: 14 LKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAE 46
+          L+   ++I+ + + M       FIRS +  SAE
+Sbjct: 6  LETIELFIQHLTEAMILVNANGFIRSCNQRSAE 38
+
+
+>1JPA_A
+          Length = 312
+
+ Score = 21.5 bits (44), Expect =   147,   Method: Composition-based stats.
+ Identities = 6/22 (27%), Positives = 13/22 (59%)
+
+Query: 29 GPRQTQMFIRSTSNGSAEEVRK 50
+          G R+  + I++  +G  E+ R+
+Sbjct: 58 GKREIFVAIKTLKSGYTEKQRR 79
+
+
+>2HEN_A
+          Length = 286
+
+ Score = 21.5 bits (44), Expect =   147,   Method: Composition-based stats.
+ Identities = 6/22 (27%), Positives = 13/22 (59%)
+
+Query: 29 GPRQTQMFIRSTSNGSAEEVRK 50
+          G R+  + I++  +G  E+ R+
+Sbjct: 32 GKREIFVAIKTLKSGYTEKQRR 53
+
+
+>4DR0_A
+          Length = 350
+
+ Score = 21.5 bits (44), Expect =   147,   Method: Composition-based stats.
+ Identities = 11/38 (28%), Positives = 20/38 (52%), Gaps = 1/38 (2%)
+
+Query: 6   AIDTISNLLKIKPIYIESMLQEMG-PRQTQMFIRSTSN 42
+           AID ++ L + +  Y E +  ++G     + FIR  +N
+Sbjct: 249 AIDLLNQLYENELEYTEDLYDQVGLSHDVKKFIRYNAN 286
+
+
+
+ Score = 16.1 bits (30), Expect =  5480,   Method: Composition-based stats.
+ Identities = 6/19 (31%), Positives = 12/19 (63%)
+
+Query: 16  IKPIYIESMLQEMGPRQTQ 34
+           I  +Y+  + QE+  +QT+
+Sbjct: 221 IHGVYVGLLAQEIYNKQTE 239
+
+
+>3ZGX_A
+          Length = 426
+
+ Score = 21.5 bits (44), Expect =   149,   Method: Composition-based stats.
+ Identities = 8/22 (36%), Positives = 12/22 (54%)
+
+Query: 21  IESMLQEMGPRQTQMFIRSTSN 42
+           IE M +EM  R    F++  S+
+Sbjct: 262 IEEMDEEMTKRFNDTFVQIRSH 283
+
+
+
+ Score = 17.6 bits (34), Expect =  1852,   Method: Composition-based stats.
+ Identities = 5/14 (35%), Positives = 11/14 (78%)
+
+Query: 6   AIDTISNLLKIKPI 19
+           AI  + ++LK++P+
+Sbjct: 338 AIALLFSILKVRPV 351
+
+
+>2HBM_A
+          Length = 410
+
+ Score = 21.5 bits (44), Expect =   149,   Method: Composition-based stats.
+ Identities = 8/16 (50%), Positives = 10/16 (62%)
+
+Query: 39  STSNGSAEEVRKAAYL 54
+           S +NG  E VR+ A L
+Sbjct: 359 SLTNGVTEHVRQNAKL 374
+
+
+>4DJF_E
+          Length = 446
+
+ Score = 21.5 bits (44), Expect =   149,   Method: Composition-based stats.
+ Identities = 8/25 (32%), Positives = 12/25 (48%)
+
+Query: 18  PIYIESMLQEMGPRQTQMFIRSTSN 42
+           PI +E  L E+G       +  T+N
+Sbjct: 318 PIRVEEKLNEIGAVNENSPVYVTTN 342
+
+
+>1S8E_A
+          Length = 333
+
+ Score = 21.5 bits (44), Expect =   150,   Method: Composition-based stats.
+ Identities = 11/32 (34%), Positives = 18/32 (56%), Gaps = 4/32 (12%)
+
+Query: 24  MLQEMGPR----QTQMFIRSTSNGSAEEVRKA 51
+           ++++  PR    + + FI     GS EE+RKA
+Sbjct: 257 IVEDFKPRFVEIKVRPFIDVKIKGSEEEIRKA 288
+
+
+>3DSC_A
+          Length = 349
+
+ Score = 21.5 bits (44), Expect =   150,   Method: Composition-based stats.
+ Identities = 11/32 (34%), Positives = 18/32 (56%), Gaps = 4/32 (12%)
+
+Query: 24  MLQEMGPR----QTQMFIRSTSNGSAEEVRKA 51
+           ++++  PR    + + FI     GS EE+RKA
+Sbjct: 257 IVEDFKPRFVEIKVRPFIDVKIKGSEEEIRKA 288
+
+
+>1II7_A
+          Length = 333
+
+ Score = 21.5 bits (44), Expect =   150,   Method: Composition-based stats.
+ Identities = 11/32 (34%), Positives = 18/32 (56%), Gaps = 4/32 (12%)
+
+Query: 24  MLQEMGPR----QTQMFIRSTSNGSAEEVRKA 51
+           ++++  PR    + + FI     GS EE+RKA
+Sbjct: 257 IVEDFKPRFVEIKVRPFIDVKIKGSEEEIRKA 288
+
+
+>3DSD_A
+          Length = 349
+
+ Score = 21.5 bits (44), Expect =   150,   Method: Composition-based stats.
+ Identities = 11/32 (34%), Positives = 18/32 (56%), Gaps = 4/32 (12%)
+
+Query: 24  MLQEMGPR----QTQMFIRSTSNGSAEEVRKA 51
+           ++++  PR    + + FI     GS EE+RKA
+Sbjct: 257 IVEDFKPRFVEIKVRPFIDVKIKGSEEEIRKA 288
+
+
+>4HD0_A
+          Length = 339
+
+ Score = 21.5 bits (44), Expect =   150,   Method: Composition-based stats.
+ Identities = 11/32 (34%), Positives = 18/32 (56%), Gaps = 4/32 (12%)
+
+Query: 24  MLQEMGPR----QTQMFIRSTSNGSAEEVRKA 51
+           ++++  PR    + + FI     GS EE+RKA
+Sbjct: 263 IVEDFKPRFVEIKVRPFIDVKIKGSEEEIRKA 294
+
+
+>1FL6_H
+          Length = 219
+
+ Score = 21.5 bits (44), Expect =   157,   Method: Composition-based stats.
+ Identities = 6/12 (50%), Positives = 8/12 (66%)
+
+Query: 36 FIRSTSNGSAEE 47
+          FIR+ +NG   E
+Sbjct: 50 FIRNKANGYTTE 61
+
+
+>1Q9Q_B
+          Length = 222
+
+ Score = 21.5 bits (44), Expect =   157,   Method: Composition-based stats.
+ Identities = 6/12 (50%), Positives = 8/12 (66%)
+
+Query: 36 FIRSTSNGSAEE 47
+          FIR+ +NG   E
+Sbjct: 50 FIRNKANGYTTE 61
+
+
+>1Q9T_B
+          Length = 224
+
+ Score = 21.5 bits (44), Expect =   157,   Method: Composition-based stats.
+ Identities = 6/12 (50%), Positives = 8/12 (66%)
+
+Query: 36 FIRSTSNGSAEE 47
+          FIR+ +NG   E
+Sbjct: 50 FIRNKANGYTTE 61
+
+
+>1NQ6_A
+          Length = 302
+
+ Score = 21.5 bits (44), Expect =   159,   Method: Composition-based stats.
+ Identities = 8/24 (33%), Positives = 11/24 (45%)
+
+Query: 29  GPRQTQMFIRSTSNGSAEEVRKAA 52
+           G R++  F     NG  EE  + A
+Sbjct: 135 GARRSSPFQDKLGNGFIEEAFRTA 158
+
+
+>1KQK_A
+          Length = 80
+
+ Score = 21.5 bits (44), Expect =   159,   Method: Composition-based stats.
+ Identities = 7/17 (41%), Positives = 12/17 (70%)
+
+Query: 1  SDTRKAIDTISNLLKIK 17
+          SD ++A+D +   LK+K
+Sbjct: 55 SDLKEAVDKLGYKLKLK 71
+
+
+>4F4C_A
+          Length = 1321
+
+ Score = 21.5 bits (44), Expect =   159,   Method: Composition-based stats.
+ Identities = 6/23 (26%), Positives = 10/23 (43%)
+
+Query: 22  ESMLQEMGPRQTQMFIRSTSNGS 44
+           E M+        + FI++  NG 
+Sbjct: 522 EEMVAACKMANAEKFIKTLPNGY 544
+
+
+>1P6T_A
+          Length = 151
+
+ Score = 21.5 bits (44), Expect =   162,   Method: Composition-based stats.
+ Identities = 7/17 (41%), Positives = 12/17 (70%)
+
+Query: 1   SDTRKAIDTISNLLKIK 17
+           SD ++A+D +   LK+K
+Sbjct: 126 SDLKEAVDKLGYKLKLK 142
+
+
+>2PT2_A
+          Length = 334
+
+ Score = 21.1 bits (43), Expect =   169,   Method: Composition-based stats.
+ Identities = 12/47 (25%), Positives = 26/47 (55%), Gaps = 1/47 (2%)
+
+Query: 3   TRKAIDTISNLLKIKPIYIESMLQEMGPR-QTQMFIRSTSNGSAEEV 48
+           T++A   + N  K+KP  + +  +   P+ + ++ IRS+SN   + +
+Sbjct: 117 TKRARVIMYNKGKVKPEELSTYEELADPKWKGRVIIRSSSNEYNQSL 163
+
+
+>2D9T_A
+          Length = 78
+
+ Score = 21.1 bits (43), Expect =   170,   Method: Composition-based stats.
+ Identities = 8/24 (33%), Positives = 15/24 (62%)
+
+Query: 20 YIESMLQEMGPRQTQMFIRSTSNG 43
+          Y E +L  + P QT+ ++R  ++G
+Sbjct: 51 YEEVLLSNIKPVQTEAWVRDPNSG 74
+
+
+>3HDO_A
+          Length = 360
+
+ Score = 21.1 bits (43), Expect =   172,   Method: Composition-based stats.
+ Identities = 9/35 (25%), Positives = 22/35 (62%), Gaps = 2/35 (5%)
+
+Query: 18 PIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAA 52
+          P  ++++L+E+GP      +R   + S++++R+ A
+Sbjct: 42 PEVVKAILEELGPDGAA--LRIYPSASSQKLREVA 74
+
+
+>4LIM_A
+          Length = 391
+
+ Score = 21.1 bits (43), Expect =   175,   Method: Composition-based stats.
+ Identities = 7/19 (36%), Positives = 13/19 (68%)
+
+Query: 12  NLLKIKPIYIESMLQEMGP 30
+           +L ++KP ++  ML+E  P
+Sbjct: 211 SLEQLKPFFVSIMLEEQNP 229
+
+
+>2RML_A
+          Length = 147
+
+ Score = 21.1 bits (43), Expect =   175,   Method: Composition-based stats.
+ Identities = 7/17 (41%), Positives = 12/17 (70%)
+
+Query: 1   SDTRKAIDTISNLLKIK 17
+           SD ++A+D +   LK+K
+Sbjct: 126 SDLKEAVDKLGYKLKLK 142
+
+
+>2WZG_A
+          Length = 525
+
+ Score = 21.1 bits (43), Expect =   175,   Method: Composition-based stats.
+ Identities = 9/27 (33%), Positives = 14/27 (51%)
+
+Query: 15  KIKPIYIESMLQEMGPRQTQMFIRSTS 41
+           KI+ IY  S+L     RQ + F +  +
+Sbjct: 167 KIRLIYSSSLLNPEANRQMKAFAKKQN 193
+
+
+>3JSZ_A
+          Length = 525
+
+ Score = 21.1 bits (43), Expect =   175,   Method: Composition-based stats.
+ Identities = 9/27 (33%), Positives = 14/27 (51%)
+
+Query: 15  KIKPIYIESMLQEMGPRQTQMFIRSTS 41
+           KI+ IY  S+L     RQ + F +  +
+Sbjct: 167 KIRLIYSSSLLNPEANRQMKAFAKKQN 193
+
+
+>4FH0_A
+          Length = 102
+
+ Score = 21.1 bits (43), Expect =   176,   Method: Composition-based stats.
+ Identities = 9/27 (33%), Positives = 14/27 (51%)
+
+Query: 14 LKIKPIYIESMLQEMGPRQTQMFIRST 40
+          L+++   + S LQ  G R  Q F R+ 
+Sbjct: 59 LRVRLCDLMSHLQRSGERDCQEFYRAL 85
+
+
+>2FGE_B
+          Length = 995
+
+ Score = 21.1 bits (43), Expect =   178,   Method: Composition-based stats.
+ Identities = 9/27 (33%), Positives = 18/27 (66%), Gaps = 2/27 (7%)
+
+Query: 7   IDTISN-LLKIKPIYIESMLQEMGPRQ 32
+           I ++ + LL + P++ +S+L EMG + 
+Sbjct: 583 IGSLKHELLPLVPLFCQSLL-EMGTKD 608
+
+
+>1TAQ_A
+          Length = 832
+
+ Score = 21.1 bits (43), Expect =   181,   Method: Composition-based stats.
+ Identities = 8/23 (34%), Positives = 15/23 (65%)
+
+Query: 9   TISNLLKIKPIYIESMLQEMGPR 31
+           T ++L+K+  + +   L+EMG R
+Sbjct: 756 TAADLMKLAMVKLFPRLEEMGAR 778
+
+
+
+ Score = 18.4 bits (36), Expect =  1190,   Method: Composition-based stats.
+ Identities = 9/33 (27%), Positives = 16/33 (48%)
+
+Query: 13  LLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSA 45
+           L K+K  YI+ +   + PR  ++  R     +A
+Sbjct: 538 LTKLKSTYIDPLPDLIHPRTGRLHTRFNQTATA 570
+
+
+
+ Score = 16.1 bits (30), Expect =  5345,   Method: Composition-based stats.
+ Identities = 7/14 (50%), Positives = 9/14 (64%)
+
+Query: 38  RSTSNGSAEEVRKA 51
+           RSTS    E +R+A
+Sbjct: 512 RSTSAAVLEALREA 525
+
+
+>1TAU_A
+          Length = 832
+
+ Score = 21.1 bits (43), Expect =   181,   Method: Composition-based stats.
+ Identities = 8/23 (34%), Positives = 15/23 (65%)
+
+Query: 9   TISNLLKIKPIYIESMLQEMGPR 31
+           T ++L+K+  + +   L+EMG R
+Sbjct: 756 TAADLMKLAMVKLFPRLEEMGAR 778
+
+
+
+ Score = 18.4 bits (36), Expect =  1190,   Method: Composition-based stats.
+ Identities = 9/33 (27%), Positives = 16/33 (48%)
+
+Query: 13  LLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSA 45
+           L K+K  YI+ +   + PR  ++  R     +A
+Sbjct: 538 LTKLKSTYIDPLPDLIHPRTGRLHTRFNQTATA 570
+
+
+
+ Score = 16.1 bits (30), Expect =  5345,   Method: Composition-based stats.
+ Identities = 7/14 (50%), Positives = 9/14 (64%)
+
+Query: 38  RSTSNGSAEEVRKA 51
+           RSTS    E +R+A
+Sbjct: 512 RSTSAAVLEALREA 525
+
+
+>1EXN_B
+          Length = 290
+
+ Score = 21.1 bits (43), Expect =   185,   Method: Composition-based stats.
+ Identities = 8/25 (32%), Positives = 12/25 (48%)
+
+Query: 20 YIESMLQEMGPRQTQMFIRSTSNGS 44
+          +IE    EM  R+  M +  T+ G 
+Sbjct: 7  FIEEEEAEMASRRNLMIVDGTNLGF 31
+
+
+>1UT8_A
+          Length = 291
+
+ Score = 21.1 bits (43), Expect =   185,   Method: Composition-based stats.
+ Identities = 8/25 (32%), Positives = 12/25 (48%)
+
+Query: 20 YIESMLQEMGPRQTQMFIRSTSNGS 44
+          +IE    EM  R+  M +  T+ G 
+Sbjct: 8  FIEEEEAEMASRRNLMIVDGTNLGF 32
+
+
+>1XO1_A
+          Length = 291
+
+ Score = 21.1 bits (43), Expect =   187,   Method: Composition-based stats.
+ Identities = 8/25 (32%), Positives = 12/25 (48%)
+
+Query: 20 YIESMLQEMGPRQTQMFIRSTSNGS 44
+          +IE    EM  R+  M +  T+ G 
+Sbjct: 8  FIEEEEAEMASRRNLMIVDGTNLGF 32
+
+
+>4FQ0_B
+          Length = 210
+
+ Score = 21.1 bits (43), Expect =   188,   Method: Composition-based stats.
+ Identities = 8/14 (57%), Positives = 10/14 (71%)
+
+Query: 19  IYIESMLQEMGPRQ 32
+           I IES+L +MG R 
+Sbjct: 194 ISIESILSKMGSRD 207
+
+
+>4GC8_A
+          Length = 212
+
+ Score = 21.1 bits (43), Expect =   188,   Method: Composition-based stats.
+ Identities = 8/14 (57%), Positives = 10/14 (71%)
+
+Query: 19  IYIESMLQEMGPRQ 32
+           I IES+L +MG R 
+Sbjct: 196 ISIESILSKMGSRD 209
+
+
+>2I00_A
+          Length = 406
+
+ Score = 21.1 bits (43), Expect =   188,   Method: Composition-based stats.
+ Identities = 10/33 (30%), Positives = 16/33 (48%)
+
+Query: 7  IDTISNLLKIKPIYIESMLQEMGPRQTQMFIRS 39
+          ID  + LL       E+ ++E G    + FI+S
+Sbjct: 20 IDQFNELLSYVFQVTEADIEESGFENKRAFIKS 52
+
+
+>4DWN_A
+          Length = 100
+
+ Score = 21.1 bits (43), Expect =   190,   Method: Composition-based stats.
+ Identities = 9/27 (33%), Positives = 14/27 (51%)
+
+Query: 14 LKIKPIYIESMLQEMGPRQTQMFIRST 40
+          L+++   + S LQ  G R  Q F R+ 
+Sbjct: 59 LRVRLCDLLSHLQRSGERDCQEFYRAL 85
+
+
+>3QE6_B
+          Length = 304
+
+ Score = 21.1 bits (43), Expect =   190,   Method: Composition-based stats.
+ Identities = 10/35 (28%), Positives = 17/35 (48%), Gaps = 5/35 (14%)
+
+Query: 9   TISNLLKIKPIYIESMLQ-----EMGPRQTQMFIR 38
+           T++ L +  P Y+E M Q     +   RQ  +F +
+Sbjct: 209 TLAELNRYTPRYMEDMEQAFESCQAAERQRLLFFK 243
+
+
+>3D4J_A
+          Length = 400
+
+ Score = 21.1 bits (43), Expect =   193,   Method: Composition-based stats.
+ Identities = 9/26 (34%), Positives = 12/26 (46%)
+
+Query: 21  IESMLQEMGPRQTQMFIRSTSNGSAE 46
+           +ES L E+  R +    RS   G  E
+Sbjct: 144 VESDLSEVARRGSGSACRSLYGGFVE 169
+
+
+>4ELU_A
+          Length = 540
+
+ Score = 21.1 bits (43), Expect =   196,   Method: Composition-based stats.
+ Identities = 8/23 (34%), Positives = 15/23 (65%)
+
+Query: 9   TISNLLKIKPIYIESMLQEMGPR 31
+           T ++L+K+  + +   L+EMG R
+Sbjct: 464 TAADLMKLAMVKLFPRLEEMGAR 486
+
+
+
+ Score = 18.4 bits (36), Expect =  1241,   Method: Composition-based stats.
+ Identities = 9/33 (27%), Positives = 16/33 (48%)
+
+Query: 13  LLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSA 45
+           L K+K  YI+ +   + PR  ++  R     +A
+Sbjct: 246 LTKLKSTYIDPLPDLIHPRTGRLHTRFNQTATA 278
+
+
+
+ Score = 16.1 bits (30), Expect =  5666,   Method: Composition-based stats.
+ Identities = 7/14 (50%), Positives = 9/14 (64%)
+
+Query: 38  RSTSNGSAEEVRKA 51
+           RSTS    E +R+A
+Sbjct: 220 RSTSAAVLEALREA 233
+
+
+>1QSS_A
+          Length = 539
+
+ Score = 21.1 bits (43), Expect =   196,   Method: Composition-based stats.
+ Identities = 8/23 (34%), Positives = 15/23 (65%)
+
+Query: 9   TISNLLKIKPIYIESMLQEMGPR 31
+           T ++L+K+  + +   L+EMG R
+Sbjct: 464 TAADLMKLAMVKLFPRLEEMGAR 486
+
+
+
+ Score = 18.4 bits (36), Expect =  1241,   Method: Composition-based stats.
+ Identities = 9/33 (27%), Positives = 16/33 (48%)
+
+Query: 13  LLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSA 45
+           L K+K  YI+ +   + PR  ++  R     +A
+Sbjct: 246 LTKLKSTYIDPLPDLIHPRTGRLHTRFNQTATA 278
+
+
+
+ Score = 16.1 bits (30), Expect =  5666,   Method: Composition-based stats.
+ Identities = 7/14 (50%), Positives = 9/14 (64%)
+
+Query: 38  RSTSNGSAEEVRKA 51
+           RSTS    E +R+A
+Sbjct: 220 RSTSAAVLEALREA 233
+
+
+>1KTQ_A
+          Length = 543
+
+ Score = 21.1 bits (43), Expect =   196,   Method: Composition-based stats.
+ Identities = 8/23 (34%), Positives = 15/23 (65%)
+
+Query: 9   TISNLLKIKPIYIESMLQEMGPR 31
+           T ++L+K+  + +   L+EMG R
+Sbjct: 467 TAADLMKLAMVKLFPRLEEMGAR 489
+
+
+
+ Score = 18.4 bits (36), Expect =  1241,   Method: Composition-based stats.
+ Identities = 9/33 (27%), Positives = 16/33 (48%)
+
+Query: 13  LLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSA 45
+           L K+K  YI+ +   + PR  ++  R     +A
+Sbjct: 249 LTKLKSTYIDPLPDLIHPRTGRLHTRFNQTATA 281
+
+
+
+ Score = 16.1 bits (30), Expect =  5666,   Method: Composition-based stats.
+ Identities = 7/14 (50%), Positives = 9/14 (64%)
+
+Query: 38  RSTSNGSAEEVRKA 51
+           RSTS    E +R+A
+Sbjct: 223 RSTSAAVLEALREA 236
+
+
+>2KTQ_A
+          Length = 538
+
+ Score = 21.1 bits (43), Expect =   196,   Method: Composition-based stats.
+ Identities = 8/23 (34%), Positives = 15/23 (65%)
+
+Query: 9   TISNLLKIKPIYIESMLQEMGPR 31
+           T ++L+K+  + +   L+EMG R
+Sbjct: 462 TAADLMKLAMVKLFPRLEEMGAR 484
+
+
+
+ Score = 18.4 bits (36), Expect =  1241,   Method: Composition-based stats.
+ Identities = 9/33 (27%), Positives = 16/33 (48%)
+
+Query: 13  LLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSA 45
+           L K+K  YI+ +   + PR  ++  R     +A
+Sbjct: 244 LTKLKSTYIDPLPDLIHPRTGRLHTRFNQTATA 276
+
+
+
+ Score = 16.1 bits (30), Expect =  5666,   Method: Composition-based stats.
+ Identities = 7/14 (50%), Positives = 9/14 (64%)
+
+Query: 38  RSTSNGSAEEVRKA 51
+           RSTS    E +R+A
+Sbjct: 218 RSTSAAVLEALREA 231
+
+
+>1QTM_A
+          Length = 539
+
+ Score = 21.1 bits (43), Expect =   196,   Method: Composition-based stats.
+ Identities = 8/23 (34%), Positives = 15/23 (65%)
+
+Query: 9   TISNLLKIKPIYIESMLQEMGPR 31
+           T ++L+K+  + +   L+EMG R
+Sbjct: 464 TAADLMKLAMVKLFPRLEEMGAR 486
+
+
+
+ Score = 18.4 bits (36), Expect =  1241,   Method: Composition-based stats.
+ Identities = 9/33 (27%), Positives = 16/33 (48%)
+
+Query: 13  LLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSA 45
+           L K+K  YI+ +   + PR  ++  R     +A
+Sbjct: 246 LTKLKSTYIDPLPDLIHPRTGRLHTRFNQTATA 278
+
+
+
+ Score = 16.1 bits (30), Expect =  5666,   Method: Composition-based stats.
+ Identities = 7/14 (50%), Positives = 9/14 (64%)
+
+Query: 38  RSTSNGSAEEVRKA 51
+           RSTS    E +R+A
+Sbjct: 220 RSTSAAVLEALREA 233
+
+
+>3KTQ_A
+          Length = 540
+
+ Score = 21.1 bits (43), Expect =   196,   Method: Composition-based stats.
+ Identities = 8/23 (34%), Positives = 15/23 (65%)
+
+Query: 9   TISNLLKIKPIYIESMLQEMGPR 31
+           T ++L+K+  + +   L+EMG R
+Sbjct: 464 TAADLMKLAMVKLFPRLEEMGAR 486
+
+
+
+ Score = 18.4 bits (36), Expect =  1241,   Method: Composition-based stats.
+ Identities = 9/33 (27%), Positives = 16/33 (48%)
+
+Query: 13  LLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSA 45
+           L K+K  YI+ +   + PR  ++  R     +A
+Sbjct: 246 LTKLKSTYIDPLPDLIHPRTGRLHTRFNQTATA 278
+
+
+
+ Score = 16.1 bits (30), Expect =  5666,   Method: Composition-based stats.
+ Identities = 7/14 (50%), Positives = 9/14 (64%)
+
+Query: 38  RSTSNGSAEEVRKA 51
+           RSTS    E +R+A
+Sbjct: 220 RSTSAAVLEALREA 233
+
+
+>4KTQ_A
+          Length = 539
+
+ Score = 21.1 bits (43), Expect =   196,   Method: Composition-based stats.
+ Identities = 8/23 (34%), Positives = 15/23 (65%)
+
+Query: 9   TISNLLKIKPIYIESMLQEMGPR 31
+           T ++L+K+  + +   L+EMG R
+Sbjct: 463 TAADLMKLAMVKLFPRLEEMGAR 485
+
+
+
+ Score = 18.4 bits (36), Expect =  1241,   Method: Composition-based stats.
+ Identities = 9/33 (27%), Positives = 16/33 (48%)
+
+Query: 13  LLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSA 45
+           L K+K  YI+ +   + PR  ++  R     +A
+Sbjct: 245 LTKLKSTYIDPLPDLIHPRTGRLHTRFNQTATA 277
+
+
+
+ Score = 16.1 bits (30), Expect =  5666,   Method: Composition-based stats.
+ Identities = 7/14 (50%), Positives = 9/14 (64%)
+
+Query: 38  RSTSNGSAEEVRKA 51
+           RSTS    E +R+A
+Sbjct: 219 RSTSAAVLEALREA 232
+
+
+>2WZF_A
+          Length = 525
+
+ Score = 21.1 bits (43), Expect =   196,   Method: Composition-based stats.
+ Identities = 9/27 (33%), Positives = 14/27 (51%)
+
+Query: 15  KIKPIYIESMLQEMGPRQTQMFIRSTS 41
+           +I+ IY  S+L     RQ + F R  +
+Sbjct: 167 EIRLIYSSSLLNAEANRQMKAFARKQN 193
+
+
+
+ Score = 18.4 bits (36), Expect =  1114,   Method: Composition-based stats.
+ Identities = 6/13 (46%), Positives = 10/13 (76%)
+
+Query: 3   TRKAIDTISNLLK 15
+           T+K +DT++  LK
+Sbjct: 305 TQKMMDTVARYLK 317
+
+
+>1RIQ_A
+          Length = 465
+
+ Score = 21.1 bits (43), Expect =   198,   Method: Composition-based stats.
+ Identities = 10/23 (43%), Positives = 16/23 (69%), Gaps = 4/23 (17%)
+
+Query: 15  KIKPIYIESMLQEMGPRQTQMFI 37
+           K+KP+Y  S L+E+G  +T  F+
+Sbjct: 435 KVKPVY--SHLKELG--KTSAFV 453
+
+
+>3HTZ_A
+          Length = 464
+
+ Score = 21.1 bits (43), Expect =   198,   Method: Composition-based stats.
+ Identities = 10/23 (43%), Positives = 16/23 (69%), Gaps = 4/23 (17%)
+
+Query: 15  KIKPIYIESMLQEMGPRQTQMFI 37
+           K+KP+Y  S L+E+G  +T  F+
+Sbjct: 434 KVKPVY--SHLKELG--KTSAFV 452
+
+
+>4HTI_A
+          Length = 99
+
+ Score = 21.1 bits (43), Expect =   200,   Method: Composition-based stats.
+ Identities = 12/48 (25%), Positives = 26/48 (54%), Gaps = 1/48 (2%)
+
+Query: 4  RKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKA 51
+          R+ ++ ++ LL++ P    + ++ +GP  T     +  N + E+V KA
+Sbjct: 27 RRLVEDVARLLQV-PSSAFADVEVLGPAVTFKVSANVQNVTTEDVEKA 73
+
+
+>3PHO_B
+          Length = 222
+
+ Score = 21.1 bits (43), Expect =   201,   Method: Composition-based stats.
+ Identities = 6/12 (50%), Positives = 7/12 (58%)
+
+Query: 36 FIRSTSNGSAEE 47
+          FIR+  NG   E
+Sbjct: 50 FIRNKGNGYTTE 61
+
+
+>3PHQ_B
+          Length = 222
+
+ Score = 21.1 bits (43), Expect =   201,   Method: Composition-based stats.
+ Identities = 6/12 (50%), Positives = 7/12 (58%)
+
+Query: 36 FIRSTSNGSAEE 47
+          FIR+  NG   E
+Sbjct: 50 FIRNKGNGYTTE 61
+
+
+>3ZFX_G
+          Length = 298
+
+ Score = 21.1 bits (43), Expect =   203,   Method: Composition-based stats.
+ Identities = 12/63 (19%), Positives = 27/63 (42%), Gaps = 13/63 (20%)
+
+Query: 1  SDTRKAIDTISNLLKIKPIYIESM-------------LQEMGPRQTQMFIRSTSNGSAEE 47
+          SD  +A+   +  + +  + IE +             L+  G R+  + I++   G +E+
+Sbjct: 3  SDPNEAVREFAKEIDVSFVKIEEVIGAGEFGEVYKGRLKLPGKREIYVAIKTLKAGYSEK 62
+
+Query: 48 VRK 50
+           R+
+Sbjct: 63 QRR 65
+
+
+>2HLE_B
+          Length = 138
+
+ Score = 21.1 bits (43), Expect =   203,   Method: Composition-based stats.
+ Identities = 8/17 (47%), Positives = 10/17 (58%)
+
+Query: 30  PRQTQMFIRSTSNGSAE 46
+            +    +I STSNGS E
+Sbjct: 100 QKNKDYYIISTSNGSLE 116
+
+
+>2VSM_B
+          Length = 140
+
+ Score = 21.1 bits (43), Expect =   203,   Method: Composition-based stats.
+ Identities = 8/17 (47%), Positives = 10/17 (58%)
+
+Query: 30  PRQTQMFIRSTSNGSAE 46
+            +    +I STSNGS E
+Sbjct: 100 QKNKDYYIISTSNGSLE 116
+
+
+>1IKO_P
+          Length = 178
+
+ Score = 21.1 bits (43), Expect =   203,   Method: Composition-based stats.
+ Identities = 8/17 (47%), Positives = 10/17 (58%)
+
+Query: 30  PRQTQMFIRSTSNGSAE 46
+            +    +I STSNGS E
+Sbjct: 101 QKNKDYYIISTSNGSLE 117
+
+
+>2VSK_B
+          Length = 138
+
+ Score = 21.1 bits (43), Expect =   203,   Method: Composition-based stats.
+ Identities = 8/17 (47%), Positives = 10/17 (58%)
+
+Query: 30  PRQTQMFIRSTSNGSAE 46
+            +    +I STSNGS E
+Sbjct: 100 QKNKDYYIISTSNGSLE 116
+
+
+>2I85_A
+          Length = 142
+
+ Score = 21.1 bits (43), Expect =   203,   Method: Composition-based stats.
+ Identities = 8/17 (47%), Positives = 10/17 (58%)
+
+Query: 30  PRQTQMFIRSTSNGSAE 46
+            +    +I STSNGS E
+Sbjct: 103 QKNKDYYIISTSNGSLE 119
+
+
+>1KGY_E
+          Length = 138
+
+ Score = 21.1 bits (43), Expect =   203,   Method: Composition-based stats.
+ Identities = 8/17 (47%), Positives = 10/17 (58%)
+
+Query: 30  PRQTQMFIRSTSNGSAE 46
+            +    +I STSNGS E
+Sbjct: 100 QKNKDYYIISTSNGSLE 116
+
+
+>2WO2_B
+          Length = 153
+
+ Score = 21.1 bits (43), Expect =   203,   Method: Composition-based stats.
+ Identities = 8/17 (47%), Positives = 10/17 (58%)
+
+Query: 30  PRQTQMFIRSTSNGSAE 46
+            +    +I STSNGS E
+Sbjct: 104 QKNKDYYIISTSNGSLE 120
+
+
+>3GXU_B
+          Length = 143
+
+ Score = 21.1 bits (43), Expect =   203,   Method: Composition-based stats.
+ Identities = 8/17 (47%), Positives = 10/17 (58%)
+
+Query: 30  PRQTQMFIRSTSNGSAE 46
+            +    +I STSNGS E
+Sbjct: 101 QKNKDYYIISTSNGSLE 117
+
+
+>3M3W_B
+          Length = 320
+
+ Score = 21.1 bits (43), Expect =   203,   Method: Composition-based stats.
+ Identities = 10/35 (28%), Positives = 17/35 (48%), Gaps = 5/35 (14%)
+
+Query: 9   TISNLLKIKPIYIESMLQ-----EMGPRQTQMFIR 38
+           T++ L +  P Y+E M Q     +   RQ  +F +
+Sbjct: 209 TLAELNRYTPRYMEDMEQAFESCQAAERQRLLFFK 243
+
+
+>3SYV_H
+          Length = 347
+
+ Score = 21.1 bits (43), Expect =   203,   Method: Composition-based stats.
+ Identities = 10/35 (28%), Positives = 17/35 (48%), Gaps = 5/35 (14%)
+
+Query: 9   TISNLLKIKPIYIESMLQ-----EMGPRQTQMFIR 38
+           T++ L +  P Y+E M Q     +   RQ  +F +
+Sbjct: 215 TLAELNRYTPRYMEDMEQAFESCQAAERQRLLFFK 249
+
+
+>4NVS_B
+          Length = 163
+
+ Score = 21.1 bits (43), Expect =   206,   Method: Composition-based stats.
+ Identities = 8/25 (32%), Positives = 16/25 (64%)
+
+Query: 2   DTRKAIDTISNLLKIKPIYIESMLQ 26
+           D+  +ID ++  + +   YIES+L+
+Sbjct: 131 DSGLSIDEVAKRMDVTVEYIESVLE 155
+
+
+>3NV6_A
+          Length = 452
+
+ Score = 21.1 bits (43), Expect =   208,   Method: Composition-based stats.
+ Identities = 11/33 (33%), Positives = 17/33 (51%), Gaps = 2/33 (6%)
+
+Query: 4   RKAIDTISNLLKIKPIYIESMLQEMGPRQTQMF 36
+           RKA+D   NL KI+   +E  ++E+       F
+Sbjct: 148 RKALDKGLNLAKIRK--VEDKVREVASSLIDSF 178
+
+
+>4DXY_A
+          Length = 417
+
+ Score = 21.1 bits (43), Expect =   208,   Method: Composition-based stats.
+ Identities = 11/33 (33%), Positives = 17/33 (51%), Gaps = 2/33 (6%)
+
+Query: 4   RKAIDTISNLLKIKPIYIESMLQEMGPRQTQMF 36
+           RKA+D   NL KI+   +E  ++E+       F
+Sbjct: 113 RKALDKGLNLAKIRK--VEDKVREVASSLIDSF 143
+
+
+>1VHN_A
+          Length = 318
+
+ Score = 21.1 bits (43), Expect =   210,   Method: Composition-based stats.
+ Identities = 6/32 (18%), Positives = 18/32 (56%)
+
+Query: 20  YIESMLQEMGPRQTQMFIRSTSNGSAEEVRKA 51
+           ++E +++  G R+  + +R    G  ++++ A
+Sbjct: 250 HLELLIKTKGERKAVVEMRKFLAGYTKDLKGA 281
+
+
+>1J3K_C
+          Length = 328
+
+ Score = 21.1 bits (43), Expect =   210,   Method: Composition-based stats.
+ Identities = 9/33 (27%), Positives = 18/33 (54%), Gaps = 5/33 (15%)
+
+Query: 13  LLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSA 45
+           LL  K +++  +++E+       FIR  +NG+ 
+Sbjct: 88  LLTTKKLFLRGIIEEL-----LWFIRGETNGNT 115
+
+
+>3JSU_A
+          Length = 608
+
+ Score = 21.1 bits (43), Expect =   210,   Method: Composition-based stats.
+ Identities = 9/33 (27%), Positives = 18/33 (54%), Gaps = 5/33 (15%)
+
+Query: 13  LLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSA 45
+           LL  K +++  +++E+       FIR  +NG+ 
+Sbjct: 368 LLTTKKLFLRGIIEEL-----LWFIRGETNGNT 395
+
+
+>3QGT_A
+          Length = 608
+
+ Score = 21.1 bits (43), Expect =   210,   Method: Composition-based stats.
+ Identities = 9/33 (27%), Positives = 18/33 (54%), Gaps = 5/33 (15%)
+
+Query: 13  LLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSA 45
+           LL  K +++  +++E+       FIR  +NG+ 
+Sbjct: 368 LLTTKKLFLRGIIEEL-----LWFIRGETNGNT 395
+
+
+>3UM5_A
+          Length = 608
+
+ Score = 21.1 bits (43), Expect =   210,   Method: Composition-based stats.
+ Identities = 9/33 (27%), Positives = 18/33 (54%), Gaps = 5/33 (15%)
+
+Query: 13  LLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSA 45
+           LL  K +++  +++E+       FIR  +NG+ 
+Sbjct: 368 LLTTKKLFLRGIIEEL-----LWFIRGETNGNT 395
+
+
+>3ANJ_A
+          Length = 398
+
+ Score = 21.1 bits (43), Expect =   212,   Method: Composition-based stats.
+ Identities = 6/12 (50%), Positives = 11/12 (91%)
+
+Query: 13 LLKIKPIYIESM 24
+          ++KIKP+ +ES+
+Sbjct: 1  MMKIKPVKVESI 12
+
+
+>3ANK_A
+          Length = 398
+
+ Score = 21.1 bits (43), Expect =   212,   Method: Composition-based stats.
+ Identities = 6/12 (50%), Positives = 11/12 (91%)
+
+Query: 13 LLKIKPIYIESM 24
+          ++KIKP+ +ES+
+Sbjct: 1  MMKIKPVKVESI 12
+
+
+>3VXD_B
+          Length = 398
+
+ Score = 21.1 bits (43), Expect =   212,   Method: Composition-based stats.
+ Identities = 6/12 (50%), Positives = 11/12 (91%)
+
+Query: 13 LLKIKPIYIESM 24
+          ++KIKP+ +ES+
+Sbjct: 1  MMKIKPVKVESI 12
+
+
+>3KQF_A
+          Length = 265
+
+ Score = 20.7 bits (42), Expect =   213,   Method: Composition-based stats.
+ Identities = 10/38 (26%), Positives = 18/38 (47%)
+
+Query: 12  NLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVR 49
+           +LL+ K I I   +   GP   ++   + SNG   ++ 
+Sbjct: 191 HLLEEKAIEIAEKIASNGPIAVRLAKEAISNGIQVDLH 228
+
+
+>3SQ5_B
+          Length = 470
+
+ Score = 20.7 bits (42), Expect =   213,   Method: Composition-based stats.
+ Identities = 12/40 (30%), Positives = 20/40 (50%), Gaps = 2/40 (5%)
+
+Query: 5   KAID-TISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNG 43
+           +A+D T++ +LK K   IE  +       T++ I    NG
+Sbjct: 78  RAMDATLAVILK-KVKLIEITMPPFASHHTKLIINFYDNG 116
+
+
+
+ Score = 16.1 bits (30), Expect =  5573,   Method: Composition-based stats.
+ Identities = 7/13 (53%), Positives = 7/13 (53%)
+
+Query: 15  KIKPIYIESMLQE 27
+           KIKP  I    QE
+Sbjct: 290 KIKPYIIFPTEQE 302
+
+
+>3SQ7_B
+          Length = 470
+
+ Score = 20.7 bits (42), Expect =   213,   Method: Composition-based stats.
+ Identities = 12/40 (30%), Positives = 20/40 (50%), Gaps = 2/40 (5%)
+
+Query: 5   KAID-TISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNG 43
+           +A+D T++ +LK K   IE  +       T++ I    NG
+Sbjct: 78  RAMDATLAVILK-KVKLIEITMPPFASHHTKLIINFYDNG 116
+
+
+
+ Score = 16.1 bits (30), Expect =  5573,   Method: Composition-based stats.
+ Identities = 7/13 (53%), Positives = 7/13 (53%)
+
+Query: 15  KIKPIYIESMLQE 27
+           KIKP  I    QE
+Sbjct: 290 KIKPYIIFPTEQE 302
+
+
+>3SQ8_B
+          Length = 470
+
+ Score = 20.7 bits (42), Expect =   213,   Method: Composition-based stats.
+ Identities = 12/40 (30%), Positives = 20/40 (50%), Gaps = 2/40 (5%)
+
+Query: 5   KAID-TISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNG 43
+           +A+D T++ +LK K   IE  +       T++ I    NG
+Sbjct: 78  RAMDATLAVILK-KVKLIEITMPPFASHHTKLIINFYDNG 116
+
+
+
+ Score = 16.1 bits (30), Expect =  5573,   Method: Composition-based stats.
+ Identities = 7/13 (53%), Positives = 7/13 (53%)
+
+Query: 15  KIKPIYIESMLQE 27
+           KIKP  I    QE
+Sbjct: 290 KIKPYIIFPTEQE 302
+
+
+>4GXT_A
+          Length = 385
+
+ Score = 20.7 bits (42), Expect =   213,   Method: Composition-based stats.
+ Identities = 7/30 (23%), Positives = 16/30 (53%)
+
+Query: 23  SMLQEMGPRQTQMFIRSTSNGSAEEVRKAA 52
+           +ML+E       + I   ++G  +++R+ A
+Sbjct: 326 AMLKEFDHTDLSLIIHRANSGLIDDLRQKA 355
+
+
+>4HLZ_G
+          Length = 229
+
+ Score = 20.7 bits (42), Expect =   215,   Method: Composition-based stats.
+ Identities = 6/12 (50%), Positives = 7/12 (58%)
+
+Query: 36 FIRSTSNGSAEE 47
+          FIR  +NG   E
+Sbjct: 50 FIRDRANGYTTE 61
+
+
+>2DGU_A
+          Length = 103
+
+ Score = 20.7 bits (42), Expect =   215,   Method: Composition-based stats.
+ Identities = 6/19 (31%), Positives = 13/19 (68%)
+
+Query: 35 MFIRSTSNGSAEEVRKAAY 53
+          +F+R+ +N   EE+ + A+
+Sbjct: 14 LFVRNLANTVTEEILEKAF 32
+
+
+>3J39_e
+          Length = 134
+
+ Score = 20.7 bits (42), Expect =   224,   Method: Composition-based stats.
+ Identities = 10/37 (27%), Positives = 20/37 (54%), Gaps = 4/37 (10%)
+
+Query: 14 LKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRK 50
+          + I+P Y   +++    ++T+ FIR  S+  A+   K
+Sbjct: 1  MTIRPAYRPKIVK----KRTKHFIRHQSDRYAKLSHK 33
+
+
+>3JZ3_A
+          Length = 222
+
+ Score = 20.7 bits (42), Expect =   226,   Method: Composition-based stats.
+ Identities = 12/49 (24%), Positives = 23/49 (46%), Gaps = 6/49 (12%)
+
+Query: 3   TRKAIDTISNLLKIKPIYIESMLQEM------GPRQTQMFIRSTSNGSA 45
+           T   +D++ NL  +  I +E +LQ          +Q ++ +R T N  +
+Sbjct: 60  TLSRLDSLDNLQDVAEIPLEDLLQSSVMDIYHTAQQAKIDVRLTLNAHS 108
+
+
+>2ZNL_A
+          Length = 478
+
+ Score = 20.7 bits (42), Expect =   228,   Method: Composition-based stats.
+ Identities = 9/34 (26%), Positives = 18/34 (52%), Gaps = 3/34 (8%)
+
+Query: 13  LLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAE 46
+           +L+I  + I S +   G     MF+   +NG+++
+Sbjct: 304 VLEIGDMLIRSAI---GQVSRPMFLYVRTNGTSK 334
+
+
+>3DKO_A
+          Length = 318
+
+ Score = 20.7 bits (42), Expect =   228,   Method: Composition-based stats.
+ Identities = 6/22 (27%), Positives = 11/22 (50%)
+
+Query: 29 GPRQTQMFIRSTSNGSAEEVRK 50
+          G R   + I++   G  E+ R+
+Sbjct: 68 GKRDVAVAIKTLKVGYTEKQRR 89
+
+
+>2M85_A
+          Length = 73
+
+ Score = 20.7 bits (42), Expect =   230,   Method: Composition-based stats.
+ Identities = 10/21 (47%), Positives = 11/21 (52%)
+
+Query: 14 LKIKPIYIESMLQEMGPRQTQ 34
+          LKIKP Y    L  M P  T+
+Sbjct: 53 LKIKPFYCPHCLVAMEPVSTR 73
+
+
+>1LKX_A
+          Length = 697
+
+ Score = 20.7 bits (42), Expect =   232,   Method: Composition-based stats.
+ Identities = 12/48 (25%), Positives = 21/48 (43%), Gaps = 3/48 (6%)
+
+Query: 10  ISNLLKIKPIYIESMLQE---MGPRQTQMFIRSTSNGSAEEVRKAAYL 54
+           I  L++ KPI + S+L E   +     Q F+ S      +     +Y+
+Sbjct: 444 ICELIEKKPIGLISLLDEACLIAKSTDQTFLDSICKQFEKNPHLQSYV 491
+
+
+>4A7F_G
+          Length = 697
+
+ Score = 20.7 bits (42), Expect =   232,   Method: Composition-based stats.
+ Identities = 12/48 (25%), Positives = 21/48 (43%), Gaps = 3/48 (6%)
+
+Query: 10  ISNLLKIKPIYIESMLQE---MGPRQTQMFIRSTSNGSAEEVRKAAYL 54
+           I  L++ KPI + S+L E   +     Q F+ S      +     +Y+
+Sbjct: 444 ICELIEKKPIGLISLLDEACLIAKSTDQTFLDSICKQFEKNPHLQSYV 491
+
+
+>2UUD_H
+          Length = 121
+
+ Score = 20.7 bits (42), Expect =   236,   Method: Composition-based stats.
+ Identities = 5/12 (41%), Positives = 8/12 (66%)
+
+Query: 36 FIRSTSNGSAEE 47
+          FIR+ +NG   +
+Sbjct: 50 FIRNKANGYTTD 61
+
+
+>4IXJ_A
+          Length = 283
+
+ Score = 20.7 bits (42), Expect =   238,   Method: Composition-based stats.
+ Identities = 9/38 (23%), Positives = 17/38 (44%)
+
+Query: 5  KAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSN 42
+          KA+  +SN   IK   + +M +E    + ++      N
+Sbjct: 53 KAVTCLSNRENIKTQIVIAMAEESSKDKNEVIKEVLEN 90
+
+
+>2P82_A
+          Length = 355
+
+ Score = 20.7 bits (42), Expect =   238,   Method: Composition-based stats.
+ Identities = 6/20 (30%), Positives = 11/20 (55%)
+
+Query: 28  MGPRQTQMFIRSTSNGSAEE 47
+           + P  TQ F+ +  NG+  +
+Sbjct: 274 LDPHTTQTFVDTEENGTVND 293
+
+
+>3VUP_A
+          Length = 351
+
+ Score = 20.7 bits (42), Expect =   238,   Method: Composition-based stats.
+ Identities = 10/31 (32%), Positives = 15/31 (48%), Gaps = 2/31 (6%)
+
+Query: 17  KPIYIESMLQEMGPRQT--QMFIRSTSNGSA 45
+           KPI +    ++ G   T  QMF    ++G A
+Sbjct: 287 KPIVVGEFWEQDGGGMTITQMFNYVYNHGYA 317
+
+
+>4IEG_C
+          Length = 659
+
+ Score = 20.7 bits (42), Expect =   240,   Method: Composition-based stats.
+ Identities = 6/13 (46%), Positives = 10/13 (76%)
+
+Query: 15  KIKPIYIESMLQE 27
+           K++PI+ E M +E
+Sbjct: 640 KLQPIFFERMFKE 652
+
+
+>1ZT2_A
+          Length = 330
+
+ Score = 20.7 bits (42), Expect =   240,   Method: Composition-based stats.
+ Identities = 10/28 (35%), Positives = 15/28 (53%), Gaps = 3/28 (10%)
+
+Query: 22 ESMLQEMGPRQTQMFIRSTSNGSAEEVR 49
+          E  LQ  G   +  ++R  S  S+EE+R
+Sbjct: 37 EFALQPFG---SDTYVRHLSFSSSEELR 61
+
+
+>4LFM_D
+          Length = 172
+
+ Score = 20.7 bits (42), Expect =   242,   Method: Composition-based stats.
+ Identities = 6/18 (33%), Positives = 14/18 (77%)
+
+Query: 12 NLLKIKPIYIESMLQEMG 29
+          +++ ++ I I +ML++MG
+Sbjct: 9  HIVTMQKIEISNMLKDMG 26
+
+
+>1GON_A
+          Length = 479
+
+ Score = 20.7 bits (42), Expect =   242,   Method: Composition-based stats.
+ Identities = 9/42 (21%), Positives = 20/42 (47%), Gaps = 4/42 (9%)
+
+Query: 1   SDTRKAIDTISNLLKIKPI----YIESMLQEMGPRQTQMFIR 38
+           +D  + ID ++N +   P+    Y E ++++        F+R
+Sbjct: 249 ADAVRRIDALANRVFTGPMLQGAYPEDLVKDTAGLTDWSFVR 290
+
+
+>1YQT_A
+          Length = 538
+
+ Score = 20.7 bits (42), Expect =   242,   Method: Composition-based stats.
+ Identities = 10/39 (25%), Positives = 21/39 (53%)
+
+Query: 16  IKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAAYL 54
+           +KP Y++ + + +  +  ++  ++   G  EEV KA  L
+Sbjct: 110 VKPQYVDLIPKAVKGKVIELLKKADETGKLEEVVKALEL 148
+
+
+>3FHO_A
+          Length = 508
+
+ Score = 20.7 bits (42), Expect =   244,   Method: Composition-based stats.
+ Identities = 14/47 (29%), Positives = 26/47 (55%), Gaps = 3/47 (6%)
+
+Query: 7   IDTISNLLKIKPIYIESM-LQEMGPRQTQMFIRSTSNGSAEEVRKAA 52
+           +D   N+L  + +  +SM ++ + PR TQ+ + S +   +E V K A
+Sbjct: 265 LDEADNMLDQQGLGDQSMRIKHLLPRNTQIVLFSAT--FSERVEKYA 309
+
+
+>1MJE_A
+          Length = 649
+
+ Score = 20.7 bits (42), Expect =   246,   Method: Composition-based stats.
+ Identities = 8/21 (38%), Positives = 13/21 (61%)
+
+Query: 18  PIYIESMLQEMGPRQTQMFIR 38
+           P+  E++LQ   PR++  F R
+Sbjct: 494 PVSSETLLQVYQPRESLHFSR 514
+
+
+>3IEC_A
+          Length = 319
+
+ Score = 20.7 bits (42), Expect =   248,   Method: Composition-based stats.
+ Identities = 10/33 (30%), Positives = 18/33 (54%), Gaps = 4/33 (12%)
+
+Query: 15  KIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEE 47
+           ++KP Y+E +     PR+T++ +   S G   E
+Sbjct: 268 ELKP-YVEPLPDYKDPRRTELMV---SMGYTRE 296
+
+
+>4DB1_B
+          Length = 783
+
+ Score = 20.7 bits (42), Expect =   252,   Method: Composition-based stats.
+ Identities = 14/40 (35%), Positives = 21/40 (52%), Gaps = 7/40 (17%)
+
+Query: 2   DTRKAIDTISNLLKIKPIYIESMLQE--MGPRQTQMFIRS 39
+           D +  ID I      KP+ I S+L+E  M P+ T M  ++
+Sbjct: 516 DLQACIDLIE-----KPMGIMSILEEECMFPKATDMTFKA 550
+
+
+
+ Score = 17.6 bits (34), Expect =  1837,   Method: Composition-based stats.
+ Identities = 6/10 (60%), Positives = 7/10 (70%)
+
+Query: 45  AEEVRKAAYL 54
+            EE  K+AYL
+Sbjct: 378 TEEADKSAYL 387
+
+
+>1KGZ_A
+          Length = 345
+
+ Score = 20.7 bits (42), Expect =   254,   Method: Composition-based stats.
+ Identities = 12/41 (29%), Positives = 19/41 (46%), Gaps = 1/41 (2%)
+
+Query: 2   DTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSN 42
+           D+R+A+D ++      P Y       M  RQ Q+  R+  N
+Sbjct: 149 DSRQALDDLNVCFLFAPQYHTGFRHAMPVRQ-QLKTRTIFN 188
+
+
+>3VZI_B
+          Length = 226
+
+ Score = 20.7 bits (42), Expect =   259,   Method: Composition-based stats.
+ Identities = 15/49 (30%), Positives = 26/49 (53%), Gaps = 5/49 (10%)
+
+Query: 4  RKAIDTISNLLKIKPIYIESMLQ-EMGPRQTQMFI-RSTSNGSAEEVRK 50
+          R  +D+I  L   KPI  ES+ + E+G + +   I ++   G  +E+ K
+Sbjct: 52 RWVVDSIQVL---KPICFESIRRNEVGSKLSAASISKAIKAGRTDELVK 97
+
+
+>1ZMW_A
+          Length = 327
+
+ Score = 20.7 bits (42), Expect =   259,   Method: Composition-based stats.
+ Identities = 10/33 (30%), Positives = 18/33 (54%), Gaps = 4/33 (12%)
+
+Query: 15  KIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEE 47
+           ++KP Y+E +     PR+T++ +   S G   E
+Sbjct: 275 ELKP-YVEPLPDYKDPRRTELMV---SMGYTRE 303
+
+
+>3H93_A
+          Length = 192
+
+ Score = 20.7 bits (42), Expect =   263,   Method: Composition-based stats.
+ Identities = 7/20 (35%), Positives = 10/20 (50%)
+
+Query: 34 QMFIRSTSNGSAEEVRKAAY 53
+          QMF+   S G   +V  A +
+Sbjct: 76 QMFLTLESMGVEHDVHNAVF 95
+
+
+>1Q32_A
+          Length = 544
+
+ Score = 20.7 bits (42), Expect =   265,   Method: Composition-based stats.
+ Identities = 12/40 (30%), Positives = 20/40 (50%), Gaps = 2/40 (5%)
+
+Query: 5   KAID-TISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNG 43
+           +A+D T++ +LK K   IE  +       T++ I    NG
+Sbjct: 155 RAMDATLAVILK-KVKLIEITMPPFASHHTKLIINFYDNG 193
+
+
+
+ Score = 16.1 bits (30), Expect =  6058,   Method: Composition-based stats.
+ Identities = 7/13 (53%), Positives = 7/13 (53%)
+
+Query: 15  KIKPIYIESMLQE 27
+           KIKP  I    QE
+Sbjct: 367 KIKPYIIFPTEQE 379
+
+
+>2R2P_A
+          Length = 295
+
+ Score = 20.7 bits (42), Expect =   270,   Method: Composition-based stats.
+ Identities = 6/22 (27%), Positives = 12/22 (54%)
+
+Query: 29 GPRQTQMFIRSTSNGSAEEVRK 50
+          G R+  + I++   G  E+ R+
+Sbjct: 47 GKRELPVAIKTLKVGYTEKQRR 68
+
+
+>1ZMU_A
+          Length = 327
+
+ Score = 20.7 bits (42), Expect =   270,   Method: Composition-based stats.
+ Identities = 10/33 (30%), Positives = 18/33 (54%), Gaps = 4/33 (12%)
+
+Query: 15  KIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEE 47
+           ++KP Y+E +     PR+T++ +   S G   E
+Sbjct: 275 ELKP-YVEPLPDYKDPRRTELMV---SMGYTRE 303
+
+
+>1ZMV_A
+          Length = 327
+
+ Score = 20.7 bits (42), Expect =   270,   Method: Composition-based stats.
+ Identities = 10/33 (30%), Positives = 18/33 (54%), Gaps = 4/33 (12%)
+
+Query: 15  KIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEE 47
+           ++KP Y+E +     PR+T++ +   S G   E
+Sbjct: 275 ELKP-YVEPLPDYKDPRRTELMV---SMGYTRE 303
+
+
+>2WZJ_A
+          Length = 327
+
+ Score = 20.7 bits (42), Expect =   270,   Method: Composition-based stats.
+ Identities = 10/33 (30%), Positives = 18/33 (54%), Gaps = 4/33 (12%)
+
+Query: 15  KIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEE 47
+           ++KP Y+E +     PR+T++ +   S G   E
+Sbjct: 275 ELKP-YVEPLPDYKDPRRTELMV---SMGYTRE 303
+
+
+>2Q3Z_A
+          Length = 687
+
+ Score = 20.7 bits (42), Expect =   274,   Method: Composition-based stats.
+ Identities = 6/17 (35%), Positives = 13/17 (76%)
+
+Query: 9   TISNLLKIKPIYIESML 25
+           T SNL+K++ + +E ++
+Sbjct: 556 TESNLIKVRALLVEPVI 572
+
+
+>3LY6_A
+          Length = 697
+
+ Score = 20.7 bits (42), Expect =   274,   Method: Composition-based stats.
+ Identities = 6/17 (35%), Positives = 13/17 (76%)
+
+Query: 9   TISNLLKIKPIYIESML 25
+           T SNL+K++ + +E ++
+Sbjct: 556 TESNLIKVRALLVEPVI 572
+
+
+>3S3P_A
+          Length = 694
+
+ Score = 20.7 bits (42), Expect =   274,   Method: Composition-based stats.
+ Identities = 6/17 (35%), Positives = 13/17 (76%)
+
+Query: 9   TISNLLKIKPIYIESML 25
+           T SNL+K++ + +E ++
+Sbjct: 563 TESNLIKVRALLVEPVI 579
+
+
+>2PFD_B
+          Length = 541
+
+ Score = 20.7 bits (42), Expect =   276,   Method: Composition-based stats.
+ Identities = 10/38 (26%), Positives = 20/38 (52%), Gaps = 1/38 (2%)
+
+Query: 18  PIYIESMLQEMGPRQTQMFIRSTS-NGSAEEVRKAAYL 54
+           P+Y+     +M  RQT   IR+       E++++A ++
+Sbjct: 122 PVYLYGEAAQMPSRQTLPAIRAGEYEALPEKLKQAEWV 159
+
+
+
+ Score = 18.4 bits (36), Expect =  1114,   Method: Composition-based stats.
+ Identities = 8/30 (26%), Positives = 16/30 (53%), Gaps = 1/30 (3%)
+
+Query: 4   RKAIDTISNLLKIKPIYIESMLQEMGPRQT 33
+           R  +D+++     K   IE ++ + GP Q+
+Sbjct: 306 RLGLDSLAPF-DPKERIIEYLVPDSGPEQS 334
+
+
+
+ Score = 15.3 bits (28), Expect = 10507,   Method: Composition-based stats.
+ Identities = 5/7 (71%), Positives = 6/7 (85%)
+
+Query: 21  IESMLQE 27
+           I S+LQE
+Sbjct: 518 ISSLLQE 524
+
+
+>2HCY_A
+          Length = 347
+
+ Score = 20.7 bits (42), Expect =   276,   Method: Composition-based stats.
+ Identities = 8/21 (38%), Positives = 13/21 (61%)
+
+Query: 1   SDTRKAIDTISNLLKIKPIYI 21
+           +DTR+A+D  +  L   PI +
+Sbjct: 299 ADTREALDFFARGLVKSPIKV 319
+
+
+>1HN0_A
+          Length = 1021
+
+ Score = 20.3 bits (41), Expect =   279,   Method: Composition-based stats.
+ Identities = 13/39 (33%), Positives = 16/39 (41%)
+
+Query: 6   AIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGS 44
+           AI    N L I    IE+M  +   +Q    I S  NG 
+Sbjct: 789 AITPTLNTLWINGQKIENMPYQTTLQQGDWLIDSNGNGY 827
+
+
+>1MIU_A
+          Length = 738
+
+ Score = 20.3 bits (41), Expect =   279,   Method: Composition-based stats.
+ Identities = 8/21 (38%), Positives = 13/21 (61%)
+
+Query: 18  PIYIESMLQEMGPRQTQMFIR 38
+           P+  E++LQ   PR++  F R
+Sbjct: 581 PVSSETLLQVYQPRESLHFSR 601
+
+
+>3KAA_A
+          Length = 118
+
+ Score = 20.3 bits (41), Expect =   279,   Method: Composition-based stats.
+ Identities = 8/16 (50%), Positives = 9/16 (56%)
+
+Query: 39 STSNGSAEEVRKAAYL 54
+          S  +G   EV K AYL
+Sbjct: 2  SLEDGYKVEVGKNAYL 17
+
+
+  Database: MUFOLD_04302014_AA
+    Posted date:  May 7, 2014  7:08 PM
+  Number of letters in database: 16,662,166
+  Number of sequences in database:  65,819
+  
+Lambda     K      H
+   0.304    0.140    0.384 
+
+Lambda     K      H
+   0.267   0.0436    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Hits to DB: 1,845,062
+Number of Sequences: 65819
+Number of extensions: 58290
+Number of successful extensions: 5727
+Number of sequences better than 11000.0: 500
+Number of HSP's better than 11000.0 without gapping: 5382
+Number of HSP's successfully gapped in prelim test: 0
+Number of HSP's that attempted gapping in prelim test: 0
+Number of HSP's gapped (non-prelim): 5724
+length of query: 54
+length of database: 16,662,166
+effective HSP length: 26
+effective length of query: 28
+effective length of database: 14,950,872
+effective search space: 418624416
+effective search space used: 418624416
+T: 11
+A: 40
+X1: 16 ( 7.0 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 28 (15.1 bits)
+S2: 28 (15.3 bits)

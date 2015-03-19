@@ -1,0 +1,3503 @@
+{
+"2QNA_A":
+{
+	"name":"2QNA_A",
+	"length":762,
+	"EValue":0.77,
+	"QueryStartFrom":2,
+	"QueryPart":"DTRKAIDTISNLLKIKPIYIESMLQEMGP",
+	"QueryFinishAt":30,
+	"Alignment":"DTR  +  + NL+KI  +Y + M   MGP",
+	"SubjectStartFrom":105,
+	"SubjectPart":"DTRVRVAALQNLVKIMSLYYQYMETYMGP",
+	"SubjectFinishAt":133
+},
+
+"1QGK_A":
+{
+	"name":"1QGK_A",
+	"length":876,
+	"EValue":0.82,
+	"QueryStartFrom":2,
+	"QueryPart":"DTRKAIDTISNLLKIKPIYIESMLQEMGP",
+	"QueryFinishAt":30,
+	"Alignment":"DTR  +  + NL+KI  +Y + M   MGP",
+	"SubjectStartFrom":230,
+	"SubjectPart":"DTRVRVAALQNLVKIMSLYYQYMETYMGP",
+	"SubjectFinishAt":258
+},
+
+"1M5N_S":
+{
+	"name":"1M5N_S",
+	"length":485,
+	"EValue":0.82,
+	"QueryStartFrom":2,
+	"QueryPart":"DTRKAIDTISNLLKIKPIYIESMLQEMGP",
+	"QueryFinishAt":30,
+	"Alignment":"DTR  +  + NL+KI  +Y + M   MGP",
+	"SubjectStartFrom":230,
+	"SubjectPart":"DTRVRVAALQNLVKIMSLYYQYMETYMGP",
+	"SubjectFinishAt":258
+},
+
+"1IBR_B":
+{
+	"name":"1IBR_B",
+	"length":462,
+	"EValue":0.82,
+	"QueryStartFrom":2,
+	"QueryPart":"DTRKAIDTISNLLKIKPIYIESMLQEMGP",
+	"QueryFinishAt":30,
+	"Alignment":"DTR  +  + NL+KI  +Y + M   MGP",
+	"SubjectStartFrom":230,
+	"SubjectPart":"DTRVRVAALQNLVKIMSLYYQYMETYMGP",
+	"SubjectFinishAt":258
+},
+
+"3W5K_A":
+{
+	"name":"3W5K_A",
+	"length":876,
+	"EValue":0.87,
+	"QueryStartFrom":2,
+	"QueryPart":"DTRKAIDTISNLLKIKPIYIESMLQEMGP",
+	"QueryFinishAt":30,
+	"Alignment":"DTR  +  + NL+KI  +Y + M   MGP",
+	"SubjectStartFrom":230,
+	"SubjectPart":"DTRVRVAALQNLVKIMSLYYQYMETYMGP",
+	"SubjectFinishAt":258
+},
+
+"2Q5D_A":
+{
+	"name":"2Q5D_A",
+	"length":876,
+	"EValue":0.87,
+	"QueryStartFrom":2,
+	"QueryPart":"DTRKAIDTISNLLKIKPIYIESMLQEMGP",
+	"QueryFinishAt":30,
+	"Alignment":"DTR  +  + NL+KI  +Y + M   MGP",
+	"SubjectStartFrom":230,
+	"SubjectPart":"DTRVRVAALQNLVKIMSLYYQYMETYMGP",
+	"SubjectFinishAt":258
+},
+
+"1F59_A":
+{
+	"name":"1F59_A",
+	"length":442,
+	"EValue":0.87,
+	"QueryStartFrom":2,
+	"QueryPart":"DTRKAIDTISNLLKIKPIYIESMLQEMGP",
+	"QueryFinishAt":30,
+	"Alignment":"DTR  +  + NL+KI  +Y + M   MGP",
+	"SubjectStartFrom":230,
+	"SubjectPart":"DTRVRVAALQNLVKIMSLYYQYMETYMGP",
+	"SubjectFinishAt":258
+},
+
+"1UKL_A":
+{
+	"name":"1UKL_A",
+	"length":876,
+	"EValue":0.90,
+	"QueryStartFrom":2,
+	"QueryPart":"DTRKAIDTISNLLKIKPIYIESMLQEMGP",
+	"QueryFinishAt":30,
+	"Alignment":"DTR  +  + NL+KI  +Y + M   MGP",
+	"SubjectStartFrom":230,
+	"SubjectPart":"DTRVRVAALQNLVKIMSLYYQYMETYMGP",
+	"SubjectFinishAt":258
+},
+
+"1GCJ_A":
+{
+	"name":"1GCJ_A",
+	"length":460,
+	"EValue":0.92,
+	"QueryStartFrom":2,
+	"QueryPart":"DTRKAIDTISNLLKIKPIYIESMLQEMGP",
+	"QueryFinishAt":30,
+	"Alignment":"DTR  +  + NL+KI  +Y + M   MGP",
+	"SubjectStartFrom":236,
+	"SubjectPart":"DTRVRVAALQNLVKIMSLYYQYMETYMGP",
+	"SubjectFinishAt":264
+},
+
+"3FRN_A":
+{
+	"name":"3FRN_A",
+	"length":278,
+	"EValue":9.7,
+	"QueryStartFrom":15,
+	"QueryPart":"KIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKA",
+	"QueryFinishAt":51,
+	"Alignment":"++ P Y++     MG  +   F+    NG   E  +A",
+	"SubjectStartFrom":214,
+	"SubjectPart":"QVVPAYVD-----MGSIKVTTFVEVLENGYLGETVRA",
+	"SubjectFinishAt":245
+},
+
+"4KP2_B":
+{
+	"name":"4KP2_B",
+	"length":441,
+	"EValue":   11,
+	"QueryStartFrom":29,
+	"QueryPart":"GPRQTQMFIRSTSNGSAEEVRKAA-YL",
+	"QueryFinishAt":54,
+	"Alignment":"G    Q+FI S +NG   ++R+AA YL",
+	"SubjectStartFrom":312,
+	"SubjectPart":"GTEINQVFIGSCTNGRLSDLREAAKYL",
+	"SubjectFinishAt":338
+},
+
+"2BMB_A":
+{
+	"name":"2BMB_A",
+	"length":545,
+	"EValue":   15,
+	"QueryStartFrom":14,
+	"QueryPart":"LKIKPIYIESMLQEMGPRQTQMFIRSTSNG",
+	"QueryFinishAt":43,
+	"Alignment":"LK K + I ++ QE+G R    +I++  NG",
+	"SubjectStartFrom":402,
+	"SubjectPart":"LKDKTVLIRNVGQEIGER----YIKAIDNG",
+	"SubjectFinishAt":427
+},
+
+"2G54_A":
+{
+	"name":"2G54_A",
+	"length":990,
+	"EValue":   15,
+	"QueryStartFrom":17,
+	"QueryPart":"KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"+PI ++ ++++M   +          + ++RS +N  AE+  + A",
+	"SubjectStartFrom":609,
+	"SubjectPart":"QPILLKKIIEKMATFEIDEKRFEIIKEAYMRSLNNFRAEQPHQHA",
+	"SubjectFinishAt":653
+},
+
+"2JG4_A":
+{
+	"name":"2JG4_A",
+	"length":990,
+	"EValue":   15,
+	"QueryStartFrom":17,
+	"QueryPart":"KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"+PI ++ ++++M   +          + ++RS +N  AE+  + A",
+	"SubjectStartFrom":609,
+	"SubjectPart":"QPILLKKIIEKMATFEIDEKRFEIIKEAYMRSLNNFRAEQPHQHA",
+	"SubjectFinishAt":653
+},
+
+"3QGB_A":
+{
+	"name":"3QGB_A",
+	"length":413,
+	"EValue":   16,
+	"QueryStartFrom":1,
+	"QueryPart":"SDTRKAIDTISNLLKIKPIY",
+	"QueryFinishAt":20,
+	"Alignment":"S  +K I+T++NL    PIY",
+	"SubjectStartFrom":391,
+	"SubjectPart":"SSGKKMIETLANLRSTHPIY",
+	"SubjectFinishAt":410
+},
+
+"3QG9_A":
+{
+	"name":"3QG9_A",
+	"length":413,
+	"EValue":   16,
+	"QueryStartFrom":1,
+	"QueryPart":"SDTRKAIDTISNLLKIKPIY",
+	"QueryFinishAt":20,
+	"Alignment":"S  +K I+T++NL    PIY",
+	"SubjectStartFrom":391,
+	"SubjectPart":"SSGKKMIETLANLRSTHPIY",
+	"SubjectFinishAt":410
+},
+
+"4I3B_C":
+{
+	"name":"4I3B_C",
+	"length":139,
+	"EValue":   17,
+	"QueryStartFrom":1,
+	"QueryPart":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNG",
+	"QueryFinishAt":43,
+	"Alignment":"SD RK + ++ NL+  K +Y+    Q+   ++T  ++R   +G",
+	"SubjectStartFrom":80,
+	"SubjectPart":"SDRRKGVKSVVNLVGEKLVYV----QKWDGKET-TYVREIKDG",
+	"SubjectFinishAt":117
+},
+
+"4I3C_B":
+{
+	"name":"4I3C_B",
+	"length":139,
+	"EValue":   17,
+	"QueryStartFrom":1,
+	"QueryPart":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNG",
+	"QueryFinishAt":43,
+	"Alignment":"SD RK + ++ NL+  K +Y+    Q+   ++T  ++R   +G",
+	"SubjectStartFrom":80,
+	"SubjectPart":"SDRRKGVKSVVNLVGEKLVYV----QKWDGKET-TYVREIKDG",
+	"SubjectFinishAt":117
+},
+
+"4I3D_D":
+{
+	"name":"4I3D_D",
+	"length":139,
+	"EValue":   17,
+	"QueryStartFrom":1,
+	"QueryPart":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNG",
+	"QueryFinishAt":43,
+	"Alignment":"SD RK + ++ NL+  K +Y+    Q+   ++T  ++R   +G",
+	"SubjectStartFrom":80,
+	"SubjectPart":"SDRRKGVKSVVNLVGEKLVYV----QKWDGKET-TYVREIKDG",
+	"SubjectFinishAt":117
+},
+
+"3K64_A":
+{
+	"name":"3K64_A",
+	"length":412,
+	"EValue":   17,
+	"QueryStartFrom":1,
+	"QueryPart":"SDTRKAIDTISNLLKIKPIY",
+	"QueryFinishAt":20,
+	"Alignment":"S  +K I+T++NL    PIY",
+	"SubjectStartFrom":390,
+	"SubjectPart":"SSGKKMIETLANLRSTHPIY",
+	"SubjectFinishAt":409
+},
+
+"4A35_A":
+{
+	"name":"4A35_A",
+	"length":441,
+	"EValue":   17,
+	"QueryStartFrom":2,
+	"QueryPart":"DTRKAIDTISNLLKIKPIYIE",
+	"QueryFinishAt":22,
+	"Alignment":"D  +A++ +S L K KP++IE",
+	"SubjectStartFrom":257,
+	"SubjectPart":"DVPEAVEWMSKLAKFKPLWIE",
+	"SubjectFinishAt":277
+},
+
+"3E4A_A":
+{
+	"name":"3E4A_A",
+	"length":1019,
+	"EValue":   19,
+	"QueryStartFrom":17,
+	"QueryPart":"KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"+PI ++ ++++M   +          + ++RS +N  AE+  + A",
+	"SubjectStartFrom":638,
+	"SubjectPart":"QPILLKKIIEKMATFEIDEKRFEIIKEAYMRSLNNFRAEQPHQHA",
+	"SubjectFinishAt":682
+},
+
+"3CWW_A":
+{
+	"name":"3CWW_A",
+	"length":990,
+	"EValue":   19,
+	"QueryStartFrom":17,
+	"QueryPart":"KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"+PI ++ ++++M   +          + ++RS +N  AE+  + A",
+	"SubjectStartFrom":609,
+	"SubjectPart":"QPILLKKIIEKMATFEIDEARFEIIKEAYMRSLNNFRAEQPHQHA",
+	"SubjectFinishAt":653
+},
+
+"3E4Z_A":
+{
+	"name":"3E4Z_A",
+	"length":990,
+	"EValue":   19,
+	"QueryStartFrom":17,
+	"QueryPart":"KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"+PI ++ ++++M   +          + ++RS +N  AE+  + A",
+	"SubjectStartFrom":609,
+	"SubjectPart":"QPILLKKIIEKMATFEIDEKRFEIIKEAYMRSLNNFRAEQPHQHA",
+	"SubjectFinishAt":653
+},
+
+"2YB3_A":
+{
+	"name":"2YB3_A",
+	"length":969,
+	"EValue":   19,
+	"QueryStartFrom":17,
+	"QueryPart":"KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"+PI ++ ++++M   +          + ++RS +N  AE+  + A",
+	"SubjectStartFrom":596,
+	"SubjectPart":"QPILLKKIIEKMATFEIDEKRFEIIKEAYMRSLNNFRAEQPHQHA",
+	"SubjectFinishAt":640
+},
+
+"4GS8_B":
+{
+	"name":"4GS8_B",
+	"length":990,
+	"EValue":   20,
+	"QueryStartFrom":17,
+	"QueryPart":"KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"+PI ++ ++++M   +          + ++RS +N  AE+  + A",
+	"SubjectStartFrom":609,
+	"SubjectPart":"QPILLKKIIEKMATFEIDEKRFEIIKEAYMRSLNNFRAEQPHQHA",
+	"SubjectFinishAt":653
+},
+
+"2WBY_A":
+{
+	"name":"2WBY_A",
+	"length":990,
+	"EValue":   20,
+	"QueryStartFrom":17,
+	"QueryPart":"KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"+PI ++ ++++M   +          + ++RS +N  AE+  + A",
+	"SubjectStartFrom":609,
+	"SubjectPart":"QPILLKKIIEKMATFEIDEKRFEIIKEAYMRSLNNFRAEQPHQHA",
+	"SubjectFinishAt":653
+},
+
+"3HGZ_A":
+{
+	"name":"3HGZ_A",
+	"length":969,
+	"EValue":   20,
+	"QueryStartFrom":17,
+	"QueryPart":"KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"+PI ++ ++++M   +          + ++RS +N  AE+  + A",
+	"SubjectStartFrom":596,
+	"SubjectPart":"QPILLKKIIEKMATFEIDEKRFEIIKEAYMRSLNNFRAEQPHQHA",
+	"SubjectFinishAt":640
+},
+
+"4IOF_A":
+{
+	"name":"4IOF_A",
+	"length":990,
+	"EValue":   20,
+	"QueryStartFrom":17,
+	"QueryPart":"KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"+PI ++ ++++M   +          + ++RS +N  AE+  + A",
+	"SubjectStartFrom":609,
+	"SubjectPart":"QPILLKKIIEKMATFEIDEKRFEIIKEAYMRSLNNFRAEQPHQHA",
+	"SubjectFinishAt":653
+},
+
+"3QZ2_A":
+{
+	"name":"3QZ2_A",
+	"length":990,
+	"EValue":   20,
+	"QueryStartFrom":17,
+	"QueryPart":"KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"+PI ++ ++++M   +          + ++RS +N  AE+  + A",
+	"SubjectStartFrom":609,
+	"SubjectPart":"QPILLKKIIEKMATFEIDEKRFEIIKEAYMRSLNNFRAEQPHQHA",
+	"SubjectFinishAt":653
+},
+
+"2QM6_A":
+{
+	"name":"2QM6_A",
+	"length":377,
+	"EValue":   21,
+	"QueryStartFrom":21,
+	"QueryPart":"IESMLQEMGPRQ-TQMF---IRSTSNGSAEEVRKAAYL",
+	"QueryFinishAt":54,
+	"Alignment":"+E+ML++ G ++ +Q+    I+   NG A   R+A  L",
+	"SubjectStartFrom":141,
+	"SubjectPart":"MEAMLKKYGTKKLSQLIDPAIKLAENGYAISQRQAETL",
+	"SubjectFinishAt":178
+},
+
+"2NQO_A":
+{
+	"name":"2NQO_A",
+	"length":376,
+	"EValue":   21,
+	"QueryStartFrom":21,
+	"QueryPart":"IESMLQEMGPRQ-TQMF---IRSTSNGSAEEVRKAAYL",
+	"QueryFinishAt":54,
+	"Alignment":"+E+ML++ G ++ +Q+    I+   NG A   R+A  L",
+	"SubjectStartFrom":140,
+	"SubjectPart":"MEAMLKKYGTKKLSQLIDPAIKLAENGYAISQRQAETL",
+	"SubjectFinishAt":177
+},
+
+"1FH7_A":
+{
+	"name":"1FH7_A",
+	"length":312,
+	"EValue":   21,
+	"QueryStartFrom":29,
+	"QueryPart":"GPRQTQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"G RQ   F +   NG  E   +AA",
+	"SubjectStartFrom":134,
+	"SubjectPart":"GRRQDSAFQQKLGNGYIETAFRAA",
+	"SubjectFinishAt":157
+},
+
+"2HIS_A":
+{
+	"name":"2HIS_A",
+	"length":312,
+	"EValue":   21,
+	"QueryStartFrom":29,
+	"QueryPart":"GPRQTQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"G RQ   F +   NG  E   +AA",
+	"SubjectStartFrom":134,
+	"SubjectPart":"GRRQDSAFQQKLGNGYIETAFRAA",
+	"SubjectFinishAt":157
+},
+
+"3CUJ_A":
+{
+	"name":"3CUJ_A",
+	"length":315,
+	"EValue":   21,
+	"QueryStartFrom":29,
+	"QueryPart":"GPRQTQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"G RQ   F +   NG  E   +AA",
+	"SubjectStartFrom":134,
+	"SubjectPart":"GRRQDSAFQQKLGNGYIETAFRAA",
+	"SubjectFinishAt":157
+},
+
+"4GB7_A":
+{
+	"name":"4GB7_A",
+	"length":422,
+	"EValue":   26,
+	"QueryStartFrom":18,
+	"QueryPart":"PIYIESMLQEMGPRQTQMFIRSTSNGSAEEV",
+	"QueryFinishAt":48,
+	"Alignment":"P+ I  MLQE         + S +NGS E +",
+	"SubjectStartFrom":227,
+	"SubjectPart":"PMKIYDMLQEAKETAPPGSVFSYNNGSTETL",
+	"SubjectFinishAt":257
+},
+
+"4KP1_A":
+{
+	"name":"4KP1_A",
+	"length":445,
+	"EValue":   26,
+	"QueryStartFrom":15,
+	"QueryPart":"KIKPIY--------IESMLQEMGPRQTQMFIRSTSNGSAEEVRKA",
+	"QueryFinishAt":51,
+	"Alignment":"KI+P++        ++   +  G    Q+FI S +NG  E++R A",
+	"SubjectStartFrom":292,
+	"SubjectPart":"KIEPVFACPHNVDNVKQAREVAGKPIDQVFIGSCTNGRLEDLRMA",
+	"SubjectFinishAt":336
+},
+
+"2GI3_A":
+{
+	"name":"2GI3_A",
+	"length":476,
+	"EValue":   27,
+	"QueryStartFrom":11,
+	"QueryPart":"SNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRK",
+	"QueryFinishAt":50,
+	"Alignment":"SNL +   +     ++E G R  +M++++ + G  EEVR+",
+	"SubjectStartFrom":306,
+	"SubjectPart":"SNLARFDGVKYGLRIKEKGLR--EMYMKTRNVGFGEEVRR",
+	"SubjectFinishAt":343
+},
+
+"3AL0_A":
+{
+	"name":"3AL0_A",
+	"length":475,
+	"EValue":   28,
+	"QueryStartFrom":11,
+	"QueryPart":"SNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRK",
+	"QueryFinishAt":50,
+	"Alignment":"SNL +   +     ++E G R  +M++++ + G  EEVR+",
+	"SubjectStartFrom":305,
+	"SubjectPart":"SNLARFDGVKYGLRIKEKGLR--EMYMKTRNVGFGEEVRR",
+	"SubjectFinishAt":342
+},
+
+"4CE4_h":
+{
+	"name":"4CE4_h",
+	"length":298,
+	"EValue":   28,
+	"QueryStartFrom":21,
+	"QueryPart":"IESMLQEMGPRQTQMFIR",
+	"QueryFinishAt":38,
+	"Alignment":"I ++LQ  GP +T +FIR",
+	"SubjectStartFrom":165,
+	"SubjectPart":"IGALLQSSGPERTALFIR",
+	"SubjectFinishAt":182
+},
+
+"3MWC_A":
+{
+	"name":"3MWC_A",
+	"length":400,
+	"EValue":   29,
+	"QueryStartFrom":2,
+	"QueryPart":"DTRKAIDTISNLLKIKPIYIESM--LQEMGPR",
+	"QueryFinishAt":31,
+	"Alignment":"+T KA+D    L   +P++ E++  L+E+G R",
+	"SubjectStartFrom":222,
+	"SubjectPart":"ETFKAMDAAKCLFHEQPLHYEALLDLKELGER",
+	"SubjectFinishAt":253
+},
+
+"3HF3_A":
+{
+	"name":"3HF3_A",
+	"length":349,
+	"EValue":   29,
+	"QueryStartFrom":9,
+	"QueryPart":"TISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAE",
+	"QueryFinishAt":46,
+	"Alignment":"++ N ++  P+ +   ++E+ PR+  +F+R ++    E",
+	"SubjectStartFrom":197,
+	"SubjectPart":"SLENRMRF-PLQVAQAVREVVPRELPLFVRVSATDWGE",
+	"SubjectFinishAt":233
+},
+
+"3DF8_A":
+{
+	"name":"3DF8_A",
+	"length":111,
+	"EValue":   30,
+	"QueryStartFrom":22,
+	"QueryPart":"ESMLQEMGPRQTQMFIRSTSNGSAEE",
+	"QueryFinishAt":47,
+	"Alignment":"ES+L  +G + T + I    NGS  +",
+	"SubjectStartFrom":18,
+	"SubjectPart":"ESVLHLLGKKYTMLIISVLGNGSTRQ",
+	"SubjectFinishAt":43
+},
+
+"3GDF_A":
+{
+	"name":"3GDF_A",
+	"length":267,
+	"EValue":   34,
+	"QueryStartFrom":16,
+	"QueryPart":"IKPIYIESMLQEMGPRQTQMFIRST----SNGSAEEVRKAAYL",
+	"QueryFinishAt":54,
+	"Alignment":"I P YI++ L +  P++TQ    S      +G A+E+ K AY+",
+	"SubjectStartFrom":202,
+	"SubjectPart":"ISPGYIDTGLSDFVPKETQQLWHSMIPMGRDGLAKEL-KGAYV",
+	"SubjectFinishAt":243
+},
+
+"4LLF_E":
+{
+	"name":"4LLF_E",
+	"length":380,
+	"EValue":   37,
+	"QueryStartFrom":2,
+	"QueryPart":"DTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNG",
+	"QueryFinishAt":43,
+	"Alignment":"D R A+   ++L +I P  I  +   +     + FI  TS+G",
+	"SubjectStartFrom":182,
+	"SubjectPart":"DDRAALANYAHLSEISPWAITKL--TVPTDNVKRFISDTSSG",
+	"SubjectFinishAt":221
+},
+
+"2XZL_A":
+{
+	"name":"2XZL_A",
+	"length":802,
+	"EValue":   39,
+	"QueryStartFrom":4,
+	"QueryPart":"RKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKA",
+	"QueryFinishAt":51,
+	"Alignment":"R A   + NLLK+K       + E+    T+ F++      AE + KA",
+	"SubjectStartFrom":457,
+	"SubjectPart":"RGAKGELKNLLKLK-----DEVGELSASDTKRFVKLVRKTEAEILNKA",
+	"SubjectFinishAt":499
+},
+
+"2JGZ_B":
+{
+	"name":"2JGZ_B",
+	"length":260,
+	"EValue":   42,
+	"QueryStartFrom":12,
+	"QueryPart":"NLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAE-EVRK",
+	"QueryFinishAt":50,
+	"Alignment":"L+ +  ++I S  +EM P +   F   T N   + ++R+",
+	"SubjectStartFrom":79,
+	"SubjectPart":"QLVGVTAMFIASKYEEMYPPEIGDFAFVTDNTYTKHQIRQ",
+	"SubjectFinishAt":118
+},
+
+"4E8C_A":
+{
+	"name":"4E8C_A",
+	"length":595,
+	"EValue":   42,
+	"QueryStartFrom":5,
+	"QueryPart":"KAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVR",
+	"QueryFinishAt":49,
+	"Alignment":"+ +D++S+   ++ +Y + M +E+G     +  R+ +N  AEE R",
+	"SubjectStartFrom":359,
+	"SubjectPart":"ETLDSLSS--PVESLYPQKM-EELGQSYGYLLYRTETNWDAEEER",
+	"SubjectFinishAt":400
+},
+
+"1GZS_B":
+{
+	"name":"1GZS_B",
+	"length":165,
+	"EValue":   42,
+	"QueryStartFrom":1,
+	"QueryPart":"SDTRKAI---------DTISNLLKIKPIYIESMLQEMGP",
+	"QueryFinishAt":30,
+	"Alignment":"S TR+AI         D   NLL  K I I   LQE+G",
+	"SubjectStartFrom":33,
+	"SubjectPart":"SQTREAILSAVYSKNKDQCCNLLISKGINIAPFLQEIGE",
+	"SubjectFinishAt":71
+},
+
+"1E28_A":
+{
+	"name":"1E28_A",
+	"length":276,
+	"EValue":   43,
+	"QueryStartFrom":17,
+	"QueryPart":"KPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKA",
+	"QueryFinishAt":51,
+	"Alignment":"+P +IE    E   R TQ+F ++ +    E +R A",
+	"SubjectStartFrom":48,
+	"SubjectPart":"RPPWIEQEGPEYWDRNTQIF-KTNTQTYRENLRIA",
+	"SubjectFinishAt":81
+},
+
+"1A1M_A":
+{
+	"name":"1A1M_A",
+	"length":278,
+	"EValue":   43,
+	"QueryStartFrom":17,
+	"QueryPart":"KPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKA",
+	"QueryFinishAt":51,
+	"Alignment":"+P +IE    E   R TQ+F ++ +    E +R A",
+	"SubjectStartFrom":48,
+	"SubjectPart":"RPPWIEQEGPEYWDRNTQIF-KTNTQTYRENLRIA",
+	"SubjectFinishAt":81
+},
+
+"1A1O_A":
+{
+	"name":"1A1O_A",
+	"length":276,
+	"EValue":   43,
+	"QueryStartFrom":17,
+	"QueryPart":"KPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKA",
+	"QueryFinishAt":51,
+	"Alignment":"+P +IE    E   R TQ+F ++ +    E +R A",
+	"SubjectStartFrom":48,
+	"SubjectPart":"RPPWIEQEGPEYWDRNTQIF-KTNTQTYRENLRIA",
+	"SubjectFinishAt":81
+},
+
+"2ZNC_A":
+{
+	"name":"2ZNC_A",
+	"length":258,
+	"EValue":   45,
+	"QueryStartFrom":22,
+	"QueryPart":"ESMLQEMGPRQTQMFIRSTSNGS",
+	"QueryFinishAt":44,
+	"Alignment":"ES LQ+M P  T+M+     NGS",
+	"SubjectStartFrom":173,
+	"SubjectPart":"ESSLQDMLPPSTKMYTYFRYNGS",
+	"SubjectFinishAt":195
+},
+
+"4EFF_A":
+{
+	"name":"4EFF_A",
+	"length":420,
+	"EValue":   48,
+	"QueryStartFrom":18,
+	"QueryPart":"PIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"P    S +QE+G  + +  IR+  NG  E ++ A",
+	"SubjectStartFrom":324,
+	"SubjectPart":"PELRASWVQELGEMRDR--IRAMRNGLVERLKAAG",
+	"SubjectFinishAt":356
+},
+
+"2UZ0_A":
+{
+	"name":"2UZ0_A",
+	"length":263,
+	"EValue":   49,
+	"QueryStartFrom":1,
+	"QueryPart":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNG",
+	"QueryFinishAt":43,
+	"Alignment":"+DT+   D  + L +  P  ++     M  ++ + FI   S G",
+	"SubjectStartFrom":85,
+	"SubjectPart":"TDTQYGFDYYTALAEELPQVLKRFFPNMTSKREKTFIAGLSMG",
+	"SubjectFinishAt":127
+},
+
+"3QN3_A":
+{
+	"name":"3QN3_A",
+	"length":417,
+	"EValue":   49,
+	"QueryStartFrom":7,
+	"QueryPart":"IDTISNLLKIKPIYIESMLQEM-----GPRQTQMFIRSTSNGSAEE",
+	"QueryFinishAt":47,
+	"Alignment":"I  ++N + IKP  I ++ Q M       R     + S  +G +E+",
+	"SubjectStartFrom":325,
+	"SubjectPart":"IKKMANAVLIKPNQIGTITQTMRTVRLAQRNNYKCVMSHRSGESED",
+	"SubjectFinishAt":370
+},
+
+"4E21_B":
+{
+	"name":"4E21_B",
+	"length":358,
+	"EValue":   49,
+	"QueryStartFrom":14,
+	"QueryPart":"LKIKPIYIESMLQEMGP--RQTQMFIRSTSNGSAEEVRKA",
+	"QueryFinishAt":51,
+	"Alignment":"L +    ++SMLQ M P      + I   ++   +++R+A",
+	"SubjectStartFrom":87,
+	"SubjectPart":"LMVPAAVVDSMLQRMTPLLAANDIVIDGGNSHYQDDIRRA",
+	"SubjectFinishAt":126
+},
+
+"4JDU_A":
+{
+	"name":"4JDU_A",
+	"length":215,
+	"EValue":   50,
+	"QueryStartFrom":22,
+	"QueryPart":"ESMLQEMGPRQTQMFIRSTSNGSAEE",
+	"QueryFinishAt":47,
+	"Alignment":"E+M QE+      ++IR  ++ SA++",
+	"SubjectStartFrom":175,
+	"SubjectPart":"EAMCQEIAKEGNGIYIRVDNSNSAQK",
+	"SubjectFinishAt":200
+},
+
+"3P7L_A":
+{
+	"name":"3P7L_A",
+	"length":978,
+	"EValue":   50,
+	"QueryStartFrom":17,
+	"QueryPart":"KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"+PI ++ + ++M   +          + ++RS +N  AE+  + A",
+	"SubjectStartFrom":597,
+	"SubjectPart":"QPILLKKITEKMATFEIDKKRFEIIKEAYMRSLNNFRAEQPHQHA",
+	"SubjectFinishAt":641
+},
+
+"3P7O_A":
+{
+	"name":"3P7O_A",
+	"length":1019,
+	"EValue":   50,
+	"QueryStartFrom":17,
+	"QueryPart":"KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"+PI ++ + ++M   +          + ++RS +N  AE+  + A",
+	"SubjectStartFrom":638,
+	"SubjectPart":"QPILLKKITEKMATFEIDKKRFEIIKEAYMRSLNNFRAEQPHQHA",
+	"SubjectFinishAt":682
+},
+
+"3TUV_A":
+{
+	"name":"3TUV_A",
+	"length":1019,
+	"EValue":   50,
+	"QueryStartFrom":17,
+	"QueryPart":"KPIYIESMLQEMGPRQ---------TQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"+PI ++ + ++M   +          + ++RS +N  AE+  + A",
+	"SubjectStartFrom":638,
+	"SubjectPart":"QPILLKKITEKMATFEIDKKRFEIIKEAYMRSLNNFRAEQPHQHA",
+	"SubjectFinishAt":682
+},
+
+"4M8O_A":
+{
+	"name":"4M8O_A",
+	"length":1228,
+	"EValue":   52,
+	"QueryStartFrom":10,
+	"QueryPart":"ISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEV",
+	"QueryFinishAt":48,
+	"Alignment":"+ N  KI P  I+ +LQE+ P   +  +   +  S ++V",
+	"SubjectStartFrom":570,
+	"SubjectPart":"LKNEFKIDPSAIDELLQEL-PEALKFSVEVENKSSVDKV",
+	"SubjectFinishAt":607
+},
+
+"2B9R_A":
+{
+	"name":"2B9R_A",
+	"length":269,
+	"EValue":   53,
+	"QueryStartFrom":12,
+	"QueryPart":"NLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAE-EVRK",
+	"QueryFinishAt":50,
+	"Alignment":"L+ +  ++I S  +EM P +   F   T N   + ++R+",
+	"SubjectStartFrom":81,
+	"SubjectPart":"QLVGVTAMFIASKYEEMYPPEIGDFAFVTDNTYTKHQIRQ",
+	"SubjectFinishAt":120
+},
+
+"4D9K_A":
+{
+	"name":"4D9K_A",
+	"length":398,
+	"EValue":   57,
+	"QueryStartFrom":6,
+	"QueryPart":"AIDTISNLLKIKPIYIESMLQEMG",
+	"QueryFinishAt":29,
+	"Alignment":"A+D ++NL  +K I ++   +  G",
+	"SubjectStartFrom":49,
+	"SubjectPart":"ALDDLANLFGVKKILVKDESKRFG",
+	"SubjectFinishAt":72
+},
+
+"4NAQ_A":
+{
+	"name":"4NAQ_A",
+	"length":907,
+	"EValue":   60,
+	"QueryStartFrom":18,
+	"QueryPart":"PIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRK---AAYL",
+	"QueryFinishAt":54,
+	"Alignment":"P  I  M   +   +    IR  SN   E++ K   A+YL",
+	"SubjectStartFrom":397,
+	"SubjectPart":"PAQISEMFDSISYSKGASVIRMLSNFLTEDLFKEGLASYL",
+	"SubjectFinishAt":436
+},
+
+"4NZ8_A":
+{
+	"name":"4NZ8_A",
+	"length":907,
+	"EValue":   60,
+	"QueryStartFrom":18,
+	"QueryPart":"PIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRK---AAYL",
+	"QueryFinishAt":54,
+	"Alignment":"P  I  M   +   +    IR  SN   E++ K   A+YL",
+	"SubjectStartFrom":397,
+	"SubjectPart":"PAQISEMFDSISYSKGASVIRMLSNFLTEDLFKEGLASYL",
+	"SubjectFinishAt":436
+},
+
+"4F5C_A":
+{
+	"name":"4F5C_A",
+	"length":959,
+	"EValue":   60,
+	"QueryStartFrom":18,
+	"QueryPart":"PIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRK---AAYL",
+	"QueryFinishAt":54,
+	"Alignment":"P  I  M   +   +    IR  SN   E++ K   A+YL",
+	"SubjectStartFrom":442,
+	"SubjectPart":"PAQISEMFDSISYSKGASVIRMLSNFLTEDLFKEGLASYL",
+	"SubjectFinishAt":481
+},
+
+"4FKE_A":
+{
+	"name":"4FKE_A",
+	"length":909,
+	"EValue":   60,
+	"QueryStartFrom":18,
+	"QueryPart":"PIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRK---AAYL",
+	"QueryFinishAt":54,
+	"Alignment":"P  I  M   +   +    IR  SN   E++ K   A+YL",
+	"SubjectStartFrom":399,
+	"SubjectPart":"PAQISEMFDSISYSKGASVIRMLSNFLTEDLFKEGLASYL",
+	"SubjectFinishAt":438
+},
+
+"4FKF_A":
+{
+	"name":"4FKF_A",
+	"length":909,
+	"EValue":   60,
+	"QueryStartFrom":18,
+	"QueryPart":"PIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRK---AAYL",
+	"QueryFinishAt":54,
+	"Alignment":"P  I  M   +   +    IR  SN   E++ K   A+YL",
+	"SubjectStartFrom":399,
+	"SubjectPart":"PAQISEMFDSISYSKGASVIRMLSNFLTEDLFKEGLASYL",
+	"SubjectFinishAt":438
+},
+
+"4H5H_A":
+{
+	"name":"4H5H_A",
+	"length":908,
+	"EValue":   60,
+	"QueryStartFrom":18,
+	"QueryPart":"PIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRK---AAYL",
+	"QueryFinishAt":54,
+	"Alignment":"P  I  M   +   +    IR  SN   E++ K   A+YL",
+	"SubjectStartFrom":398,
+	"SubjectPart":"PAQISEMFDSISYSKGASVIRMLSNFLTEDLFKEGLASYL",
+	"SubjectFinishAt":437
+},
+
+"4HOL_A":
+{
+	"name":"4HOL_A",
+	"length":908,
+	"EValue":   60,
+	"QueryStartFrom":18,
+	"QueryPart":"PIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRK---AAYL",
+	"QueryFinishAt":54,
+	"Alignment":"P  I  M   +   +    IR  SN   E++ K   A+YL",
+	"SubjectStartFrom":398,
+	"SubjectPart":"PAQISEMFDSISYSKGASVIRMLSNFLTEDLFKEGLASYL",
+	"SubjectFinishAt":437
+},
+
+"4DHD_A":
+{
+	"name":"4DHD_A",
+	"length":358,
+	"EValue":   66,
+	"QueryStartFrom":21,
+	"QueryPart":"IESMLQEMGPRQTQMFIRSTSNGSAEEVRKA",
+	"QueryFinishAt":51,
+	"Alignment":"+  + Q+ G    +  +R  S G AE+ R+A",
+	"SubjectStartFrom":6,
+	"SubjectPart":"VSRLHQKYGAEVEKALVRYLSIGLAEDFREA",
+	"SubjectFinishAt":36
+},
+
+"2BTU_A":
+{
+	"name":"2BTU_A",
+	"length":346,
+	"EValue":   68,
+	"QueryStartFrom":15,
+	"QueryPart":"KIKPIYIESMLQEMGP-RQTQMF",
+	"QueryFinishAt":36,
+	"Alignment":"KI+PI+  S+LQE+G   + +MF",
+	"SubjectStartFrom":274,
+	"SubjectPart":"KIQPIF--SLLQEVGKLEEKEMF",
+	"SubjectFinishAt":294
+},
+
+"3ZFM_A":
+{
+	"name":"3ZFM_A",
+	"length":298,
+	"EValue":   69,
+	"QueryStartFrom":1,
+	"QueryPart":"SDTRKAIDTISNLLKIKPIYIESM-------------LQEMGPRQTQMFIRSTSNGSAEE",
+	"QueryFinishAt":47,
+	"Alignment":"SD  +A+   +  + I  + IE +             L+  G R+  + I++  +G  E+",
+	"SubjectStartFrom":3,
+	"SubjectPart":"SDPNEAVREFAKEIDISCVKIEQVIGAGEFGEVCSGHLKLPGKREIFVAIKTLKSGYTEK",
+	"SubjectFinishAt":62
+},
+
+"2FL4_A":
+{
+	"name":"2FL4_A",
+	"length":149,
+	"EValue":   70,
+	"QueryStartFrom":1,
+	"QueryPart":"SDTRKAIDTISNLLKIKPIYIESMLQEM",
+	"QueryFinishAt":28,
+	"Alignment":"SD RKA++ +  +   +  +IESM + +",
+	"SubjectStartFrom":11,
+	"SubjectPart":"SDNRKAVENL-QVFAEQQAFIESMAENL",
+	"SubjectFinishAt":37
+},
+
+"1AVF_A":
+{
+	"name":"1AVF_A",
+	"length":329,
+	"EValue":   72,
+	"QueryStartFrom":7,
+	"QueryPart":"IDTISNLLKIKPIYIESMLQEMGPRQTQ",
+	"QueryFinishAt":34,
+	"Alignment":"+DT ++LL +   Y+ ++LQ  G ++ +",
+	"SubjectStartFrom":216,
+	"SubjectPart":"VDTGTSLLTVPQQYMSALLQATGAQEDE",
+	"SubjectFinishAt":243
+},
+
+"1A1N_A":
+{
+	"name":"1A1N_A",
+	"length":276,
+	"EValue":   72,
+	"QueryStartFrom":17,
+	"QueryPart":"KPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVR",
+	"QueryFinishAt":49,
+	"Alignment":"+P +IE    E   R TQ+F ++ +    E +R",
+	"SubjectStartFrom":48,
+	"SubjectPart":"RPPWIEQEGPEYWDRNTQIF-KTNTQTYRESLR",
+	"SubjectFinishAt":79
+},
+
+"1J5S_A":
+{
+	"name":"1J5S_A",
+	"length":463,
+	"EValue":   76,
+	"QueryStartFrom":25,
+	"QueryPart":"LQEMGPRQTQMFIRSTSNGSAEEVRKA",
+	"QueryFinishAt":51,
+	"Alignment":"L   G R T+MF R  SN   E V K",
+	"SubjectStartFrom":413,
+	"SubjectPart":"LLSFGSR-TEMFRRVLSNVVGEMVEKG",
+	"SubjectFinishAt":438
+},
+
+"3ZFY_B":
+{
+	"name":"3ZFY_B",
+	"length":298,
+	"EValue":   80,
+	"QueryStartFrom":1,
+	"QueryPart":"SDTRKAIDTISNLLKIKPIYIESM-------------LQEMGPRQTQMFIRSTSNGSAEE",
+	"QueryFinishAt":47,
+	"Alignment":"SD  +A+   +  + +  + IE +             L++ G R+  + I++   G  E",
+	"SubjectStartFrom":3,
+	"SubjectPart":"SDPNEAVREFAKEIDVSCVKIEEVIGAGEFGEVCRGRLKQPGRREVFVAIKTLKVGYTER",
+	"SubjectFinishAt":62
+},
+
+"1Y3Q_A":
+{
+	"name":"1Y3Q_A",
+	"length":490,
+	"EValue":   80,
+	"QueryStartFrom":17,
+	"QueryPart":"KPIYIESMLQEMGPRQTQMF",
+	"QueryFinishAt":36,
+	"Alignment":"KP+Y +++L+   P   QM+",
+	"SubjectStartFrom":360,
+	"SubjectPart":"KPVYKDTVLKAAQPVNNQMY",
+	"SubjectFinishAt":379
+},
+
+"3VLW_A":
+{
+	"name":"3VLW_A",
+	"length":502,
+	"EValue":   80,
+	"QueryStartFrom":17,
+	"QueryPart":"KPIYIESMLQEMGPRQTQMF",
+	"QueryFinishAt":36,
+	"Alignment":"KP+Y +++L+   P   QM+",
+	"SubjectStartFrom":360,
+	"SubjectPart":"KPVYKDTVLKAAQPVNNQMY",
+	"SubjectFinishAt":379
+},
+
+"3VZH_A":
+{
+	"name":"3VZH_A",
+	"length":244,
+	"EValue":   83,
+	"QueryStartFrom":3,
+	"QueryPart":"TRKAIDTISNLLKIKPIY--IESMLQEMGPRQTQM-FIRSTSNGSAEEVRKAAYL",
+	"QueryFinishAt":54,
+	"Alignment":"TR+A++ I + +  KP +  I + ++ +   QT++  +R+  +  + ++   +YL",
+	"SubjectStartFrom":38,
+	"SubjectPart":"TRQALNGIVDAIYYKPTFTNIVTEVKVINQIQTELQGVRALLHDYSADLSYVSYL",
+	"SubjectFinishAt":92
+},
+
+"3ODS_A":
+{
+	"name":"3ODS_A",
+	"length":415,
+	"EValue":   90,
+	"QueryStartFrom":6,
+	"QueryPart":"AIDTISNLLKIKPIYIESMLQ",
+	"QueryFinishAt":26,
+	"Alignment":"A+ +++N+ + +P+++  ++Q",
+	"SubjectStartFrom":276,
+	"SubjectPart":"ALGSLANIARQRPMFMSEVIQ",
+	"SubjectFinishAt":296
+},
+
+"4NPA_D":
+{
+	"name":"4NPA_D",
+	"length":456,
+	"EValue":   91,
+	"QueryStartFrom":29,
+	"QueryPart":"GPRQTQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"GP+Q++ + RS      + + +AA",
+	"SubjectStartFrom":287,
+	"SubjectPart":"GPKQSEAYFRSLDKFITDTLGEAA",
+	"SubjectFinishAt":310
+},
+
+"2PMB_A":
+{
+	"name":"2PMB_A",
+	"length":462,
+	"EValue":   91,
+	"QueryStartFrom":29,
+	"QueryPart":"GPRQTQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"GP+Q++ + RS      + + +AA",
+	"SubjectStartFrom":287,
+	"SubjectPart":"GPKQSEAYFRSLDKFITDTLGEAA",
+	"SubjectFinishAt":310
+},
+
+"3OOU_A":
+{
+	"name":"3OOU_A",
+	"length":108,
+	"EValue":   91,
+	"QueryStartFrom":6,
+	"QueryPart":"AIDTISNLLKIKPIYIESMLQ-EMGPRQTQMFIRSTSNGSAEEVRK",
+	"QueryFinishAt":50,
+	"Alignment":"++ T+ N   I  +Y+  + Q EMG   T    R   N + EE+ +",
+	"SubjectStartFrom":23,
+	"SubjectPart":"SLKTLGNDFHINAVYLGQLFQKEMGEHFTDYLNRYRVNYAKEELLQ",
+	"SubjectFinishAt":68
+},
+
+"3ODR_A":
+{
+	"name":"3ODR_A",
+	"length":415,
+	"EValue":   92,
+	"QueryStartFrom":6,
+	"QueryPart":"AIDTISNLLKIKPIYIESMLQ",
+	"QueryFinishAt":26,
+	"Alignment":"A+ +++N+ + +P+++  ++Q",
+	"SubjectStartFrom":276,
+	"SubjectPart":"ALGSLANIARQRPMFMSEVIQ",
+	"SubjectFinishAt":296
+},
+
+"4NHB_A":
+{
+	"name":"4NHB_A",
+	"length":341,
+	"EValue":   96,
+	"QueryStartFrom":12,
+	"QueryPart":"NLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEV",
+	"QueryFinishAt":48,
+	"Alignment":"++L I  +YI     +  P Q Q +I   +  SA++V",
+	"SubjectStartFrom":233,
+	"SubjectPart":"HILVIHSLYINDKFFKSLPEQDQKWIEEAAKRSADDV",
+	"SubjectFinishAt":269
+},
+
+"1NWB_A":
+{
+	"name":"1NWB_A",
+	"length":124,
+	"EValue":   96,
+	"QueryStartFrom":30,
+	"QueryPart":"PRQTQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"Q Q FI   ++ + EE++K A",
+	"SubjectStartFrom":2,
+	"SubjectPart":"QEQAQQFIFKVTDKAVEEIKKVA",
+	"SubjectFinishAt":24
+},
+
+"2WZM_A":
+{
+	"name":"2WZM_A",
+	"length":283,
+	"EValue":   97,
+	"QueryStartFrom":2,
+	"QueryPart":"DTRKAIDTISNLLKIK",
+	"QueryFinishAt":17,
+	"Alignment":"DT K +D+   L+K+K",
+	"SubjectStartFrom":121,
+	"SubjectPart":"DTSKYVDSWGGLMKVK",
+	"SubjectFinishAt":136
+},
+
+"3O2T_A":
+{
+	"name":"3O2T_A",
+	"length":386,
+	"EValue":   97,
+	"QueryStartFrom":6,
+	"QueryPart":"AIDTISNLLKIKPIYIESMLQ",
+	"QueryFinishAt":26,
+	"Alignment":"A+ +++N+ + +P+++  ++Q",
+	"SubjectStartFrom":247,
+	"SubjectPart":"ALGSLANIARQRPMFMSEVIQ",
+	"SubjectFinishAt":267
+},
+
+"3PZL_A":
+{
+	"name":"3PZL_A",
+	"length":313,
+	"EValue":   97,
+	"QueryStartFrom":1,
+	"QueryPart":"SDTRKAIDTIS------NLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEV",
+	"QueryFinishAt":48,
+	"Alignment":"+D R+ I+ +S      ++++  P+Y       +  +  Q+FI S      E +",
+	"SubjectStartFrom":252,
+	"SubjectPart":"TDVRRLIERLSYKAVGFDIVEFSPLYDNGNTSMLAAKLLQVFIASREKYYKEHI",
+	"SubjectFinishAt":305
+},
+
+"1RPU_A":
+{
+	"name":"1RPU_A",
+	"length":172,
+	"EValue":   98,
+	"QueryStartFrom":6,
+	"QueryPart":"AIDTISNLLKIKPIYIESMLQEMGPRQTQMF",
+	"QueryFinishAt":36,
+	"Alignment":"AI +   LL++ P+ +ES +    P   + F",
+	"SubjectStartFrom":137,
+	"SubjectPart":"AIRSKQELLQLTPVEVESNVSRGCPEGIETF",
+	"SubjectFinishAt":167
+},
+
+"4JZ6_A":
+{
+	"name":"4JZ6_A",
+	"length":500,
+	"EValue":  100,
+	"QueryStartFrom":1,
+	"QueryPart":"SDTRKAIDTISNLLKIK-PIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAAYL",
+	"QueryFinishAt":54,
+	"Alignment":"S+ R+ +  ++++++ K P +IE M  E+G   + ++     + SA   R+AA L",
+	"SubjectStartFrom":79,
+	"SubjectPart":"SERRRLLLKVADVMESKTPKFIEVMAMEVGA--SALWAGFNVHASANVFREAASL",
+	"SubjectFinishAt":131
+},
+
+"3O2Q_A":
+{
+	"name":"3O2Q_A",
+	"length":351,
+	"EValue":  100,
+	"QueryStartFrom":6,
+	"QueryPart":"AIDTISNLLKIKPIYIESMLQ",
+	"QueryFinishAt":26,
+	"Alignment":"A+ +++N+ + +P+++  ++Q",
+	"SubjectStartFrom":247,
+	"SubjectPart":"ALGSLANIARQRPMFMSEVIQ",
+	"SubjectFinishAt":267
+},
+
+"3LYE_A":
+{
+	"name":"3LYE_A",
+	"length":307,
+	"EValue":  103,
+	"QueryStartFrom":2,
+	"QueryPart":"DTRKAIDTISNLLKIKPIYIESMLQEMG-----PRQTQMFIRS",
+	"QueryFinishAt":39,
+	"Alignment":"D R   D I+NL    P  I  M    G      R  + +IRS",
+	"SubjectStartFrom":73,
+	"SubjectPart":"DMRDNADMIANLDPFGPPLIADMDTGYGGPIMVARTVEHYIRS",
+	"SubjectFinishAt":115
+},
+
+"3GDE_A":
+{
+	"name":"3GDE_A",
+	"length":558,
+	"EValue":  104,
+	"QueryStartFrom":8,
+	"QueryPart":"DTISNLLKIKPIYIESMLQEMG",
+	"QueryFinishAt":29,
+	"Alignment":"+ + N+  +K   IESM++E G",
+	"SubjectStartFrom":71,
+	"SubjectPart":"EALENVSGVKRSEIESMIREYG",
+	"SubjectFinishAt":92
+},
+
+"2QIB_A":
+{
+	"name":"2QIB_A",
+	"length":231,
+	"EValue":  107,
+	"QueryStartFrom":11,
+	"QueryPart":"SNLLKIKPIYIESMLQEMGP------RQTQMFIRSTSNGSAEEVRKAAYL",
+	"QueryFinishAt":54,
+	"Alignment":"+ LL++   Y +  + E GP      R       +T+N   + VR+AAY+",
+	"SubjectStartFrom":86,
+	"SubjectPart":"ARLLRVMGRYFD-FVDEHGPGFSALMRGGPAVGSTTTNALVDSVRQAAYV",
+	"SubjectFinishAt":134
+},
+
+"3W1B_A":
+{
+	"name":"3W1B_A",
+	"length":610,
+	"EValue":  109,
+	"QueryStartFrom":14,
+	"QueryPart":"LKIKPIYIESMLQEM",
+	"QueryFinishAt":28,
+	"Alignment":"LKIKP Y+  ++ E+",
+	"SubjectStartFrom":449,
+	"SubjectPart":"LKIKPEYVSGLMDEL",
+	"SubjectFinishAt":463
+},
+
+"3ZH3_A":
+{
+	"name":"3ZH3_A",
+	"length":419,
+	"EValue":  110,
+	"QueryStartFrom":25,
+	"QueryPart":"LQEMGPRQT----QMFIRSTSNGSAEEVRKAAY",
+	"QueryFinishAt":53,
+	"Alignment":"L+EMG R T     +F+   SN  A  ++ A Y",
+	"SubjectStartFrom":268,
+	"SubjectPart":"LEEMGVRMTVSEDSIFVEEQSNLKAINIKTAPY",
+	"SubjectFinishAt":300
+},
+
+"3ZH4_A":
+{
+	"name":"3ZH4_A",
+	"length":419,
+	"EValue":  110,
+	"QueryStartFrom":25,
+	"QueryPart":"LQEMGPRQT----QMFIRSTSNGSAEEVRKAAY",
+	"QueryFinishAt":53,
+	"Alignment":"L+EMG R T     +F+   SN  A  ++ A Y",
+	"SubjectStartFrom":268,
+	"SubjectPart":"LEEMGVRMTVSEDSIFVEEQSNLKAINIKTAPY",
+	"SubjectFinishAt":300
+},
+
+"3ECP_A":
+{
+	"name":"3ECP_A",
+	"length":477,
+	"EValue":  110,
+	"QueryStartFrom":3,
+	"QueryPart":"TRKAIDTISNLLKI--KPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"T + ++  + L K   K I I S   +        FIR+  N SAE +RKA",
+	"SubjectStartFrom":28,
+	"SubjectPart":"TARLVNVAAQLAKYSGKSITISSEGSKAAQEGAYRFIRN-PNVSAEAIRKAG",
+	"SubjectFinishAt":78
+},
+
+"1MM8_A":
+{
+	"name":"1MM8_A",
+	"length":481,
+	"EValue":  110,
+	"QueryStartFrom":3,
+	"QueryPart":"TRKAIDTISNLLKI--KPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"T + ++  + L K   K I I S   +        FIR+  N SAE +RKA",
+	"SubjectStartFrom":32,
+	"SubjectPart":"TARLVNVAAQLAKYSGKSITISSEGSKAAQEGAYRFIRN-PNVSAEAIRKAG",
+	"SubjectFinishAt":82
+},
+
+"1MUH_A":
+{
+	"name":"1MUH_A",
+	"length":481,
+	"EValue":  110,
+	"QueryStartFrom":3,
+	"QueryPart":"TRKAIDTISNLLKI--KPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"T + ++  + L K   K I I S   +        FIR+  N SAE +RKA",
+	"SubjectStartFrom":32,
+	"SubjectPart":"TARLVNVAAQLAKYSGKSITISSEGSKAAQEGAYRFIRN-PNVSAEAIRKAG",
+	"SubjectFinishAt":82
+},
+
+"4DM0_A":
+{
+	"name":"4DM0_A",
+	"length":477,
+	"EValue":  110,
+	"QueryStartFrom":3,
+	"QueryPart":"TRKAIDTISNLLKI--KPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"T + ++  + L K   K I I S   +        FIR+  N SAE +RKA",
+	"SubjectStartFrom":28,
+	"SubjectPart":"TARLVNVAAQLAKYSGKSITISSEGSKAAQEGAYRFIRN-PNVSAEAIRKAG",
+	"SubjectFinishAt":78
+},
+
+"1M9I_A":
+{
+	"name":"1M9I_A",
+	"length":672,
+	"EValue":  111,
+	"QueryStartFrom":22,
+	"QueryPart":"ESMLQEMGPRQTQMFIRSTSNGSAEEVRKA",
+	"QueryFinishAt":51,
+	"Alignment":"E  L E+   +T   IR+ +    E+  K+",
+	"SubjectStartFrom":454,
+	"SubjectPart":"EKALIEILATRTNAEIRAINEAYKEDYHKS",
+	"SubjectFinishAt":483
+},
+
+"1MUS_A":
+{
+	"name":"1MUS_A",
+	"length":477,
+	"EValue":  111,
+	"QueryStartFrom":3,
+	"QueryPart":"TRKAIDTISNLLKI--KPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"T + ++  + L K   K I I S   +        FIR+  N SAE +RKA",
+	"SubjectStartFrom":28,
+	"SubjectPart":"TARLVNVAAQLAKYSGKSITISSEGSKAAQEGAYRFIRN-PNVSAEAIRKAG",
+	"SubjectFinishAt":78
+},
+
+"4EAC_D":
+{
+	"name":"4EAC_D",
+	"length":414,
+	"EValue":  113,
+	"QueryStartFrom":24,
+	"QueryPart":"MLQEMGPRQTQMFIRST-SNGSAEEVRKAAYL",
+	"QueryFinishAt":54,
+	"Alignment":"M+++ GPR     +RST    + +   +AA+L",
+	"SubjectStartFrom":306,
+	"SubjectPart":"MIKQFGPRIYFTHLRSTMREDNPKTFHEAAHL",
+	"SubjectFinishAt":337
+},
+
+"3KUL_A":
+{
+	"name":"3KUL_A",
+	"length":325,
+	"EValue":  116,
+	"QueryStartFrom":29,
+	"QueryPart":"GPRQTQMFIRSTSNGSAEEVRK",
+	"QueryFinishAt":50,
+	"Alignment":"G R   + I++   G  E  R+",
+	"SubjectStartFrom":74,
+	"SubjectPart":"GQRDVPVAIKALKAGYTERQRR",
+	"SubjectFinishAt":95
+},
+
+"3KD6_A":
+{
+	"name":"3KD6_A",
+	"length":313,
+	"EValue":  119,
+	"QueryStartFrom":8,
+	"QueryPart":"DTISNLLKIKPIYIES--MLQEMGPR",
+	"QueryFinishAt":31,
+	"Alignment":"D+ + LL   P  +++  +++EMGP+",
+	"SubjectStartFrom":176,
+	"SubjectPart":"DSEARLLSGDPNLVKTARIIREMGPK",
+	"SubjectFinishAt":201
+},
+
+"4JEP_A":
+{
+	"name":"4JEP_A",
+	"length":611,
+	"EValue":  121,
+	"QueryStartFrom":18,
+	"QueryPart":"PIYI--ESMLQEMGPRQTQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"P++I    ML  +   +    +RS  +G  EE+ +AA",
+	"SubjectStartFrom":462,
+	"SubjectPart":"PMFITGREMLASIDTLKDHRLLRSDFSGDVEELAEAA",
+	"SubjectFinishAt":498
+},
+
+"4KH4_A":
+{
+	"name":"4KH4_A",
+	"length":611,
+	"EValue":  121,
+	"QueryStartFrom":18,
+	"QueryPart":"PIYI--ESMLQEMGPRQTQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"P++I    ML  +   +    +RS  +G  EE+ +AA",
+	"SubjectStartFrom":462,
+	"SubjectPart":"PMFITGREMLASIDTLKDHRLLRSDFSGDVEELAEAA",
+	"SubjectFinishAt":498
+},
+
+"4KH5_A":
+{
+	"name":"4KH5_A",
+	"length":612,
+	"EValue":  121,
+	"QueryStartFrom":18,
+	"QueryPart":"PIYI--ESMLQEMGPRQTQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"P++I    ML  +   +    +RS  +G  EE+ +AA",
+	"SubjectStartFrom":462,
+	"SubjectPart":"PMFITGREMLASIDTLKDHRLLRSDFSGDVEELAEAA",
+	"SubjectFinishAt":498
+},
+
+"4A5B_A":
+{
+	"name":"4A5B_A",
+	"length":611,
+	"EValue":  121,
+	"QueryStartFrom":18,
+	"QueryPart":"PIYI--ESMLQEMGPRQTQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"P++I    ML  +   +    +RS  +G  EE+ +AA",
+	"SubjectStartFrom":462,
+	"SubjectPart":"PMFITGREMLASIDTLKDHRLLRSDFSGDVEELAEAA",
+	"SubjectFinishAt":498
+},
+
+"3LLD_A":
+{
+	"name":"3LLD_A",
+	"length":228,
+	"EValue":  126,
+	"QueryStartFrom":24,
+	"QueryPart":"MLQEMGPRQTQMFIRSTSNGSAEEVRK",
+	"QueryFinishAt":50,
+	"Alignment":"+L EMG    +MFI+    G+A+E+ +",
+	"SubjectStartFrom":122,
+	"SubjectPart":"LLTEMGHPGAEMFIQ----GAADEIAR",
+	"SubjectFinishAt":144
+},
+
+"4KH6_A":
+{
+	"name":"4KH6_A",
+	"length":611,
+	"EValue":  127,
+	"QueryStartFrom":18,
+	"QueryPart":"PIYI--ESMLQEMGPRQTQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"P++I    ML  +   +    +RS  +G  EE+ +AA",
+	"SubjectStartFrom":462,
+	"SubjectPart":"PMFITGRGMLASIDTLKDHRLLRSDFSGDVEELAEAA",
+	"SubjectFinishAt":498
+},
+
+"4A4Z_A":
+{
+	"name":"4A4Z_A",
+	"length":997,
+	"EValue":  127,
+	"QueryStartFrom":1,
+	"QueryPart":"SDTRKAIDTISNLLKIKPIYIESMLQ",
+	"QueryFinishAt":26,
+	"Alignment":"S  R   + I NLL+I+ + +E M++",
+	"SubjectStartFrom":512,
+	"SubjectPart":"SQFRLTYNMILNLLRIEALRVEEMIK",
+	"SubjectFinishAt":537
+},
+
+"4BUJ_E":
+{
+	"name":"4BUJ_E",
+	"length":1044,
+	"EValue":  129,
+	"QueryStartFrom":1,
+	"QueryPart":"SDTRKAIDTISNLLKIKPIYIESMLQ",
+	"QueryFinishAt":26,
+	"Alignment":"S  R   + I NLL+I+ + +E M++",
+	"SubjectStartFrom":806,
+	"SubjectPart":"SQFRLTYNMILNLLRIEALRVEEMIK",
+	"SubjectFinishAt":831
+},
+
+"4BWM_A":
+{
+	"name":"4BWM_A",
+	"length":540,
+	"EValue":  133,
+	"QueryStartFrom":4,
+	"QueryPart":"RKAID-----TISNLLKIKPIYIESMLQEMGPR",
+	"QueryFinishAt":31,
+	"Alignment":"RKA +     T ++L+K+  + +   L+EMG R",
+	"SubjectStartFrom":454,
+	"SubjectPart":"RKAFNMPVQGTAADLMKLAMVKLFPRLEEMGAR",
+	"SubjectFinishAt":486
+},
+
+"3PY8_A":
+{
+	"name":"3PY8_A",
+	"length":540,
+	"EValue":  133,
+	"QueryStartFrom":4,
+	"QueryPart":"RKAID-----TISNLLKIKPIYIESMLQEMGPR",
+	"QueryFinishAt":31,
+	"Alignment":"RKA +     T ++L+K+  + +   L+EMG R",
+	"SubjectStartFrom":454,
+	"SubjectPart":"RKAFNMPVQGTAADLMKLAMVKLFPRLEEMGAR",
+	"SubjectFinishAt":486
+},
+
+"1O59_A":
+{
+	"name":"1O59_A",
+	"length":355,
+	"EValue":  135,
+	"QueryStartFrom":27,
+	"QueryPart":"EMGPRQTQMFIRSTSNGSAEE",
+	"QueryFinishAt":47,
+	"Alignment":"E GP Q  +F+R   NG  +E",
+	"SubjectStartFrom":154,
+	"SubjectPart":"ECGPSQRHLFVR--GNGLTKE",
+	"SubjectFinishAt":172
+},
+
+"1SG3_A":
+{
+	"name":"1SG3_A",
+	"length":349,
+	"EValue":  135,
+	"QueryStartFrom":27,
+	"QueryPart":"EMGPRQTQMFIRSTSNGSAEE",
+	"QueryFinishAt":47,
+	"Alignment":"E GP Q  +F+R   NG  +E",
+	"SubjectStartFrom":142,
+	"SubjectPart":"ECGPSQRHLFVR--GNGLTKE",
+	"SubjectFinishAt":160
+},
+
+"2B7T_A":
+{
+	"name":"2B7T_A",
+	"length":73,
+	"EValue":  135,
+	"QueryStartFrom":8,
+	"QueryPart":"DTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTS-NGSAEE",
+	"QueryFinishAt":47,
+	"Alignment":"+ +  L +IKP     +L + GP    +F+ S   NG   E",
+	"SubjectStartFrom":8,
+	"SubjectPart":"NALMQLNEIKPGLQYMLLSQTGPVHAPLFVMSVEVNGQVFE",
+	"SubjectFinishAt":48
+},
+
+"2L3C_A":
+{
+	"name":"2L3C_A",
+	"length":74,
+	"EValue":  135,
+	"QueryStartFrom":8,
+	"QueryPart":"DTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTS-NGSAEE",
+	"QueryFinishAt":47,
+	"Alignment":"+ +  L +IKP     +L + GP    +F+ S   NG   E",
+	"SubjectStartFrom":8,
+	"SubjectPart":"NALMQLNEIKPGLQYMLLSQTGPVHAPLFVMSVEVNGQVFE",
+	"SubjectFinishAt":48
+},
+
+"2L3J_A":
+{
+	"name":"2L3J_A",
+	"length":236,
+	"EValue":  135,
+	"QueryStartFrom":8,
+	"QueryPart":"DTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTS-NGSAEE",
+	"QueryFinishAt":47,
+	"Alignment":"+ +  L +IKP     +L + GP    +F+ S   NG   E",
+	"SubjectStartFrom":8,
+	"SubjectPart":"NALMQLNEIKPGLQYMLLSQTGPVHAPLFVMSVEVNGQVFE",
+	"SubjectFinishAt":48
+},
+
+"1JWW_A":
+{
+	"name":"1JWW_A",
+	"length":80,
+	"EValue":  138,
+	"QueryStartFrom":1,
+	"QueryPart":"SDTRKAIDTISNLLKIK",
+	"QueryFinishAt":17,
+	"Alignment":"SD ++A+D +   LK+K",
+	"SubjectStartFrom":55,
+	"SubjectPart":"SDLKEAVDKLGYKLKLK",
+	"SubjectFinishAt":71
+},
+
+"3O04_A":
+{
+	"name":"3O04_A",
+	"length":413,
+	"EValue":  141,
+	"QueryStartFrom":15,
+	"QueryPart":"KIKPIYIESMLQEMGPRQTQMFIRSTSNG",
+	"QueryFinishAt":43,
+	"Alignment":"++ P ++  M+ +MG    Q+ IR  + G",
+	"SubjectStartFrom":129,
+	"SubjectPart":"RVSPFFVPMMIPDMGS--GQVSIRFGAKG",
+	"SubjectFinishAt":155
+},
+
+"2GX8_A":
+{
+	"name":"2GX8_A",
+	"length":397,
+	"EValue":  143,
+	"QueryStartFrom":10,
+	"QueryPart":"ISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKA",
+	"QueryFinishAt":51,
+	"Alignment":"+ N   + P Y E M      ++  +F+  T    AEEVRKA",
+	"SubjectStartFrom":147,
+	"SubjectPart":"LQNTEVLAPTYAEEM------KKVVVFVPVT---HAEEVRKA",
+	"SubjectFinishAt":179
+},
+
+"3ZJ2_A":
+{
+	"name":"3ZJ2_A",
+	"length":71,
+	"EValue":  144,
+	"QueryStartFrom":2,
+	"QueryPart":"DTRKAIDTISNLLKIKPI",
+	"QueryFinishAt":19,
+	"Alignment":"+ RKA  ++S + ++KPI",
+	"SubjectStartFrom":51,
+	"SubjectPart":"ECRKAHSSLSKIKEVKPI",
+	"SubjectFinishAt":68
+},
+
+"2GLU_A":
+{
+	"name":"2GLU_A",
+	"length":239,
+	"EValue":  144,
+	"QueryStartFrom":1,
+	"QueryPart":"SDTRKAIDTISNLLK",
+	"QueryFinishAt":15,
+	"Alignment":"SD RKA+  ++ +LK",
+	"SubjectStartFrom":101,
+	"SubjectPart":"SDVRKAVREVARVLK",
+	"SubjectFinishAt":115
+},
+
+"3QAO_A":
+{
+	"name":"3QAO_A",
+	"length":249,
+	"EValue":  144,
+	"QueryStartFrom":2,
+	"QueryPart":"DTRKAIDTISNLLKIKPIYIESMLQ-------------EMGPRQTQMFIRSTSNGSAEEV",
+	"QueryFinishAt":48,
+	"Alignment":"D   A+D   +LL  K   IE+ML               M  ++       +SN   EE",
+	"SubjectStartFrom":76,
+	"SubjectPart":"DKNVALDMQRHLLIEKKQRIETMLATLDLTIKNEKGEITMTNKEKFTGFDFSSNPYEEEA",
+	"SubjectFinishAt":135
+},
+
+"4E9I_A":
+{
+	"name":"4E9I_A",
+	"length":541,
+	"EValue":  144,
+	"QueryStartFrom":29,
+	"QueryPart":"GPRQTQMFIRS----TSNGSAEEVRKA",
+	"QueryFinishAt":51,
+	"Alignment":"GP + Q FIR     T+NG+A +   A",
+	"SubjectStartFrom":515,
+	"SubjectPart":"GPEEAQEFIRISGYKTTNGNAYKCSNA",
+	"SubjectFinishAt":541
+},
+
+"3MFX_A":
+{
+	"name":"3MFX_A",
+	"length":129,
+	"EValue":  145,
+	"QueryStartFrom":14,
+	"QueryPart":"LKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAE",
+	"QueryFinishAt":46,
+	"Alignment":"L+   ++I+ + + M       FIRS +  SAE",
+	"SubjectStartFrom":6,
+	"SubjectPart":"LETIELFIQHLTEAMILVNANGFIRSCNQRSAE",
+	"SubjectFinishAt":38
+},
+
+"1JPA_A":
+{
+	"name":"1JPA_A",
+	"length":312,
+	"EValue":  147,
+	"QueryStartFrom":29,
+	"QueryPart":"GPRQTQMFIRSTSNGSAEEVRK",
+	"QueryFinishAt":50,
+	"Alignment":"G R+  + I++  +G  E+ R+",
+	"SubjectStartFrom":58,
+	"SubjectPart":"GKREIFVAIKTLKSGYTEKQRR",
+	"SubjectFinishAt":79
+},
+
+"2HEN_A":
+{
+	"name":"2HEN_A",
+	"length":286,
+	"EValue":  147,
+	"QueryStartFrom":29,
+	"QueryPart":"GPRQTQMFIRSTSNGSAEEVRK",
+	"QueryFinishAt":50,
+	"Alignment":"G R+  + I++  +G  E+ R+",
+	"SubjectStartFrom":32,
+	"SubjectPart":"GKREIFVAIKTLKSGYTEKQRR",
+	"SubjectFinishAt":53
+},
+
+"4DR0_A":
+{
+	"name":"4DR0_A",
+	"length":350,
+	"EValue":  147,
+	"QueryStartFrom":6,
+	"QueryPart":"AIDTISNLLKIKPIYIESMLQEMG-PRQTQMFIRSTSN",
+	"QueryFinishAt":42,
+	"Alignment":"AID ++ L + +  Y E +  ++G     + FIR  +N",
+	"SubjectStartFrom":249,
+	"SubjectPart":"AIDLLNQLYENELEYTEDLYDQVGLSHDVKKFIRYNAN",
+	"SubjectFinishAt":286
+},
+
+"3ZGX_A":
+{
+	"name":"3ZGX_A",
+	"length":426,
+	"EValue":  149,
+	"QueryStartFrom":21,
+	"QueryPart":"IESMLQEMGPRQTQMFIRSTSN",
+	"QueryFinishAt":42,
+	"Alignment":"IE M +EM  R    F++  S+",
+	"SubjectStartFrom":262,
+	"SubjectPart":"IEEMDEEMTKRFNDTFVQIRSH",
+	"SubjectFinishAt":283
+},
+
+"2HBM_A":
+{
+	"name":"2HBM_A",
+	"length":410,
+	"EValue":  149,
+	"QueryStartFrom":39,
+	"QueryPart":"STSNGSAEEVRKAAYL",
+	"QueryFinishAt":54,
+	"Alignment":"S +NG  E VR+ A L",
+	"SubjectStartFrom":359,
+	"SubjectPart":"SLTNGVTEHVRQNAKL",
+	"SubjectFinishAt":374
+},
+
+"4DJF_E":
+{
+	"name":"4DJF_E",
+	"length":446,
+	"EValue":  149,
+	"QueryStartFrom":18,
+	"QueryPart":"PIYIESMLQEMGPRQTQMFIRSTSN",
+	"QueryFinishAt":42,
+	"Alignment":"PI +E  L E+G       +  T+N",
+	"SubjectStartFrom":318,
+	"SubjectPart":"PIRVEEKLNEIGAVNENSPVYVTTN",
+	"SubjectFinishAt":342
+},
+
+"1S8E_A":
+{
+	"name":"1S8E_A",
+	"length":333,
+	"EValue":  150,
+	"QueryStartFrom":24,
+	"QueryPart":"MLQEMGPR----QTQMFIRSTSNGSAEEVRKA",
+	"QueryFinishAt":51,
+	"Alignment":"++++  PR    + + FI     GS EE+RKA",
+	"SubjectStartFrom":257,
+	"SubjectPart":"IVEDFKPRFVEIKVRPFIDVKIKGSEEEIRKA",
+	"SubjectFinishAt":288
+},
+
+"3DSC_A":
+{
+	"name":"3DSC_A",
+	"length":349,
+	"EValue":  150,
+	"QueryStartFrom":24,
+	"QueryPart":"MLQEMGPR----QTQMFIRSTSNGSAEEVRKA",
+	"QueryFinishAt":51,
+	"Alignment":"++++  PR    + + FI     GS EE+RKA",
+	"SubjectStartFrom":257,
+	"SubjectPart":"IVEDFKPRFVEIKVRPFIDVKIKGSEEEIRKA",
+	"SubjectFinishAt":288
+},
+
+"1II7_A":
+{
+	"name":"1II7_A",
+	"length":333,
+	"EValue":  150,
+	"QueryStartFrom":24,
+	"QueryPart":"MLQEMGPR----QTQMFIRSTSNGSAEEVRKA",
+	"QueryFinishAt":51,
+	"Alignment":"++++  PR    + + FI     GS EE+RKA",
+	"SubjectStartFrom":257,
+	"SubjectPart":"IVEDFKPRFVEIKVRPFIDVKIKGSEEEIRKA",
+	"SubjectFinishAt":288
+},
+
+"3DSD_A":
+{
+	"name":"3DSD_A",
+	"length":349,
+	"EValue":  150,
+	"QueryStartFrom":24,
+	"QueryPart":"MLQEMGPR----QTQMFIRSTSNGSAEEVRKA",
+	"QueryFinishAt":51,
+	"Alignment":"++++  PR    + + FI     GS EE+RKA",
+	"SubjectStartFrom":257,
+	"SubjectPart":"IVEDFKPRFVEIKVRPFIDVKIKGSEEEIRKA",
+	"SubjectFinishAt":288
+},
+
+"4HD0_A":
+{
+	"name":"4HD0_A",
+	"length":339,
+	"EValue":  150,
+	"QueryStartFrom":24,
+	"QueryPart":"MLQEMGPR----QTQMFIRSTSNGSAEEVRKA",
+	"QueryFinishAt":51,
+	"Alignment":"++++  PR    + + FI     GS EE+RKA",
+	"SubjectStartFrom":263,
+	"SubjectPart":"IVEDFKPRFVEIKVRPFIDVKIKGSEEEIRKA",
+	"SubjectFinishAt":294
+},
+
+"1FL6_H":
+{
+	"name":"1FL6_H",
+	"length":219,
+	"EValue":  157,
+	"QueryStartFrom":36,
+	"QueryPart":"FIRSTSNGSAEE",
+	"QueryFinishAt":47,
+	"Alignment":"FIR+ +NG   E",
+	"SubjectStartFrom":50,
+	"SubjectPart":"FIRNKANGYTTE",
+	"SubjectFinishAt":61
+},
+
+"1Q9Q_B":
+{
+	"name":"1Q9Q_B",
+	"length":222,
+	"EValue":  157,
+	"QueryStartFrom":36,
+	"QueryPart":"FIRSTSNGSAEE",
+	"QueryFinishAt":47,
+	"Alignment":"FIR+ +NG   E",
+	"SubjectStartFrom":50,
+	"SubjectPart":"FIRNKANGYTTE",
+	"SubjectFinishAt":61
+},
+
+"1Q9T_B":
+{
+	"name":"1Q9T_B",
+	"length":224,
+	"EValue":  157,
+	"QueryStartFrom":36,
+	"QueryPart":"FIRSTSNGSAEE",
+	"QueryFinishAt":47,
+	"Alignment":"FIR+ +NG   E",
+	"SubjectStartFrom":50,
+	"SubjectPart":"FIRNKANGYTTE",
+	"SubjectFinishAt":61
+},
+
+"1NQ6_A":
+{
+	"name":"1NQ6_A",
+	"length":302,
+	"EValue":  159,
+	"QueryStartFrom":29,
+	"QueryPart":"GPRQTQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"G R++  F     NG  EE  + A",
+	"SubjectStartFrom":135,
+	"SubjectPart":"GARRSSPFQDKLGNGFIEEAFRTA",
+	"SubjectFinishAt":158
+},
+
+"1KQK_A":
+{
+	"name":"1KQK_A",
+	"length":80,
+	"EValue":  159,
+	"QueryStartFrom":1,
+	"QueryPart":"SDTRKAIDTISNLLKIK",
+	"QueryFinishAt":17,
+	"Alignment":"SD ++A+D +   LK+K",
+	"SubjectStartFrom":55,
+	"SubjectPart":"SDLKEAVDKLGYKLKLK",
+	"SubjectFinishAt":71
+},
+
+"4F4C_A":
+{
+	"name":"4F4C_A",
+	"length":1321,
+	"EValue":  159,
+	"QueryStartFrom":22,
+	"QueryPart":"ESMLQEMGPRQTQMFIRSTSNGS",
+	"QueryFinishAt":44,
+	"Alignment":"E M+        + FI++  NG",
+	"SubjectStartFrom":522,
+	"SubjectPart":"EEMVAACKMANAEKFIKTLPNGY",
+	"SubjectFinishAt":544
+},
+
+"1P6T_A":
+{
+	"name":"1P6T_A",
+	"length":151,
+	"EValue":  162,
+	"QueryStartFrom":1,
+	"QueryPart":"SDTRKAIDTISNLLKIK",
+	"QueryFinishAt":17,
+	"Alignment":"SD ++A+D +   LK+K",
+	"SubjectStartFrom":126,
+	"SubjectPart":"SDLKEAVDKLGYKLKLK",
+	"SubjectFinishAt":142
+},
+
+"2PT2_A":
+{
+	"name":"2PT2_A",
+	"length":334,
+	"EValue":  169,
+	"QueryStartFrom":3,
+	"QueryPart":"TRKAIDTISNLLKIKPIYIESMLQEMGPR-QTQMFIRSTSNGSAEEV",
+	"QueryFinishAt":48,
+	"Alignment":"T++A   + N  K+KP  + +  +   P+ + ++ IRS+SN   + +",
+	"SubjectStartFrom":117,
+	"SubjectPart":"TKRARVIMYNKGKVKPEELSTYEELADPKWKGRVIIRSSSNEYNQSL",
+	"SubjectFinishAt":163
+},
+
+"2D9T_A":
+{
+	"name":"2D9T_A",
+	"length":78,
+	"EValue":  170,
+	"QueryStartFrom":20,
+	"QueryPart":"YIESMLQEMGPRQTQMFIRSTSNG",
+	"QueryFinishAt":43,
+	"Alignment":"Y E +L  + P QT+ ++R  ++G",
+	"SubjectStartFrom":51,
+	"SubjectPart":"YEEVLLSNIKPVQTEAWVRDPNSG",
+	"SubjectFinishAt":74
+},
+
+"3HDO_A":
+{
+	"name":"3HDO_A",
+	"length":360,
+	"EValue":  172,
+	"QueryStartFrom":18,
+	"QueryPart":"PIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"P  ++++L+E+GP      +R   + S++++R+ A",
+	"SubjectStartFrom":42,
+	"SubjectPart":"PEVVKAILEELGPDGAA--LRIYPSASSQKLREVA",
+	"SubjectFinishAt":74
+},
+
+"4LIM_A":
+{
+	"name":"4LIM_A",
+	"length":391,
+	"EValue":  175,
+	"QueryStartFrom":12,
+	"QueryPart":"NLLKIKPIYIESMLQEMGP",
+	"QueryFinishAt":30,
+	"Alignment":"+L ++KP ++  ML+E  P",
+	"SubjectStartFrom":211,
+	"SubjectPart":"SLEQLKPFFVSIMLEEQNP",
+	"SubjectFinishAt":229
+},
+
+"2RML_A":
+{
+	"name":"2RML_A",
+	"length":147,
+	"EValue":  175,
+	"QueryStartFrom":1,
+	"QueryPart":"SDTRKAIDTISNLLKIK",
+	"QueryFinishAt":17,
+	"Alignment":"SD ++A+D +   LK+K",
+	"SubjectStartFrom":126,
+	"SubjectPart":"SDLKEAVDKLGYKLKLK",
+	"SubjectFinishAt":142
+},
+
+"2WZG_A":
+{
+	"name":"2WZG_A",
+	"length":525,
+	"EValue":  175,
+	"QueryStartFrom":15,
+	"QueryPart":"KIKPIYIESMLQEMGPRQTQMFIRSTS",
+	"QueryFinishAt":41,
+	"Alignment":"KI+ IY  S+L     RQ + F +  +",
+	"SubjectStartFrom":167,
+	"SubjectPart":"KIRLIYSSSLLNPEANRQMKAFAKKQN",
+	"SubjectFinishAt":193
+},
+
+"3JSZ_A":
+{
+	"name":"3JSZ_A",
+	"length":525,
+	"EValue":  175,
+	"QueryStartFrom":15,
+	"QueryPart":"KIKPIYIESMLQEMGPRQTQMFIRSTS",
+	"QueryFinishAt":41,
+	"Alignment":"KI+ IY  S+L     RQ + F +  +",
+	"SubjectStartFrom":167,
+	"SubjectPart":"KIRLIYSSSLLNPEANRQMKAFAKKQN",
+	"SubjectFinishAt":193
+},
+
+"4FH0_A":
+{
+	"name":"4FH0_A",
+	"length":102,
+	"EValue":  176,
+	"QueryStartFrom":14,
+	"QueryPart":"LKIKPIYIESMLQEMGPRQTQMFIRST",
+	"QueryFinishAt":40,
+	"Alignment":"L+++   + S LQ  G R  Q F R+",
+	"SubjectStartFrom":59,
+	"SubjectPart":"LRVRLCDLMSHLQRSGERDCQEFYRAL",
+	"SubjectFinishAt":85
+},
+
+"2FGE_B":
+{
+	"name":"2FGE_B",
+	"length":995,
+	"EValue":  178,
+	"QueryStartFrom":7,
+	"QueryPart":"IDTISN-LLKIKPIYIESMLQEMGPRQ",
+	"QueryFinishAt":32,
+	"Alignment":"I ++ + LL + P++ +S+L EMG +",
+	"SubjectStartFrom":583,
+	"SubjectPart":"IGSLKHELLPLVPLFCQSLL-EMGTKD",
+	"SubjectFinishAt":608
+},
+
+"1TAQ_A":
+{
+	"name":"1TAQ_A",
+	"length":832,
+	"EValue":  181,
+	"QueryStartFrom":9,
+	"QueryPart":"TISNLLKIKPIYIESMLQEMGPR",
+	"QueryFinishAt":31,
+	"Alignment":"T ++L+K+  + +   L+EMG R",
+	"SubjectStartFrom":756,
+	"SubjectPart":"TAADLMKLAMVKLFPRLEEMGAR",
+	"SubjectFinishAt":778
+},
+
+"1TAU_A":
+{
+	"name":"1TAU_A",
+	"length":832,
+	"EValue":  181,
+	"QueryStartFrom":9,
+	"QueryPart":"TISNLLKIKPIYIESMLQEMGPR",
+	"QueryFinishAt":31,
+	"Alignment":"T ++L+K+  + +   L+EMG R",
+	"SubjectStartFrom":756,
+	"SubjectPart":"TAADLMKLAMVKLFPRLEEMGAR",
+	"SubjectFinishAt":778
+},
+
+"1EXN_B":
+{
+	"name":"1EXN_B",
+	"length":290,
+	"EValue":  185,
+	"QueryStartFrom":20,
+	"QueryPart":"YIESMLQEMGPRQTQMFIRSTSNGS",
+	"QueryFinishAt":44,
+	"Alignment":"+IE    EM  R+  M +  T+ G",
+	"SubjectStartFrom":7,
+	"SubjectPart":"FIEEEEAEMASRRNLMIVDGTNLGF",
+	"SubjectFinishAt":31
+},
+
+"1UT8_A":
+{
+	"name":"1UT8_A",
+	"length":291,
+	"EValue":  185,
+	"QueryStartFrom":20,
+	"QueryPart":"YIESMLQEMGPRQTQMFIRSTSNGS",
+	"QueryFinishAt":44,
+	"Alignment":"+IE    EM  R+  M +  T+ G",
+	"SubjectStartFrom":8,
+	"SubjectPart":"FIEEEEAEMASRRNLMIVDGTNLGF",
+	"SubjectFinishAt":32
+},
+
+"1XO1_A":
+{
+	"name":"1XO1_A",
+	"length":291,
+	"EValue":  187,
+	"QueryStartFrom":20,
+	"QueryPart":"YIESMLQEMGPRQTQMFIRSTSNGS",
+	"QueryFinishAt":44,
+	"Alignment":"+IE    EM  R+  M +  T+ G",
+	"SubjectStartFrom":8,
+	"SubjectPart":"FIEEEEAEMASRRNLMIVDGTNLGF",
+	"SubjectFinishAt":32
+},
+
+"4FQ0_B":
+{
+	"name":"4FQ0_B",
+	"length":210,
+	"EValue":  188,
+	"QueryStartFrom":19,
+	"QueryPart":"IYIESMLQEMGPRQ",
+	"QueryFinishAt":32,
+	"Alignment":"I IES+L +MG R",
+	"SubjectStartFrom":194,
+	"SubjectPart":"ISIESILSKMGSRD",
+	"SubjectFinishAt":207
+},
+
+"4GC8_A":
+{
+	"name":"4GC8_A",
+	"length":212,
+	"EValue":  188,
+	"QueryStartFrom":19,
+	"QueryPart":"IYIESMLQEMGPRQ",
+	"QueryFinishAt":32,
+	"Alignment":"I IES+L +MG R",
+	"SubjectStartFrom":196,
+	"SubjectPart":"ISIESILSKMGSRD",
+	"SubjectFinishAt":209
+},
+
+"2I00_A":
+{
+	"name":"2I00_A",
+	"length":406,
+	"EValue":  188,
+	"QueryStartFrom":7,
+	"QueryPart":"IDTISNLLKIKPIYIESMLQEMGPRQTQMFIRS",
+	"QueryFinishAt":39,
+	"Alignment":"ID  + LL       E+ ++E G    + FI+S",
+	"SubjectStartFrom":20,
+	"SubjectPart":"IDQFNELLSYVFQVTEADIEESGFENKRAFIKS",
+	"SubjectFinishAt":52
+},
+
+"4DWN_A":
+{
+	"name":"4DWN_A",
+	"length":100,
+	"EValue":  190,
+	"QueryStartFrom":14,
+	"QueryPart":"LKIKPIYIESMLQEMGPRQTQMFIRST",
+	"QueryFinishAt":40,
+	"Alignment":"L+++   + S LQ  G R  Q F R+",
+	"SubjectStartFrom":59,
+	"SubjectPart":"LRVRLCDLLSHLQRSGERDCQEFYRAL",
+	"SubjectFinishAt":85
+},
+
+"3QE6_B":
+{
+	"name":"3QE6_B",
+	"length":304,
+	"EValue":  190,
+	"QueryStartFrom":9,
+	"QueryPart":"TISNLLKIKPIYIESMLQ-----EMGPRQTQMFIR",
+	"QueryFinishAt":38,
+	"Alignment":"T++ L +  P Y+E M Q     +   RQ  +F +",
+	"SubjectStartFrom":209,
+	"SubjectPart":"TLAELNRYTPRYMEDMEQAFESCQAAERQRLLFFK",
+	"SubjectFinishAt":243
+},
+
+"3D4J_A":
+{
+	"name":"3D4J_A",
+	"length":400,
+	"EValue":  193,
+	"QueryStartFrom":21,
+	"QueryPart":"IESMLQEMGPRQTQMFIRSTSNGSAE",
+	"QueryFinishAt":46,
+	"Alignment":"+ES L E+  R +    RS   G  E",
+	"SubjectStartFrom":144,
+	"SubjectPart":"VESDLSEVARRGSGSACRSLYGGFVE",
+	"SubjectFinishAt":169
+},
+
+"4ELU_A":
+{
+	"name":"4ELU_A",
+	"length":540,
+	"EValue":  196,
+	"QueryStartFrom":9,
+	"QueryPart":"TISNLLKIKPIYIESMLQEMGPR",
+	"QueryFinishAt":31,
+	"Alignment":"T ++L+K+  + +   L+EMG R",
+	"SubjectStartFrom":464,
+	"SubjectPart":"TAADLMKLAMVKLFPRLEEMGAR",
+	"SubjectFinishAt":486
+},
+
+"1QSS_A":
+{
+	"name":"1QSS_A",
+	"length":539,
+	"EValue":  196,
+	"QueryStartFrom":9,
+	"QueryPart":"TISNLLKIKPIYIESMLQEMGPR",
+	"QueryFinishAt":31,
+	"Alignment":"T ++L+K+  + +   L+EMG R",
+	"SubjectStartFrom":464,
+	"SubjectPart":"TAADLMKLAMVKLFPRLEEMGAR",
+	"SubjectFinishAt":486
+},
+
+"1KTQ_A":
+{
+	"name":"1KTQ_A",
+	"length":543,
+	"EValue":  196,
+	"QueryStartFrom":9,
+	"QueryPart":"TISNLLKIKPIYIESMLQEMGPR",
+	"QueryFinishAt":31,
+	"Alignment":"T ++L+K+  + +   L+EMG R",
+	"SubjectStartFrom":467,
+	"SubjectPart":"TAADLMKLAMVKLFPRLEEMGAR",
+	"SubjectFinishAt":489
+},
+
+"2KTQ_A":
+{
+	"name":"2KTQ_A",
+	"length":538,
+	"EValue":  196,
+	"QueryStartFrom":9,
+	"QueryPart":"TISNLLKIKPIYIESMLQEMGPR",
+	"QueryFinishAt":31,
+	"Alignment":"T ++L+K+  + +   L+EMG R",
+	"SubjectStartFrom":462,
+	"SubjectPart":"TAADLMKLAMVKLFPRLEEMGAR",
+	"SubjectFinishAt":484
+},
+
+"1QTM_A":
+{
+	"name":"1QTM_A",
+	"length":539,
+	"EValue":  196,
+	"QueryStartFrom":9,
+	"QueryPart":"TISNLLKIKPIYIESMLQEMGPR",
+	"QueryFinishAt":31,
+	"Alignment":"T ++L+K+  + +   L+EMG R",
+	"SubjectStartFrom":464,
+	"SubjectPart":"TAADLMKLAMVKLFPRLEEMGAR",
+	"SubjectFinishAt":486
+},
+
+"3KTQ_A":
+{
+	"name":"3KTQ_A",
+	"length":540,
+	"EValue":  196,
+	"QueryStartFrom":9,
+	"QueryPart":"TISNLLKIKPIYIESMLQEMGPR",
+	"QueryFinishAt":31,
+	"Alignment":"T ++L+K+  + +   L+EMG R",
+	"SubjectStartFrom":464,
+	"SubjectPart":"TAADLMKLAMVKLFPRLEEMGAR",
+	"SubjectFinishAt":486
+},
+
+"4KTQ_A":
+{
+	"name":"4KTQ_A",
+	"length":539,
+	"EValue":  196,
+	"QueryStartFrom":9,
+	"QueryPart":"TISNLLKIKPIYIESMLQEMGPR",
+	"QueryFinishAt":31,
+	"Alignment":"T ++L+K+  + +   L+EMG R",
+	"SubjectStartFrom":463,
+	"SubjectPart":"TAADLMKLAMVKLFPRLEEMGAR",
+	"SubjectFinishAt":485
+},
+
+"2WZF_A":
+{
+	"name":"2WZF_A",
+	"length":525,
+	"EValue":  196,
+	"QueryStartFrom":15,
+	"QueryPart":"KIKPIYIESMLQEMGPRQTQMFIRSTS",
+	"QueryFinishAt":41,
+	"Alignment":"+I+ IY  S+L     RQ + F R  +",
+	"SubjectStartFrom":167,
+	"SubjectPart":"EIRLIYSSSLLNAEANRQMKAFARKQN",
+	"SubjectFinishAt":193
+},
+
+"1RIQ_A":
+{
+	"name":"1RIQ_A",
+	"length":465,
+	"EValue":  198,
+	"QueryStartFrom":15,
+	"QueryPart":"KIKPIYIESMLQEMGPRQTQMFI",
+	"QueryFinishAt":37,
+	"Alignment":"K+KP+Y  S L+E+G  +T  F+",
+	"SubjectStartFrom":435,
+	"SubjectPart":"KVKPVY--SHLKELG--KTSAFV",
+	"SubjectFinishAt":453
+},
+
+"3HTZ_A":
+{
+	"name":"3HTZ_A",
+	"length":464,
+	"EValue":  198,
+	"QueryStartFrom":15,
+	"QueryPart":"KIKPIYIESMLQEMGPRQTQMFI",
+	"QueryFinishAt":37,
+	"Alignment":"K+KP+Y  S L+E+G  +T  F+",
+	"SubjectStartFrom":434,
+	"SubjectPart":"KVKPVY--SHLKELG--KTSAFV",
+	"SubjectFinishAt":452
+},
+
+"4HTI_A":
+{
+	"name":"4HTI_A",
+	"length":99,
+	"EValue":  200,
+	"QueryStartFrom":4,
+	"QueryPart":"RKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKA",
+	"QueryFinishAt":51,
+	"Alignment":"R+ ++ ++ LL++ P    + ++ +GP  T     +  N + E+V KA",
+	"SubjectStartFrom":27,
+	"SubjectPart":"RRLVEDVARLLQV-PSSAFADVEVLGPAVTFKVSANVQNVTTEDVEKA",
+	"SubjectFinishAt":73
+},
+
+"3PHO_B":
+{
+	"name":"3PHO_B",
+	"length":222,
+	"EValue":  201,
+	"QueryStartFrom":36,
+	"QueryPart":"FIRSTSNGSAEE",
+	"QueryFinishAt":47,
+	"Alignment":"FIR+  NG   E",
+	"SubjectStartFrom":50,
+	"SubjectPart":"FIRNKGNGYTTE",
+	"SubjectFinishAt":61
+},
+
+"3PHQ_B":
+{
+	"name":"3PHQ_B",
+	"length":222,
+	"EValue":  201,
+	"QueryStartFrom":36,
+	"QueryPart":"FIRSTSNGSAEE",
+	"QueryFinishAt":47,
+	"Alignment":"FIR+  NG   E",
+	"SubjectStartFrom":50,
+	"SubjectPart":"FIRNKGNGYTTE",
+	"SubjectFinishAt":61
+},
+
+"3ZFX_G":
+{
+	"name":"3ZFX_G",
+	"length":298,
+	"EValue":  203,
+	"QueryStartFrom":1,
+	"QueryPart":"SDTRKAIDTISNLLKIKPIYIESM-------------LQEMGPRQTQMFIRSTSNGSAEE",
+	"QueryFinishAt":47,
+	"Alignment":"SD  +A+   +  + +  + IE +             L+  G R+  + I++   G +E+",
+	"SubjectStartFrom":3,
+	"SubjectPart":"SDPNEAVREFAKEIDVSFVKIEEVIGAGEFGEVYKGRLKLPGKREIYVAIKTLKAGYSEK",
+	"SubjectFinishAt":62
+},
+
+"2HLE_B":
+{
+	"name":"2HLE_B",
+	"length":138,
+	"EValue":  203,
+	"QueryStartFrom":30,
+	"QueryPart":"PRQTQMFIRSTSNGSAE",
+	"QueryFinishAt":46,
+	"Alignment":"+    +I STSNGS E",
+	"SubjectStartFrom":100,
+	"SubjectPart":"QKNKDYYIISTSNGSLE",
+	"SubjectFinishAt":116
+},
+
+"2VSM_B":
+{
+	"name":"2VSM_B",
+	"length":140,
+	"EValue":  203,
+	"QueryStartFrom":30,
+	"QueryPart":"PRQTQMFIRSTSNGSAE",
+	"QueryFinishAt":46,
+	"Alignment":"+    +I STSNGS E",
+	"SubjectStartFrom":100,
+	"SubjectPart":"QKNKDYYIISTSNGSLE",
+	"SubjectFinishAt":116
+},
+
+"1IKO_P":
+{
+	"name":"1IKO_P",
+	"length":178,
+	"EValue":  203,
+	"QueryStartFrom":30,
+	"QueryPart":"PRQTQMFIRSTSNGSAE",
+	"QueryFinishAt":46,
+	"Alignment":"+    +I STSNGS E",
+	"SubjectStartFrom":101,
+	"SubjectPart":"QKNKDYYIISTSNGSLE",
+	"SubjectFinishAt":117
+},
+
+"2VSK_B":
+{
+	"name":"2VSK_B",
+	"length":138,
+	"EValue":  203,
+	"QueryStartFrom":30,
+	"QueryPart":"PRQTQMFIRSTSNGSAE",
+	"QueryFinishAt":46,
+	"Alignment":"+    +I STSNGS E",
+	"SubjectStartFrom":100,
+	"SubjectPart":"QKNKDYYIISTSNGSLE",
+	"SubjectFinishAt":116
+},
+
+"2I85_A":
+{
+	"name":"2I85_A",
+	"length":142,
+	"EValue":  203,
+	"QueryStartFrom":30,
+	"QueryPart":"PRQTQMFIRSTSNGSAE",
+	"QueryFinishAt":46,
+	"Alignment":"+    +I STSNGS E",
+	"SubjectStartFrom":103,
+	"SubjectPart":"QKNKDYYIISTSNGSLE",
+	"SubjectFinishAt":119
+},
+
+"1KGY_E":
+{
+	"name":"1KGY_E",
+	"length":138,
+	"EValue":  203,
+	"QueryStartFrom":30,
+	"QueryPart":"PRQTQMFIRSTSNGSAE",
+	"QueryFinishAt":46,
+	"Alignment":"+    +I STSNGS E",
+	"SubjectStartFrom":100,
+	"SubjectPart":"QKNKDYYIISTSNGSLE",
+	"SubjectFinishAt":116
+},
+
+"2WO2_B":
+{
+	"name":"2WO2_B",
+	"length":153,
+	"EValue":  203,
+	"QueryStartFrom":30,
+	"QueryPart":"PRQTQMFIRSTSNGSAE",
+	"QueryFinishAt":46,
+	"Alignment":"+    +I STSNGS E",
+	"SubjectStartFrom":104,
+	"SubjectPart":"QKNKDYYIISTSNGSLE",
+	"SubjectFinishAt":120
+},
+
+"3GXU_B":
+{
+	"name":"3GXU_B",
+	"length":143,
+	"EValue":  203,
+	"QueryStartFrom":30,
+	"QueryPart":"PRQTQMFIRSTSNGSAE",
+	"QueryFinishAt":46,
+	"Alignment":"+    +I STSNGS E",
+	"SubjectStartFrom":101,
+	"SubjectPart":"QKNKDYYIISTSNGSLE",
+	"SubjectFinishAt":117
+},
+
+"3M3W_B":
+{
+	"name":"3M3W_B",
+	"length":320,
+	"EValue":  203,
+	"QueryStartFrom":9,
+	"QueryPart":"TISNLLKIKPIYIESMLQ-----EMGPRQTQMFIR",
+	"QueryFinishAt":38,
+	"Alignment":"T++ L +  P Y+E M Q     +   RQ  +F +",
+	"SubjectStartFrom":209,
+	"SubjectPart":"TLAELNRYTPRYMEDMEQAFESCQAAERQRLLFFK",
+	"SubjectFinishAt":243
+},
+
+"3SYV_H":
+{
+	"name":"3SYV_H",
+	"length":347,
+	"EValue":  203,
+	"QueryStartFrom":9,
+	"QueryPart":"TISNLLKIKPIYIESMLQ-----EMGPRQTQMFIR",
+	"QueryFinishAt":38,
+	"Alignment":"T++ L +  P Y+E M Q     +   RQ  +F +",
+	"SubjectStartFrom":215,
+	"SubjectPart":"TLAELNRYTPRYMEDMEQAFESCQAAERQRLLFFK",
+	"SubjectFinishAt":249
+},
+
+"4NVS_B":
+{
+	"name":"4NVS_B",
+	"length":163,
+	"EValue":  206,
+	"QueryStartFrom":2,
+	"QueryPart":"DTRKAIDTISNLLKIKPIYIESMLQ",
+	"QueryFinishAt":26,
+	"Alignment":"D+  +ID ++  + +   YIES+L+",
+	"SubjectStartFrom":131,
+	"SubjectPart":"DSGLSIDEVAKRMDVTVEYIESVLE",
+	"SubjectFinishAt":155
+},
+
+"3NV6_A":
+{
+	"name":"3NV6_A",
+	"length":452,
+	"EValue":  208,
+	"QueryStartFrom":4,
+	"QueryPart":"RKAIDTISNLLKIKPIYIESMLQEMGPRQTQMF",
+	"QueryFinishAt":36,
+	"Alignment":"RKA+D   NL KI+   +E  ++E+       F",
+	"SubjectStartFrom":148,
+	"SubjectPart":"RKALDKGLNLAKIRK--VEDKVREVASSLIDSF",
+	"SubjectFinishAt":178
+},
+
+"4DXY_A":
+{
+	"name":"4DXY_A",
+	"length":417,
+	"EValue":  208,
+	"QueryStartFrom":4,
+	"QueryPart":"RKAIDTISNLLKIKPIYIESMLQEMGPRQTQMF",
+	"QueryFinishAt":36,
+	"Alignment":"RKA+D   NL KI+   +E  ++E+       F",
+	"SubjectStartFrom":113,
+	"SubjectPart":"RKALDKGLNLAKIRK--VEDKVREVASSLIDSF",
+	"SubjectFinishAt":143
+},
+
+"1VHN_A":
+{
+	"name":"1VHN_A",
+	"length":318,
+	"EValue":  210,
+	"QueryStartFrom":20,
+	"QueryPart":"YIESMLQEMGPRQTQMFIRSTSNGSAEEVRKA",
+	"QueryFinishAt":51,
+	"Alignment":"++E +++  G R+  + +R    G  ++++ A",
+	"SubjectStartFrom":250,
+	"SubjectPart":"HLELLIKTKGERKAVVEMRKFLAGYTKDLKGA",
+	"SubjectFinishAt":281
+},
+
+"1J3K_C":
+{
+	"name":"1J3K_C",
+	"length":328,
+	"EValue":  210,
+	"QueryStartFrom":13,
+	"QueryPart":"LLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSA",
+	"QueryFinishAt":45,
+	"Alignment":"LL  K +++  +++E+       FIR  +NG+",
+	"SubjectStartFrom":88,
+	"SubjectPart":"LLTTKKLFLRGIIEEL-----LWFIRGETNGNT",
+	"SubjectFinishAt":115
+},
+
+"3JSU_A":
+{
+	"name":"3JSU_A",
+	"length":608,
+	"EValue":  210,
+	"QueryStartFrom":13,
+	"QueryPart":"LLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSA",
+	"QueryFinishAt":45,
+	"Alignment":"LL  K +++  +++E+       FIR  +NG+",
+	"SubjectStartFrom":368,
+	"SubjectPart":"LLTTKKLFLRGIIEEL-----LWFIRGETNGNT",
+	"SubjectFinishAt":395
+},
+
+"3QGT_A":
+{
+	"name":"3QGT_A",
+	"length":608,
+	"EValue":  210,
+	"QueryStartFrom":13,
+	"QueryPart":"LLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSA",
+	"QueryFinishAt":45,
+	"Alignment":"LL  K +++  +++E+       FIR  +NG+",
+	"SubjectStartFrom":368,
+	"SubjectPart":"LLTTKKLFLRGIIEEL-----LWFIRGETNGNT",
+	"SubjectFinishAt":395
+},
+
+"3UM5_A":
+{
+	"name":"3UM5_A",
+	"length":608,
+	"EValue":  210,
+	"QueryStartFrom":13,
+	"QueryPart":"LLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSA",
+	"QueryFinishAt":45,
+	"Alignment":"LL  K +++  +++E+       FIR  +NG+",
+	"SubjectStartFrom":368,
+	"SubjectPart":"LLTTKKLFLRGIIEEL-----LWFIRGETNGNT",
+	"SubjectFinishAt":395
+},
+
+"3ANJ_A":
+{
+	"name":"3ANJ_A",
+	"length":398,
+	"EValue":  212,
+	"QueryStartFrom":13,
+	"QueryPart":"LLKIKPIYIESM",
+	"QueryFinishAt":24,
+	"Alignment":"++KIKP+ +ES+",
+	"SubjectStartFrom":1,
+	"SubjectPart":"MMKIKPVKVESI",
+	"SubjectFinishAt":12
+},
+
+"3ANK_A":
+{
+	"name":"3ANK_A",
+	"length":398,
+	"EValue":  212,
+	"QueryStartFrom":13,
+	"QueryPart":"LLKIKPIYIESM",
+	"QueryFinishAt":24,
+	"Alignment":"++KIKP+ +ES+",
+	"SubjectStartFrom":1,
+	"SubjectPart":"MMKIKPVKVESI",
+	"SubjectFinishAt":12
+},
+
+"3VXD_B":
+{
+	"name":"3VXD_B",
+	"length":398,
+	"EValue":  212,
+	"QueryStartFrom":13,
+	"QueryPart":"LLKIKPIYIESM",
+	"QueryFinishAt":24,
+	"Alignment":"++KIKP+ +ES+",
+	"SubjectStartFrom":1,
+	"SubjectPart":"MMKIKPVKVESI",
+	"SubjectFinishAt":12
+},
+
+"3KQF_A":
+{
+	"name":"3KQF_A",
+	"length":265,
+	"EValue":  213,
+	"QueryStartFrom":12,
+	"QueryPart":"NLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVR",
+	"QueryFinishAt":49,
+	"Alignment":"+LL+ K I I   +   GP   ++   + SNG   ++",
+	"SubjectStartFrom":191,
+	"SubjectPart":"HLLEEKAIEIAEKIASNGPIAVRLAKEAISNGIQVDLH",
+	"SubjectFinishAt":228
+},
+
+"3SQ5_B":
+{
+	"name":"3SQ5_B",
+	"length":470,
+	"EValue":  213,
+	"QueryStartFrom":5,
+	"QueryPart":"KAID-TISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNG",
+	"QueryFinishAt":43,
+	"Alignment":"+A+D T++ +LK K   IE  +       T++ I    NG",
+	"SubjectStartFrom":78,
+	"SubjectPart":"RAMDATLAVILK-KVKLIEITMPPFASHHTKLIINFYDNG",
+	"SubjectFinishAt":116
+},
+
+"3SQ7_B":
+{
+	"name":"3SQ7_B",
+	"length":470,
+	"EValue":  213,
+	"QueryStartFrom":5,
+	"QueryPart":"KAID-TISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNG",
+	"QueryFinishAt":43,
+	"Alignment":"+A+D T++ +LK K   IE  +       T++ I    NG",
+	"SubjectStartFrom":78,
+	"SubjectPart":"RAMDATLAVILK-KVKLIEITMPPFASHHTKLIINFYDNG",
+	"SubjectFinishAt":116
+},
+
+"3SQ8_B":
+{
+	"name":"3SQ8_B",
+	"length":470,
+	"EValue":  213,
+	"QueryStartFrom":5,
+	"QueryPart":"KAID-TISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNG",
+	"QueryFinishAt":43,
+	"Alignment":"+A+D T++ +LK K   IE  +       T++ I    NG",
+	"SubjectStartFrom":78,
+	"SubjectPart":"RAMDATLAVILK-KVKLIEITMPPFASHHTKLIINFYDNG",
+	"SubjectFinishAt":116
+},
+
+"4GXT_A":
+{
+	"name":"4GXT_A",
+	"length":385,
+	"EValue":  213,
+	"QueryStartFrom":23,
+	"QueryPart":"SMLQEMGPRQTQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"+ML+E       + I   ++G  +++R+ A",
+	"SubjectStartFrom":326,
+	"SubjectPart":"AMLKEFDHTDLSLIIHRANSGLIDDLRQKA",
+	"SubjectFinishAt":355
+},
+
+"4HLZ_G":
+{
+	"name":"4HLZ_G",
+	"length":229,
+	"EValue":  215,
+	"QueryStartFrom":36,
+	"QueryPart":"FIRSTSNGSAEE",
+	"QueryFinishAt":47,
+	"Alignment":"FIR  +NG   E",
+	"SubjectStartFrom":50,
+	"SubjectPart":"FIRDRANGYTTE",
+	"SubjectFinishAt":61
+},
+
+"2DGU_A":
+{
+	"name":"2DGU_A",
+	"length":103,
+	"EValue":  215,
+	"QueryStartFrom":35,
+	"QueryPart":"MFIRSTSNGSAEEVRKAAY",
+	"QueryFinishAt":53,
+	"Alignment":"+F+R+ +N   EE+ + A+",
+	"SubjectStartFrom":14,
+	"SubjectPart":"LFVRNLANTVTEEILEKAF",
+	"SubjectFinishAt":32
+},
+
+"3J39_e":
+{
+	"name":"3J39_e",
+	"length":134,
+	"EValue":  224,
+	"QueryStartFrom":14,
+	"QueryPart":"LKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRK",
+	"QueryFinishAt":50,
+	"Alignment":"+ I+P Y   +++    ++T+ FIR  S+  A+   K",
+	"SubjectStartFrom":1,
+	"SubjectPart":"MTIRPAYRPKIVK----KRTKHFIRHQSDRYAKLSHK",
+	"SubjectFinishAt":33
+},
+
+"3JZ3_A":
+{
+	"name":"3JZ3_A",
+	"length":222,
+	"EValue":  226,
+	"QueryStartFrom":3,
+	"QueryPart":"TRKAIDTISNLLKIKPIYIESMLQEM------GPRQTQMFIRSTSNGSA",
+	"QueryFinishAt":45,
+	"Alignment":"T   +D++ NL  +  I +E +LQ          +Q ++ +R T N  +",
+	"SubjectStartFrom":60,
+	"SubjectPart":"TLSRLDSLDNLQDVAEIPLEDLLQSSVMDIYHTAQQAKIDVRLTLNAHS",
+	"SubjectFinishAt":108
+},
+
+"2ZNL_A":
+{
+	"name":"2ZNL_A",
+	"length":478,
+	"EValue":  228,
+	"QueryStartFrom":13,
+	"QueryPart":"LLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAE",
+	"QueryFinishAt":46,
+	"Alignment":"+L+I  + I S +   G     MF+   +NG+++",
+	"SubjectStartFrom":304,
+	"SubjectPart":"VLEIGDMLIRSAI---GQVSRPMFLYVRTNGTSK",
+	"SubjectFinishAt":334
+},
+
+"3DKO_A":
+{
+	"name":"3DKO_A",
+	"length":318,
+	"EValue":  228,
+	"QueryStartFrom":29,
+	"QueryPart":"GPRQTQMFIRSTSNGSAEEVRK",
+	"QueryFinishAt":50,
+	"Alignment":"G R   + I++   G  E+ R+",
+	"SubjectStartFrom":68,
+	"SubjectPart":"GKRDVAVAIKTLKVGYTEKQRR",
+	"SubjectFinishAt":89
+},
+
+"2M85_A":
+{
+	"name":"2M85_A",
+	"length":73,
+	"EValue":  230,
+	"QueryStartFrom":14,
+	"QueryPart":"LKIKPIYIESMLQEMGPRQTQ",
+	"QueryFinishAt":34,
+	"Alignment":"LKIKP Y    L  M P  T+",
+	"SubjectStartFrom":53,
+	"SubjectPart":"LKIKPFYCPHCLVAMEPVSTR",
+	"SubjectFinishAt":73
+},
+
+"1LKX_A":
+{
+	"name":"1LKX_A",
+	"length":697,
+	"EValue":  232,
+	"QueryStartFrom":10,
+	"QueryPart":"ISNLLKIKPIYIESMLQE---MGPRQTQMFIRSTSNGSAEEVRKAAYL",
+	"QueryFinishAt":54,
+	"Alignment":"I  L++ KPI + S+L E   +     Q F+ S      +     +Y+",
+	"SubjectStartFrom":444,
+	"SubjectPart":"ICELIEKKPIGLISLLDEACLIAKSTDQTFLDSICKQFEKNPHLQSYV",
+	"SubjectFinishAt":491
+},
+
+"4A7F_G":
+{
+	"name":"4A7F_G",
+	"length":697,
+	"EValue":  232,
+	"QueryStartFrom":10,
+	"QueryPart":"ISNLLKIKPIYIESMLQE---MGPRQTQMFIRSTSNGSAEEVRKAAYL",
+	"QueryFinishAt":54,
+	"Alignment":"I  L++ KPI + S+L E   +     Q F+ S      +     +Y+",
+	"SubjectStartFrom":444,
+	"SubjectPart":"ICELIEKKPIGLISLLDEACLIAKSTDQTFLDSICKQFEKNPHLQSYV",
+	"SubjectFinishAt":491
+},
+
+"2UUD_H":
+{
+	"name":"2UUD_H",
+	"length":121,
+	"EValue":  236,
+	"QueryStartFrom":36,
+	"QueryPart":"FIRSTSNGSAEE",
+	"QueryFinishAt":47,
+	"Alignment":"FIR+ +NG   +",
+	"SubjectStartFrom":50,
+	"SubjectPart":"FIRNKANGYTTD",
+	"SubjectFinishAt":61
+},
+
+"4IXJ_A":
+{
+	"name":"4IXJ_A",
+	"length":283,
+	"EValue":  238,
+	"QueryStartFrom":5,
+	"QueryPart":"KAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSN",
+	"QueryFinishAt":42,
+	"Alignment":"KA+  +SN   IK   + +M +E    + ++      N",
+	"SubjectStartFrom":53,
+	"SubjectPart":"KAVTCLSNRENIKTQIVIAMAEESSKDKNEVIKEVLEN",
+	"SubjectFinishAt":90
+},
+
+"2P82_A":
+{
+	"name":"2P82_A",
+	"length":355,
+	"EValue":  238,
+	"QueryStartFrom":28,
+	"QueryPart":"MGPRQTQMFIRSTSNGSAEE",
+	"QueryFinishAt":47,
+	"Alignment":"+ P  TQ F+ +  NG+  +",
+	"SubjectStartFrom":274,
+	"SubjectPart":"LDPHTTQTFVDTEENGTVND",
+	"SubjectFinishAt":293
+},
+
+"3VUP_A":
+{
+	"name":"3VUP_A",
+	"length":351,
+	"EValue":  238,
+	"QueryStartFrom":17,
+	"QueryPart":"KPIYIESMLQEMGPRQT--QMFIRSTSNGSA",
+	"QueryFinishAt":45,
+	"Alignment":"KPI +    ++ G   T  QMF    ++G A",
+	"SubjectStartFrom":287,
+	"SubjectPart":"KPIVVGEFWEQDGGGMTITQMFNYVYNHGYA",
+	"SubjectFinishAt":317
+},
+
+"4IEG_C":
+{
+	"name":"4IEG_C",
+	"length":659,
+	"EValue":  240,
+	"QueryStartFrom":15,
+	"QueryPart":"KIKPIYIESMLQE",
+	"QueryFinishAt":27,
+	"Alignment":"K++PI+ E M +E",
+	"SubjectStartFrom":640,
+	"SubjectPart":"KLQPIFFERMFKE",
+	"SubjectFinishAt":652
+},
+
+"1ZT2_A":
+{
+	"name":"1ZT2_A",
+	"length":330,
+	"EValue":  240,
+	"QueryStartFrom":22,
+	"QueryPart":"ESMLQEMGPRQTQMFIRSTSNGSAEEVR",
+	"QueryFinishAt":49,
+	"Alignment":"E  LQ  G   +  ++R  S  S+EE+R",
+	"SubjectStartFrom":37,
+	"SubjectPart":"EFALQPFG---SDTYVRHLSFSSSEELR",
+	"SubjectFinishAt":61
+},
+
+"4LFM_D":
+{
+	"name":"4LFM_D",
+	"length":172,
+	"EValue":  242,
+	"QueryStartFrom":12,
+	"QueryPart":"NLLKIKPIYIESMLQEMG",
+	"QueryFinishAt":29,
+	"Alignment":"+++ ++ I I +ML++MG",
+	"SubjectStartFrom":9,
+	"SubjectPart":"HIVTMQKIEISNMLKDMG",
+	"SubjectFinishAt":26
+},
+
+"1GON_A":
+{
+	"name":"1GON_A",
+	"length":479,
+	"EValue":  242,
+	"QueryStartFrom":1,
+	"QueryPart":"SDTRKAIDTISNLLKIKPI----YIESMLQEMGPRQTQMFIR",
+	"QueryFinishAt":38,
+	"Alignment":"+D  + ID ++N +   P+    Y E ++++        F+R",
+	"SubjectStartFrom":249,
+	"SubjectPart":"ADAVRRIDALANRVFTGPMLQGAYPEDLVKDTAGLTDWSFVR",
+	"SubjectFinishAt":290
+},
+
+"1YQT_A":
+{
+	"name":"1YQT_A",
+	"length":538,
+	"EValue":  242,
+	"QueryStartFrom":16,
+	"QueryPart":"IKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAAYL",
+	"QueryFinishAt":54,
+	"Alignment":"+KP Y++ + + +  +  ++  ++   G  EEV KA  L",
+	"SubjectStartFrom":110,
+	"SubjectPart":"VKPQYVDLIPKAVKGKVIELLKKADETGKLEEVVKALEL",
+	"SubjectFinishAt":148
+},
+
+"3FHO_A":
+{
+	"name":"3FHO_A",
+	"length":508,
+	"EValue":  244,
+	"QueryStartFrom":7,
+	"QueryPart":"IDTISNLLKIKPIYIESM-LQEMGPRQTQMFIRSTSNGSAEEVRKAA",
+	"QueryFinishAt":52,
+	"Alignment":"+D   N+L  + +  +SM ++ + PR TQ+ + S +   +E V K A",
+	"SubjectStartFrom":265,
+	"SubjectPart":"LDEADNMLDQQGLGDQSMRIKHLLPRNTQIVLFSAT--FSERVEKYA",
+	"SubjectFinishAt":309
+},
+
+"1MJE_A":
+{
+	"name":"1MJE_A",
+	"length":649,
+	"EValue":  246,
+	"QueryStartFrom":18,
+	"QueryPart":"PIYIESMLQEMGPRQTQMFIR",
+	"QueryFinishAt":38,
+	"Alignment":"P+  E++LQ   PR++  F R",
+	"SubjectStartFrom":494,
+	"SubjectPart":"PVSSETLLQVYQPRESLHFSR",
+	"SubjectFinishAt":514
+},
+
+"3IEC_A":
+{
+	"name":"3IEC_A",
+	"length":319,
+	"EValue":  248,
+	"QueryStartFrom":15,
+	"QueryPart":"KIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEE",
+	"QueryFinishAt":47,
+	"Alignment":"++KP Y+E +     PR+T++ +   S G   E",
+	"SubjectStartFrom":268,
+	"SubjectPart":"ELKP-YVEPLPDYKDPRRTELMV---SMGYTRE",
+	"SubjectFinishAt":296
+},
+
+"4DB1_B":
+{
+	"name":"4DB1_B",
+	"length":783,
+	"EValue":  252,
+	"QueryStartFrom":2,
+	"QueryPart":"DTRKAIDTISNLLKIKPIYIESMLQE--MGPRQTQMFIRS",
+	"QueryFinishAt":39,
+	"Alignment":"D +  ID I      KP+ I S+L+E  M P+ T M  ++",
+	"SubjectStartFrom":516,
+	"SubjectPart":"DLQACIDLIE-----KPMGIMSILEEECMFPKATDMTFKA",
+	"SubjectFinishAt":550
+},
+
+"1KGZ_A":
+{
+	"name":"1KGZ_A",
+	"length":345,
+	"EValue":  254,
+	"QueryStartFrom":2,
+	"QueryPart":"DTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSN",
+	"QueryFinishAt":42,
+	"Alignment":"D+R+A+D ++      P Y       M  RQ Q+  R+  N",
+	"SubjectStartFrom":149,
+	"SubjectPart":"DSRQALDDLNVCFLFAPQYHTGFRHAMPVRQ-QLKTRTIFN",
+	"SubjectFinishAt":188
+},
+
+"3VZI_B":
+{
+	"name":"3VZI_B",
+	"length":226,
+	"EValue":  259,
+	"QueryStartFrom":4,
+	"QueryPart":"RKAIDTISNLLKIKPIYIESMLQ-EMGPRQTQMFI-RSTSNGSAEEVRK",
+	"QueryFinishAt":50,
+	"Alignment":"R  +D+I  L   KPI  ES+ + E+G + +   I ++   G  +E+ K",
+	"SubjectStartFrom":52,
+	"SubjectPart":"RWVVDSIQVL---KPICFESIRRNEVGSKLSAASISKAIKAGRTDELVK",
+	"SubjectFinishAt":97
+},
+
+"1ZMW_A":
+{
+	"name":"1ZMW_A",
+	"length":327,
+	"EValue":  259,
+	"QueryStartFrom":15,
+	"QueryPart":"KIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEE",
+	"QueryFinishAt":47,
+	"Alignment":"++KP Y+E +     PR+T++ +   S G   E",
+	"SubjectStartFrom":275,
+	"SubjectPart":"ELKP-YVEPLPDYKDPRRTELMV---SMGYTRE",
+	"SubjectFinishAt":303
+},
+
+"3H93_A":
+{
+	"name":"3H93_A",
+	"length":192,
+	"EValue":  263,
+	"QueryStartFrom":34,
+	"QueryPart":"QMFIRSTSNGSAEEVRKAAY",
+	"QueryFinishAt":53,
+	"Alignment":"QMF+   S G   +V  A +",
+	"SubjectStartFrom":76,
+	"SubjectPart":"QMFLTLESMGVEHDVHNAVF",
+	"SubjectFinishAt":95
+},
+
+"1Q32_A":
+{
+	"name":"1Q32_A",
+	"length":544,
+	"EValue":  265,
+	"QueryStartFrom":5,
+	"QueryPart":"KAID-TISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNG",
+	"QueryFinishAt":43,
+	"Alignment":"+A+D T++ +LK K   IE  +       T++ I    NG",
+	"SubjectStartFrom":155,
+	"SubjectPart":"RAMDATLAVILK-KVKLIEITMPPFASHHTKLIINFYDNG",
+	"SubjectFinishAt":193
+},
+
+"2R2P_A":
+{
+	"name":"2R2P_A",
+	"length":295,
+	"EValue":  270,
+	"QueryStartFrom":29,
+	"QueryPart":"GPRQTQMFIRSTSNGSAEEVRK",
+	"QueryFinishAt":50,
+	"Alignment":"G R+  + I++   G  E+ R+",
+	"SubjectStartFrom":47,
+	"SubjectPart":"GKRELPVAIKTLKVGYTEKQRR",
+	"SubjectFinishAt":68
+},
+
+"1ZMU_A":
+{
+	"name":"1ZMU_A",
+	"length":327,
+	"EValue":  270,
+	"QueryStartFrom":15,
+	"QueryPart":"KIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEE",
+	"QueryFinishAt":47,
+	"Alignment":"++KP Y+E +     PR+T++ +   S G   E",
+	"SubjectStartFrom":275,
+	"SubjectPart":"ELKP-YVEPLPDYKDPRRTELMV---SMGYTRE",
+	"SubjectFinishAt":303
+},
+
+"1ZMV_A":
+{
+	"name":"1ZMV_A",
+	"length":327,
+	"EValue":  270,
+	"QueryStartFrom":15,
+	"QueryPart":"KIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEE",
+	"QueryFinishAt":47,
+	"Alignment":"++KP Y+E +     PR+T++ +   S G   E",
+	"SubjectStartFrom":275,
+	"SubjectPart":"ELKP-YVEPLPDYKDPRRTELMV---SMGYTRE",
+	"SubjectFinishAt":303
+},
+
+"2WZJ_A":
+{
+	"name":"2WZJ_A",
+	"length":327,
+	"EValue":  270,
+	"QueryStartFrom":15,
+	"QueryPart":"KIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEE",
+	"QueryFinishAt":47,
+	"Alignment":"++KP Y+E +     PR+T++ +   S G   E",
+	"SubjectStartFrom":275,
+	"SubjectPart":"ELKP-YVEPLPDYKDPRRTELMV---SMGYTRE",
+	"SubjectFinishAt":303
+},
+
+"2Q3Z_A":
+{
+	"name":"2Q3Z_A",
+	"length":687,
+	"EValue":  274,
+	"QueryStartFrom":9,
+	"QueryPart":"TISNLLKIKPIYIESML",
+	"QueryFinishAt":25,
+	"Alignment":"T SNL+K++ + +E ++",
+	"SubjectStartFrom":556,
+	"SubjectPart":"TESNLIKVRALLVEPVI",
+	"SubjectFinishAt":572
+},
+
+"3LY6_A":
+{
+	"name":"3LY6_A",
+	"length":697,
+	"EValue":  274,
+	"QueryStartFrom":9,
+	"QueryPart":"TISNLLKIKPIYIESML",
+	"QueryFinishAt":25,
+	"Alignment":"T SNL+K++ + +E ++",
+	"SubjectStartFrom":556,
+	"SubjectPart":"TESNLIKVRALLVEPVI",
+	"SubjectFinishAt":572
+},
+
+"3S3P_A":
+{
+	"name":"3S3P_A",
+	"length":694,
+	"EValue":  274,
+	"QueryStartFrom":9,
+	"QueryPart":"TISNLLKIKPIYIESML",
+	"QueryFinishAt":25,
+	"Alignment":"T SNL+K++ + +E ++",
+	"SubjectStartFrom":563,
+	"SubjectPart":"TESNLIKVRALLVEPVI",
+	"SubjectFinishAt":579
+},
+
+"2PFD_B":
+{
+	"name":"2PFD_B",
+	"length":541,
+	"EValue":  276,
+	"QueryStartFrom":18,
+	"QueryPart":"PIYIESMLQEMGPRQTQMFIRSTS-NGSAEEVRKAAYL",
+	"QueryFinishAt":54,
+	"Alignment":"P+Y+     +M  RQT   IR+       E++++A ++",
+	"SubjectStartFrom":122,
+	"SubjectPart":"PVYLYGEAAQMPSRQTLPAIRAGEYEALPEKLKQAEWV",
+	"SubjectFinishAt":159
+},
+
+"2HCY_A":
+{
+	"name":"2HCY_A",
+	"length":347,
+	"EValue":  276,
+	"QueryStartFrom":1,
+	"QueryPart":"SDTRKAIDTISNLLKIKPIYI",
+	"QueryFinishAt":21,
+	"Alignment":"+DTR+A+D  +  L   PI +",
+	"SubjectStartFrom":299,
+	"SubjectPart":"ADTREALDFFARGLVKSPIKV",
+	"SubjectFinishAt":319
+},
+
+"1HN0_A":
+{
+	"name":"1HN0_A",
+	"length":1021,
+	"EValue":  279,
+	"QueryStartFrom":6,
+	"QueryPart":"AIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGS",
+	"QueryFinishAt":44,
+	"Alignment":"AI    N L I    IE+M  +   +Q    I S  NG",
+	"SubjectStartFrom":789,
+	"SubjectPart":"AITPTLNTLWINGQKIENMPYQTTLQQGDWLIDSNGNGY",
+	"SubjectFinishAt":827
+},
+
+"1MIU_A":
+{
+	"name":"1MIU_A",
+	"length":738,
+	"EValue":  279,
+	"QueryStartFrom":18,
+	"QueryPart":"PIYIESMLQEMGPRQTQMFIR",
+	"QueryFinishAt":38,
+	"Alignment":"P+  E++LQ   PR++  F R",
+	"SubjectStartFrom":581,
+	"SubjectPart":"PVSSETLLQVYQPRESLHFSR",
+	"SubjectFinishAt":601
+},
+
+"3KAA_A":
+{
+	"name":"3KAA_A",
+	"length":118,
+	"EValue":  279,
+	"QueryStartFrom":39,
+	"QueryPart":"STSNGSAEEVRKAAYL",
+	"QueryFinishAt":54,
+	"Alignment":"S  +G   EV K AYL",
+	"SubjectStartFrom":2,
+	"SubjectPart":"SLEDGYKVEVGKNAYL",
+	"SubjectFinishAt":17
+},
+
+"finish":"end"
+}
