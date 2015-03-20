@@ -29,14 +29,16 @@ public class ConvertResultToJson {
 
 			// Variable to hold the one line data
 			String line;
-
+			int index=0;
 			// Read file line by line and print on the console
 			while ((line = bufferReader.readLine()) != null) {
+				
 				if (line.contains(">")) {
-
+					index++;
+					String output = "\"" + "protein"+index + "\":\n{\n";
+					
 					// get protein name
 					String proteinName = line.substring(1, 7);
-					String output = "\"" + proteinName + "\":\n{\n";
 					// System.out.println(proteinName);
 					output += "\t\"name\":\"" + proteinName + "\",\n";
 					// get protein length
