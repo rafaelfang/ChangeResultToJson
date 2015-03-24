@@ -4,7 +4,7 @@ import java.io.FileReader;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 
-public class ConvertResultToJson {
+public class ConvertBlastResultToJson {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -12,7 +12,7 @@ public class ConvertResultToJson {
 		// Name of the file
 		PrintWriter writer = null;
 		try {
-			writer = new PrintWriter("outputJson.json", "UTF-8");
+			writer = new PrintWriter("blast.json", "UTF-8");
 		} catch (FileNotFoundException | UnsupportedEncodingException e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();

@@ -1,0 +1,903 @@
+{
+"protein1":
+{
+	"name":"4HAC_B",
+	"EValue":4.8,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHHHHHHHHHhccchhhhhhhccCCccHHHHHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~iesmlqemg~r~tq~fir~~~ng~~ee~~kaayl",
+	"alignment":".+|++++..+..+....|-.++..++++|.+ ++.+++.+.+|..|.+-+--+.",
+	"targetStartFrom":192,
+	"targetConsensus":"~sT~~~v~~v~~~~~~~~~~~~~~~~~~~~~-~~~a~~aL~~~d~~~lG~lm~~",
+	"targetFinishAt":244,
+	"target":"SSTKELVANVRQLRESYPDLIEPLMTSIGKI-SRIGEQLVLSGDYASIGRLMNV",
+	"targetSSPred":"cCHHHHHHHHHHHHHhCHHHHHHHHHHHHHH-HHHHHHHHhcCChhHHHHHHHh",
+	"confidence":"8899999999999999999999999999876"
+},
+
+"protein2":
+{
+	"name":"2G7Z_A",
+	"EValue":18,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHH-------------------HHH---HHHHhccchhhhhhhccCCccHHHHHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIY-------------------IES---MLQEMGPRQTQMFIRSTSNGSAEEVRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~-------------------ies---mlqemg~r~tq~fir~~~ng~~ee~~kaayl",
+	"alignment":"----++.-.+++||+||||+                   ++-   .+++.+.. ....+-....|..|+..+..-+",
+	"targetStartFrom":174,
+	"targetConsensus":"GRis~~~a~ig~lL~ikPIl~~~~G~~~~~~K~R~~~ka~~~l~~~~~~~~~~-~~~~i~i~~~~~~e~a~~l~~~",
+	"targetFinishAt":248,
+	"target":"GRIGRVTGVLSSLLNVKVVMALKNDELKTLVKGRGNKTFTKWLDSYLAKNSHR-PIAEIAISYAGEASLALTLKER",
+	"targetSSPred":"CccchhHHHHHhHhceeEEEEEECCEEEEEeeecCHHHHHHHHHHHHHhhcCC-CceEEEEEecCCHHHHHHHHHH",
+	"confidence":"22346677889999999985"
+},
+
+"protein3":
+{
+	"name":"2X7I_A",
+	"EValue":49,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHHHHHHHHHhccchhhhhhhccCCccHHHHHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~iesmlqemg~r~tq~fir~~~ng~~ee~~kaayl",
+	"alignment":".+|+++++....+++-.|.  ...+.+++.|- +...+.+.+|..+++-+.-+.",
+	"targetStartFrom":185,
+	"targetConsensus":"~~T~~~v~~v~~~~~~~~~--~~~~~~~~~~v-~~a~~al~~~d~~~lG~lm~~",
+	"targetFinishAt":235,
+	"target":"GSTRQAVHDVHKLCEDPQY--MSHVKHIGKLV-LRASDVIEHHKFEALADIFNE",
+	"targetSSPred":"chHHHHHHHHhhccccHHH--HHHHHHHHhHH-HHHHHHHHhCcHHHHHHHHHH",
+	"confidence":"8899999999999987774"
+},
+
+"protein4":
+{
+	"name":"2ZC3_A",
+	"EValue":56,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHHHHHHHHHhccchhhhhhhccCCccHHHHHH-hhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRK-AAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~iesmlqemg~r~tq~fir~~~ng~~ee~~k-aayl",
+	"alignment":".|-.+.++.||.+|.+.|=-|..-|+.-..++- .|+..-.|=..++|-+ |..+",
+	"targetStartFrom":47,
+	"targetConsensus":"~d~~~~~~~La~iL~l~~~~i~~~l~~~~~~~~-~~v~i~r~i~~~~~~~i~e~i",
+	"targetFinishAt":100,
+	"target":"TQFNKVAEVFHKYLDMEESYVREQLSQPNLKQV-SFGAKGNGITYANMMSIKKEL",
+	"targetSSPred":"CCHHHHHHHHhhhcCCCHHHHHHHHhhcCcCCc-eeEEeecCCCHHHHHHHHHHH",
+	"confidence":"367789999999999999999888887433321"
+},
+
+"protein5":
+{
+	"name":"1VPV_B",
+	"EValue":24,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHH-------------------HHHHHHHhccc---hhhhhhhccCCccHHHHHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIY-------------------IESMLQEMGPR---QTQMFIRSTSNGSAEEVRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~-------------------iesmlqemg~r---~tq~fir~~~ng~~ee~~kaayl",
+	"alignment":"----++.-.+++||+||||+                   ++-|++.+..+   .....+-....+..|+..+-.-.",
+	"targetStartFrom":186,
+	"targetConsensus":"GRis~~~a~ig~lL~ikPIl~~~~G~~~~~~K~R~~kka~~~l~~~~~e~~~~~~~~~i~i~h~~~~e~a~~l~~~",
+	"targetFinishAt":261,
+	"target":"GRVSKFQGFVGNLLKIRVCLHIENGELIPYRKVRGDKKAIEALIEKLREDTPEGSKLRVIGVHADNEAGVVELLNT",
+	"targetSSPred":"CccchhHHHHHhHhceeEEEEEECCEEEEEeeccCHHHHHHHHHHHHHHhccCCCeeEEEEEecCCHHHHHHHHHH",
+	"confidence":"22235556788999999985"
+},
+
+"protein6":
+{
+	"name":"2HFS_B",
+	"EValue":81,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHHHHHHHHHhccchhhhhhhccCCccHHHHHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~iesmlqemg~r~tq~fir~~~ng~~ee~~kaayl",
+	"alignment":".+|.+++..+....--.|..+++.+++++.- +....+.+.+|..+++.+.-..",
+	"targetStartFrom":199,
+	"targetConsensus":"~~T~~~~~~v~~~~~~~~~~~~~~~~~~~~~-~~e~~~aL~~~d~~~lg~lm~~",
+	"targetFinishAt":251,
+	"target":"ASTAKVVNDVHKMKQQQPVQFKRLYDNYTHI-VSQAREALQKGDLQRLGQLMNA",
+	"targetSSPred":"ccHHHHHHHHHhhhhhchhhHHHHHHHHHHH-HHHHHHHHHhCCHHHHHHHHHH",
+	"confidence":"7888888888887777888888888888765"
+},
+
+"protein7":
+{
+	"name":"4IAP_B",
+	"EValue":64,
+	"querySSPred":"CchHHHHHHHHHHhhhhhH----------HHHHHHHHhccchhh---hhhhccCCccHH----HHHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPI----------YIESMLQEMGPRQTQ---MFIRSTSNGSAE----EVRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi----------~iesmlqemg~r~tq---~fir~~~ng~~e----e~~kaayl",
+	"alignment":"+|-.++.+.+...+++.|.          -+.||.=.||.-+-+   +.+|-+|.|.-+    |+++-.|-",
+	"targetStartFrom":87,
+	"targetConsensus":"~DL~~~~~~V~~~v~v~~~~~~l~~~q~~ALvSf~FNvG~g~~~ksttLLk~LNagd~~~Aa~el~~w~wa",
+	"targetFinishAt":157,
+	"target":"QDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWY",
+	"targetSSPred":"HhHHHHHHHHHhcCCcccccccCCHHHHHHHHhHHhhcCchhhcccHHHHHHHhcCChHHHHHHhhhhhhh",
+	"confidence":"9999999999999999986"
+},
+
+"protein8":
+{
+	"name":"1K25_A",
+	"EValue":1e+02,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHHHHHHHHHhccchhhhhhhccCCccHHHHHHhhc------C",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAAY------L",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~iesmlqemg~r~tq~fir~~~ng~~ee~~kaay------l",
+	"alignment":".|-.+..+.||.+|.+.+=.|+.-|++-. +..-.|.....|=..|++.+++.      |",
+	"targetStartFrom":52,
+	"targetConsensus":"~~~~~~a~~La~~L~~~~~~i~~~L~~~~-~~~~~f~~l~r~i~~~~~~~i~~~i~~l~l",
+	"targetFinishAt":110,
+	"target":"AQFNKVAEVFHKYLDMEESYVREQLSQPN-LKQVSFGSKGNGITYANMMAIKKELETAEV",
+	"targetSSPred":"cCHHHHHHHHHHhhCCCHHHHHHHHhcCc-ccccceEEeecCCCHHHHHHHHHHHHhcCC",
+	"confidence":"45678899999999999999998888522"
+},
+
+"protein9":
+{
+	"name":"1IXR_C",
+	"EValue":78,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHHHHHHHHHhccchhh-hhhhccCCccHHHHHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQ-MFIRSTSNGSAEEVRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~iesmlqemg~r~tq-~fir~~~ng~~ee~~kaayl",
+	"alignment":"||  -|+++||..|+.-|-+||...   -|+--| -|+--+..|-----.-.-||",
+	"targetStartFrom":263,
+	"targetConsensus":"sd--~aL~~lA~mlGEd~~~IEdv~---eP~ll~~~~~~~tpeGri~~~~a~~yL",
+	"targetFinishAt":312,
+	"target":"GP--VGLATLATALSEDPGTLEEVH---EPYLIRQGLLKRTPRGRVATELARRHL",
+	"targetSSPred":"CH--HHHHHHHHHhCCChhhhhhhh---hHHHHHHHHhccCcHHHhhHHhhhhcC",
+	"confidence":"76"
+},
+
+"protein10":
+{
+	"name":"1QMF_A",
+	"EValue":94,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHHHHHHHHHhccchhh-hhhhccCCccHHHHHHhh------cC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQ-MFIRSTSNGSAEEVRKAA------YL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~iesmlqemg~r~tq-~fir~~~ng~~ee~~kaa------yl",
+	"alignment":".|-.+..+.||.+|.+.+=.|+.-|++  .+..| .|+..-.|=..|++-+-+      =|",
+	"targetStartFrom":69,
+	"targetConsensus":"~~~~~~A~~La~~L~~~~~~i~~~L~~--~~~~~~~f~~l~r~i~~~~~~~i~~~i~~l~l",
+	"targetFinishAt":127,
+	"target":"TQFNKVAEVFHKYLDMEESYVREQLSQ--PNLKQVSFGAKGNGITYANMMSIKKELEAAEV",
+	"targetSSPred":"cCHHHHHHHHHhhcCCCHHHHHHHHhc--CccCcceeEEeecCCCHHHHHHHHHHHHhcCC",
+	"confidence":"466788999999999999999998886"
+},
+
+"protein11":
+{
+	"name":"3EQV_A",
+	"EValue":1.2e+02,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHHHHHHHHHhccchhhhhhhccCCccHHHHHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~iesmlqemg~r~tq~fir~~~ng~~ee~~kaayl",
+	"alignment":"++..+.++.||.+|.+.|--|+..|.+= .|   -|+..-.+=..|++.+-.-|",
+	"targetStartFrom":66,
+	"targetConsensus":"~~~~~~~~~La~~l~~~~~~i~~~l~~~-~~---~fv~l~r~l~~~~~~~I~~l",
+	"targetFinishAt":115,
+	"target":"MPSAAQLERLSELVDVPVDVLRNKLEQK-GK---SFIWIKRQLDPKVAEEVKAL",
+	"targetSSPred":"CCHHHHHHHHhhhcCCCHHHHHHHHhcC-CC---ceEEeecCCCHHHHHHHHhc",
+	"confidence":"4445567899999999998888877542"
+},
+
+"protein12":
+{
+	"name":"1PMD_A",
+	"EValue":89,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHHHHHHHHHhccchhh-hhhhccCCccHHHHHHhh------cC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQ-MFIRSTSNGSAEEVRKAA------YL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~iesmlqemg~r~tq-~fir~~~ng~~ee~~kaa------yl",
+	"alignment":"+|-.+..+.||.+|.+.+-.|+.-|+.  .+..| .|+..-.|=..|++-+.+      =|",
+	"targetStartFrom":42,
+	"targetConsensus":"~~~~~~a~~La~~L~~~~~~i~~~L~~--~~~~~~~f~~l~r~i~~~~~~~i~~~i~~l~l",
+	"targetFinishAt":100,
+	"target":"TQFNKVAEVFHKYLDMEESYVREQLSQ--PNLKQVSFGAKGNGITYANMMSIKKELEAAEV",
+	"targetSSPred":"ccHHHHHHHHhhhcCCCHHHHHHHHhc--CCcCcceeEEeecCCCHHHHHHHHHHHHHcCC",
+	"confidence":"466789999999999999999998875"
+},
+
+"protein13":
+{
+	"name":"4GBR_B",
+	"EValue":1e+02,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHH----------HHHHHHHhccchh---hhhhhccCCccHH----HHHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIY----------IESMLQEMGPRQT---QMFIRSTSNGSAE----EVRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~----------iesmlqemg~r~t---q~fir~~~ng~~e----e~~kaayl",
+	"alignment":"+|-+++.+.+.+.++++|.|          +.||.=.||.-+.   -+++|-++.|.-+    |++.-.+-",
+	"targetStartFrom":69,
+	"targetConsensus":"~DL~~~~~~v~~~v~v~~v~~~l~~~q~~ALvSf~FNvG~g~~~~fStllk~Ln~gd~~~Aa~e~~~~rW~",
+	"targetFinishAt":139,
+	"target":"QDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWY",
+	"targetSSPred":"HHHHHHHHHHHhhCCCccccccCCHHHHHHHHHHHHHhCchhhhhhhHHHHHHHcCChHHHHHHHhhhhhh",
+	"confidence":"99999999999999999864"
+},
+
+"protein14":
+{
+	"name":"1WAC_A",
+	"EValue":72,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHHHHHHHHHhccc",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPR",
+	"queryFinishAt":31,
+	"queryConsensus":"sdtrkaidtla~llkikpi~iesmlqemg~r",
+	"alignment":"+|.+-+|-.+.- -++.|++.|+|+...-+|",
+	"targetStartFrom":633,
+	"targetConsensus":"~dI~~~V~e~v~-~~le~~~~Erff~sv~~~",
+	"targetFinishAt":662,
+	"target":"ADVSANIHEVLM-HGVSVEKTERFLRSVMPR",
+	"targetSSPred":"HHcCHHHHHHHh-cccCHHHHHHHHHhhcCC",
+	"confidence":"777878777665"
+},
+
+"protein15":
+{
+	"name":"3W3V_A",
+	"EValue":93,
+	"querySSPred":"CchHHHHHHHH---HHhh--hhhHHHHHHHHHhccchhhhhhhccCCccHHHHHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTIS---NLLK--IKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla---~llk--ikpi~iesmlqemg~r~tq~fir~~~ng~~ee~~kaayl",
+	"alignment":".+-..|+.+|+   ..++  +.| |+|.+++++-.       ...+...-+.||+||+-",
+	"targetStartFrom":662,
+	"targetConsensus":"~~k~~A~~al~~la~~~~~~~~p-yl~~il~~ll~-------~~~~~~~~~~vr~aa~~",
+	"targetFinishAt":712,
+	"target":"DDKVSAMELLQSYATLLRGQFAV-YVKEVMEEIAL-------PSLDFYLHDGVRAAGAT",
+	"targetSSPred":"hhHHHHHHHHHHHHHHHHHHhhh-hHHHHHHHHHh-------hhhcccCccchHHHHHH",
+	"confidence":"22233444444"
+},
+
+"protein16":
+{
+	"name":"1MWU_A",
+	"EValue":1.3e+02,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHHHHHHHHHhccchhhhhhhc-cCCccHHHHHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRS-TSNGSAEEVRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~iesmlqemg~r~tq~fir~-~~ng~~ee~~kaayl",
+	"alignment":".|  +.++.||.+|.+.|-.|+.-|++-..++. .|+.. +....+++..++--|",
+	"targetStartFrom":157,
+	"targetConsensus":"~~--~~~~~La~iL~~~~~~i~~~l~~~~~~~~-~f~~i~~~~~~~~~~~~~~~l",
+	"targetFinishAt":208,
+	"target":"SK--KDYKAIAKELSISEDYIKQQMDQNWVQDD-TFVPLKTVKKMDEYLSDFAKK",
+	"targetSSPred":"Ch--HHHHHHhhHhCCCHHHHHHHHHhccccCc-ceEEEecCCChhHHHHHhhCC",
+	"confidence":"33"
+},
+
+"protein17":
+{
+	"name":"4EKS_B",
+	"EValue":96,
+	"querySSPred":"CchHHHHHHHHHHhhhhhH----------HHHHHHHHhccchhhh---hhhccCCccH----HHHHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPI----------YIESMLQEMGPRQTQM---FIRSTSNGSA----EEVRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi----------~iesmlqemg~r~tq~---fir~~~ng~~----ee~~kaayl",
+	"alignment":"+|-+++.+.+.+.+++.|.          -+.||.=.||..+.+.   .+|-+|.|.-    +|+++-.|-",
+	"targetStartFrom":92,
+	"targetConsensus":"~DL~~~~~~v~~~v~v~~~~~~ld~~~~~ALvS~~FNvG~g~~~~ST~llk~LNagd~~~A~~el~~w~wa",
+	"targetFinishAt":162,
+	"target":"QDVDAAVRGILRNAKLKPVYDSLDAVRRCAAINHVFQMGVTGVAGFTNVLRMLQQKRWDEAAVNLAKSRWY",
+	"targetSSPred":"HHHHHHHHHHHhccccccchhcCCHHHHHHHHHHHHhhCcchhccCHHHHHHHHcCCHHHHHHHHhhchhh",
+	"confidence":"8999999999999999986"
+},
+
+"protein18":
+{
+	"name":"3K2R_A",
+	"EValue":1.2e+02,
+	"querySSPred":"CchHHHHHHHHHHhhhhhH----------HHHHHHHHhccchhhhhhhcc---C-CccHHHHHHh---hcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPI----------YIESMLQEMGPRQTQMFIRST---S-NGSAEEVRKA---AYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi----------~iesmlqemg~r~tq~fir~~---~-ng~~ee~~ka---ayl",
+	"alignment":"+|-.++.+.+.+.+++.|.          -+.||.=.||.-+.+.|-+++   + |-+....-..   .+-",
+	"targetStartFrom":69,
+	"targetConsensus":"~Dl~~~~~~i~~~v~v~~v~~~l~~~q~~ALvS~~FNvG~g~~~~Fst~~~~l~~~~~~~A~~~~~~~rW~",
+	"targetFinishAt":139,
+	"target":"QDVDAAVCGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWY",
+	"targetSSPred":"HHHHHHHHHHHhhcccccccccCCHHHHHHHHHHHHHhCcchhhhhHHHHHHHHcCCchhHHHHHhhhhhh",
+	"confidence":"9999999999999999987"
+},
+
+"protein19":
+{
+	"name":"2QBY_A",
+	"EValue":1.9e+02,
+	"querySSPred":"CchHHHHHHHHHHh---------hhhhHHHHHHHHHhccchhhhhhhccCCccHHHHHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLL---------KIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~ll---------kikpi~iesmlqemg~r~tq~fir~~~ng~~ee~~kaayl",
+	"alignment":"-|-|||||-+..--         +|..=-++..++++-+...+..|++++-..---+...+.+",
+	"targetStartFrom":236,
+	"targetConsensus":"GDaR~Aldilr~A~e~Ae~~~~~~Vt~~~v~~A~~~~~~~~~~~~i~~L~~~~k~~L~al~~~",
+	"targetFinishAt":298,
+	"target":"GDARRALDLLRVSGEIAERMKDTKVKEEYVYMAKEEIERDRVRDIILTLPFHSKLVLMAVVSI",
+	"targetSSPred":"chHHHHHHHHHHHHHHHHhcCCCccCHHHHHHHHhhhhhhHHHHHHhhCChhhHHHHHHHHHH",
+	"confidence":"69999999876543"
+},
+
+"protein20":
+{
+	"name":"4OVD_A",
+	"EValue":1.1e+02,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHHHHHHHHHhccchhhhhh-hccCCccHHHHHHhh--c-C",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFI-RSTSNGSAEEVRKAA--Y-L",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~iesmlqemg~r~tq~fi-r~~~ng~~ee~~kaa--y-l",
+	"alignment":".|..+.++.||.+|.+-|--|+.-|++   +.+.+++ |..+---++++|+|+  + |",
+	"targetStartFrom":87,
+	"targetConsensus":"~d~~~~~~~LA~~L~~~~~~l~~kl~~---~~~fv~l~R~i~~~~a~~i~~~~~~l~l",
+	"targetFinishAt":141,
+	"target":"KDASTVAQVIASFLGGSPSDYLGDLQQ---DTTFVYVRRRVDTDTASKIEKALGEKKL",
+	"targetSSPred":"CCHHHHHHHHHHHcCCCHHHHHHHHhc---CCCeEEeecCCCHHHHHHHHHHHHhcCC",
+	"confidence":"788889999999999999777766653"
+},
+
+"protein21":
+{
+	"name":"3NYI_B",
+	"EValue":39,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHH-------------------HHHHHHHhccch-----hhhhhhccCCccHHHHHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIY-------------------IESMLQEMGPRQ-----TQMFIRSTSNGSAEEVRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~-------------------iesmlqemg~r~-----tq~fir~~~ng~~ee~~kaayl",
+	"alignment":"----++--.++++|+||||+                   ++.|++.+-.+-     ....+-....|..|+..+-.-.",
+	"targetStartFrom":178,
+	"targetConsensus":"GRis~~~a~ig~lL~ikPIl~~~~G~~~~~~k~R~~~ka~~~l~~~~~~~~~~~~~~~~~i~i~h~~~~e~a~~l~~~",
+	"targetFinishAt":255,
+	"target":"GRIGKVATAATGKLGVKPVIIMKDGDIGLGGIGRNRNKLKNSVLQVAKKYLDENNKDNFIVSVGYGYDKEEGFEFMKE",
+	"targetSSPred":"CcccchHHHHhhhhceeEEEEEECCEEEEEeeccCHHHHHHHHHHHHHHHHhhcCCCeeEEEEEecCCHHHHHHHHHH",
+	"confidence":"11224555678899999985"
+},
+
+"protein22":
+{
+	"name":"3MKR_B",
+	"EValue":1.6e+02,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHHHHHHHHHhccchhhhhhhccCCccHHHH----HHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEV----RKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~iesmlqemg~r~tq~fir~~~ng~~ee~----~kaayl",
+	"alignment":"-|++.-++.+..|+.+-.-||=-|--|+--       |.+.++.+||.    .=|||+",
+	"targetStartFrom":137,
+	"targetConsensus":"v~~~~e~~e~k~li~ic~eYilal~iEleR-------r~l~~~~~ed~kR~lELAAYF",
+	"targetFinishAt":187,
+	"target":"VDNKQEIAEAQQLITICREYIVGLSMETER-------KKLPKETLEQQKRICEMAAYF",
+	"targetSSPred":"hcCHhhHHHHHHHHHHHHHHHHHHHHHHHH-------hhhcCCChhhHHHHHHHHHHh",
+	"confidence":"667777888888999988888888777643"
+},
+
+"protein23":
+{
+	"name":"4I7T_B",
+	"EValue":1.2e+02,
+	"querySSPred":"CchHHHHHHHHHHhhhhhH----------HHHHHHHHhccchhhhh---hhccCCccHHH----HHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPI----------YIESMLQEMGPRQTQMF---IRSTSNGSAEE----VRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi----------~iesmlqemg~r~tq~f---ir~~~ng~~ee----~~kaayl",
+	"alignment":"+|-+++.+.+...+++.|.          -+.||.=.||....+.|   +|-+|.|.-+.    +++-.|-",
+	"targetStartFrom":92,
+	"targetConsensus":"~DL~~~~~~v~~~v~v~~~~~~l~~~q~~ALvSf~FNvG~ga~~~ST~lLk~LN~gd~~~Aa~el~~w~wa",
+	"targetFinishAt":162,
+	"target":"QDVDAAVRGILRNAKLKPVYDSLDAVRRCAAINHVFQMGVTGVAGFTNVLRMLQQKRWDEAAVNLAKSRWY",
+	"targetSSPred":"HHHHHHHHHHHhcCCCccccccCCHHHHHHHHHHHHHhCchhhcCCHHHHHHHHcCCHHHHHHHhhcchhh",
+	"confidence":"9999999999999999886"
+},
+
+"protein24":
+{
+	"name":"4KP1_A",
+	"EValue":33,
+	"querySSPred":"CchHHHHHHH-----HH----------HhhhhhHHHHHHHHHhccchhhhhhhccCCccHHHHHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTI-----SN----------LLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtl-----a~----------llkikpi~iesmlqemg~r~tq~fir~~~ng~~ee~~kaayl",
+	"alignment":"||.--..|..     +.          -=.++|+-     +-.|-.-.|.||-|--||-.||+|.||=+",
+	"targetStartFrom":276,
+	"targetConsensus":"sD~dA~yd~~i~~d~s~ieP~Vt~g~~P~~v~pi~-----~~~~i~iDqVfIGSCTNgRieDLr~AA~i",
+	"targetFinishAt":339,
+	"target":"GDEDAEFAEVYEIEADKIEPVFACPHNVDNVKQAR-----EVAGKPIDQVFIGSCTNGRLEDLRMAIKI",
+	"targetSSPred":"cCcCCcccEEEEEEhhhCCcEEecCCChhHceEhH-----HhCCccccEEEEecCCCCCHHHHHHHHHH",
+	"confidence":"1111100000"
+},
+
+"protein25":
+{
+	"name":"2R3V_A",
+	"EValue":1.9e+02,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHHHHHHHHHhccchhhh------hhhccCCccHHHHHHh----hcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQM------FIRSTSNGSAEEVRKA----AYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~iesmlqemg~r~tq~------fir~~~ng~~ee~~ka----ayl",
+	"alignment":"++|++++..+.+.....|-.+..++++++....+.      ..+.+.+|..+++.+.    -.+",
+	"targetStartFrom":241,
+	"targetConsensus":"~~T~~~v~~v~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~~~al~~~d~~~l~~l~~~~~~~",
+	"targetFinishAt":304,
+	"target":"RNTRALVAGVRNRLLKFPEIVAPLLTSIDAISLECERVLGEMGEAPAPEQYLVLEELIDMNQHH",
+	"targetSSPred":"ccHHHHHHHHHHhhhcCHHHHHHHHHHhhHHHHHHHHHHHhHHHHHHhCcHHHHHHHHHhhHHH",
+	"confidence":"88999999999998888888888888887544321"
+},
+
+"protein26":
+{
+	"name":"2G8Y_B",
+	"EValue":1e+02,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHHHHHHHHHhccch",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQ",
+	"queryFinishAt":32,
+	"queryConsensus":"sdtrkaidtla~llkikpi~iesmlqemg~r~",
+	"alignment":".++.+.+..||.-+.|+|.-++..-+||.+-.",
+	"targetStartFrom":354,
+	"targetConsensus":"~~~~~~L~~lA~~~gv~~~~~~a~~~~~~~~~",
+	"targetFinishAt":385,
+	"target":"AGSWQAICDAARQIGMPEETLQAFCQQLASGS",
+	"targetSSPred":"HHHHHHHHHHHHHhCCChHHHHHHHHHhhccC",
+	"confidence":"78899999999999999999999999997755"
+},
+
+"protein27":
+{
+	"name":"3SB8_C",
+	"EValue":56,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHH----------HHHHHHHhccchhhhhhhcc----CCccHHHHHHh-----hcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIY----------IESMLQEMGPRQTQMFIRST----SNGSAEEVRKA-----AYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~----------iesmlqemg~r~tq~fir~~----~ng~~ee~~ka-----ayl",
+	"alignment":"+|-.++.+.+...++++|+|          +.||.=.||.-+.+.|-+|+    -|-+....-..     +|-",
+	"targetStartFrom":72,
+	"targetConsensus":"~Dl~~~~~~v~~~v~v~~v~~~l~~~q~~ALvSf~fNvG~g~~~~Fs~s~~~~~~~~~~~a~a~~e~~rW~~a",
+	"targetFinishAt":144,
+	"target":"QDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQ",
+	"targetSSPred":"HHHHHHHHHHHhhccccccccCCCHHHHHHHhheeeeCCcchhhhhHHHHHHHHcCCccHHHHHHHhchHHhh",
+	"confidence":"99999999999999998753"
+},
+
+"protein28":
+{
+	"name":"1RP5_A",
+	"EValue":1.5e+02,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHHHHHHHHHhccchhh-hhhhccCCccHHHHHHhh-c-----C",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQ-MFIRSTSNGSAEEVRKAA-Y-----L",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~iesmlqemg~r~tq-~fir~~~ng~~ee~~kaa-y-----l",
+	"alignment":".|..+..+.||.+|.+.+=.|+.-|++-  +..| .|+..-.|=..|++.+.+ .     |",
+	"targetStartFrom":69,
+	"targetConsensus":"~~~~~~a~~La~~L~~~~~~i~~~L~~~--~~~~~~f~~l~r~i~~~~~~~i~~~i~~l~l",
+	"targetFinishAt":127,
+	"target":"TQFNKVAEVFHKYLDMEESYVREQLSQP--NLKQVSFGAKGNGITYANMMSIKKELETAEV",
+	"targetSSPred":"cCHHHHHHHHhhhcCCCHHHHHHHHhcc--cccccceEEeccCCCHHHHHHHHHHHHhcCC",
+	"confidence":"4678899999999999999999988863"
+},
+
+"protein29":
+{
+	"name":"4A0C_A",
+	"EValue":1.5e+02,
+	"querySSPred":"CchH-HHHHHHHHHhhhhhHHHHHHHHHhcc--------chhh-------hhhhccCCccHHHHHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTR-KAIDTISNLLKIKPIYIESMLQEMGP--------RQTQ-------MFIRSTSNGSAEEVRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtr-kaidtla~llkikpi~iesmlqemg~--------r~tq-------~fir~~~ng~~ee~~kaayl",
+	"alignment":".+.| .|+.+|..+.+.+|-.+...+.+.-+        +...       -|.....+|  .|+|++||-",
+	"targetStartFrom":1043,
+	"targetConsensus":"~~VR~~a~~~l~~l~~~~~~~~~~~l~~ll~~l~~~~~~~~~~~~~~~~~~~~~~~d~~--~~~r~~a~~",
+	"targetFinishAt":1110,
+	"target":"LNVRRVALVTFNSAAHNKPSLIRDLLDTVLPHLYNETKVRKELIREVEMGPFKHTVDDG--LDIRKAAFE",
+	"targetSSPred":"HHHHHHHHHHHHHHHHhCHHHHHHHHHHHHHHHHHHHhhhhhhhhhhhcccchhccCCc--HHHHHHHHH",
+	"confidence":"2333"
+},
+
+"protein30":
+{
+	"name":"1PYY_A",
+	"EValue":1.5e+02,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHHHHHHHHHhccchhh-hhhhccCCccHHHHHHh-hc-----C",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQ-MFIRSTSNGSAEEVRKA-AY-----L",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~iesmlqemg~r~tq-~fir~~~ng~~ee~~ka-ay-----l",
+	"alignment":".|-.+..+.||.+|.+.+-.|+.-|++-  +..| .|+..-.|=..|++-+- ..     |",
+	"targetStartFrom":69,
+	"targetConsensus":"~~~~~~a~~La~~L~~~~~~i~~~L~~~--~~~~~~f~~l~r~i~~~~~~~i~~~i~~l~l",
+	"targetFinishAt":127,
+	"target":"TQFNKVAEVFHKYLDMEESYVREQLSQP--NLKQVSFGAKGNGITYANMMSIKKELEAAEV",
+	"targetSSPred":"cCHHHHHHHHHhhcCCCHHHHHHHHhcC--ccCcceeEEeecCCCHHHHHHHHHHHHhcCC",
+	"confidence":"5677899999999999999999999863"
+},
+
+"protein31":
+{
+	"name":"4BYF_A",
+	"EValue":69,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHHHHHHHHHhccchhhhhhhcc-CCccHHHHHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRST-SNGSAEEVRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~iesmlqemg~r~tq~fir~~-~ng~~ee~~kaayl",
+	"alignment":".|-+||...|-.-|.++|--       ----+|-.|+|.- .=|-.||+|....-",
+	"targetStartFrom":653,
+	"targetConsensus":"~d~k~a~~~ll~~l~ld~~~-------Yk~G~TKVFfrag~~L~~LEe~Rd~~l~",
+	"targetFinishAt":700,
+	"target":"GRPQDGVAVLVRHLGYKPEE-------YKMGRTKIFIRFPKTLFATEDALEVRRQ",
+	"targetSSPred":"CCHHHHHHHHHHHcCCCHHH-------eeeccceeeecCchhHHHHHHHHHHHHH",
+	"confidence":"79999999998888887742"
+},
+
+"protein32":
+{
+	"name":"4K5Y_B",
+	"EValue":75,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHH----------HHHHHHHhccchhhhh---hhccCCccHHHH-H-------------Hhhc",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIY----------IESMLQEMGPRQTQMF---IRSTSNGSAEEV-R-------------KAAY",
+	"queryFinishAt":53,
+	"queryConsensus":"sdtrkaidtla~llkikpi~----------iesmlqemg~r~tq~f---ir~~~ng~~ee~-~-------------kaay",
+	"alignment":"+|.-+|+.-+..--|+||+|          +-.|.=.||....--|   .|-+.-|--+|. -             .|.|",
+	"targetStartFrom":186,
+	"targetConsensus":"~d~~~~~~~i~~~a~~~pvy~~ld~~r~~a~~nm~fq~g~~g~a~f~~~l~~l~~~~~d~aa~~~~~s~w~~qtpnra~r",
+	"targetFinishAt":265,
+	"target":"QDVDAAVRGILRNAKLKPVYDSLDAVRRSALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKR",
+	"targetSSPred":"HhHHHHHHHhhcCCchhHHhhhCCHHHHHHHHHHHHhcCcccccChHHHHHHHHhccHHHHHHHHhcchhhhhcchHHHH",
+	"confidence":"89999999999999999998"
+},
+
+"protein33":
+{
+	"name":"3J3B_r",
+	"EValue":94,
+	"querySSPred":"CchHHHHHHHHHHhhh---hhHHHHHHHHHhccchhhhhhhccCC----ccHHHHHHhh",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKI---KPIYIESMLQEMGPRQTQMFIRSTSN----GSAEEVRKAA",
+	"queryFinishAt":52,
+	"queryConsensus":"sdtrkaidtla~llki---kpi~iesmlqemg~r~tq~fir~~~n----g~~ee~~kaa",
+	"alignment":".+.|+|+..|+++++.   +|-+..--|.    |.+. ..|+.--    --...=++||",
+	"targetStartFrom":84,
+	"targetConsensus":"k~~rkal~~I~~~i~~~~yR~dL~k~alr----Rasa-i~~sqk~~~~~k~~~~~~ka~",
+	"targetFinishAt":137,
+	"target":"KNARATLSSIRHMIRKNKYRPDLRMAAIR----RASA-ILRSQKPVMVKRKRTRPTKSS",
+	"targetSSPred":"CCHHHHHHHHHHHhhhCCCCHHHHHHHHH----HHHH-HHHhcCcccCCcccccccccC",
+	"confidence":"8899999999888754"
+},
+
+"protein34":
+{
+	"name":"2WZG_A",
+	"EValue":1.2e+02,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHHHHH--HHHHhccchhhhhhhccCCcc-HHHHHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIYIES--MLQEMGPRQTQMFIRSTSNGS-AEEVRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~ies--mlqemg~r~tq~fir~~~ng~-~ee~~kaayl",
+	"alignment":"-||+++||++|+-+  +-||=+-  -|...+--|+|.|-+-+.++. .-++|||--=",
+	"targetStartFrom":303,
+	"targetConsensus":"Ke~~~~i~~vA~hi--e~i~~~~~~~LK~~pl~q~~fl~kc~e~~~~l~~LRkal~~",
+	"targetFinishAt":357,
+	"target":"RETQVMMDTVALHL--KNIYDDPYTALKDTPLAQTAFFNRCEEEGKNIFELRKGLQD",
+	"targetSSPred":"HHHHHHHHHHHHHH--HhhccCCchhhhhCCchhhhhhhhhhhcCccHHHHHHHHHH",
+	"confidence":"78999999999554"
+},
+
+"protein35":
+{
+	"name":"3JSZ_A",
+	"EValue":1.2e+02,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHHHHH--HHHHhccchhhhhhhccCCcc-HHHHHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIYIES--MLQEMGPRQTQMFIRSTSNGS-AEEVRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~ies--mlqemg~r~tq~fir~~~ng~-~ee~~kaayl",
+	"alignment":"-||+++||++|+-+  +-||=+-  -|...+--|+|.|-+-+.++. .-++|||--=",
+	"targetStartFrom":303,
+	"targetConsensus":"Ke~~~~i~~vA~hi--e~i~~~~~~~LK~~pl~q~~fl~kc~e~~~~l~~LRkal~~",
+	"targetFinishAt":357,
+	"target":"RETQVMMDTVALHL--KNIYDDPYTALKDTPLAQTAFFNRCEEEGKNIFELRKGLQD",
+	"targetSSPred":"HHHHHHHHHHHHHH--HhhccCCchhhhhCCchhhhhhhhhhhcCccHHHHHHHHHH",
+	"confidence":"78999999999544"
+},
+
+"protein36":
+{
+	"name":"1W1W_A",
+	"EValue":61,
+	"querySSPred":"CchHHHHHHHHHHh---hhh--hHH----------------HHHHHHHhccchhhhhhhccCCccHHHHHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLL---KIK--PIY----------------IESMLQEMGPRQTQMFIRSTSNGSAEEVRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~ll---kik--pi~----------------iesmlqemg~r~tq~fir~~~ng~~ee~~kaayl",
+	"alignment":"|.-.|++-+||-|+   +++  |+|                +-+||.++-.+++|.++=+..++.-   ..|.-|",
+	"targetStartFrom":335,
+	"targetConsensus":"SGGEKsL~aLalifai~~~~p~Pf~ilDEiDaaLD~~n~~~~~~~i~~~~~~~~Qfivit~~~~~~---~~ad~l",
+	"targetFinishAt":406,
+	"target":"SGGEKTVAALALLFAINSYQPSPFFVLDEVDAALDITNVQRIAAYIRRHRNPDLQFIVISLKNTMF---EKSDAL",
+	"targetSSPred":"cchHHHHHHHHHHHHHHhcCCCCEEEEcccccccCHHHHHHHHHHHHHhcCCCcEEEEEcCChHHH---Hhccce",
+	"confidence":"88889888888654"
+},
+
+"protein37":
+{
+	"name":"3U26_A",
+	"EValue":1.1e+02,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHHHHHHHHHhccchhhhhhhccCCcc--HHHHHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGS--AEEVRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~iesmlqemg~r~tq~fir~~~ng~--~ee~~kaayl",
+	"alignment":"+..++|+..+..-+.-.|+..+....+.+...-+.|-|...+++  -+++++.++-",
+	"targetStartFrom":18,
+	"targetConsensus":"~~~~~a~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+	"targetFinishAt":73,
+	"target":"GAAKSHLKIMEEVLGDYPLNPKTLLDEYEKLTREAFSNYAGKPYRPLRDILEEVMR",
+	"targetSSPred":"HHHHHHHHHHHHHHhhCCCCHHHHHHHHHHHHHHHHHhhccCCCCcHHHHHHHHHH",
+	"confidence":"55566777666666666777777777777777788888777775"
+},
+
+"protein38":
+{
+	"name":"3PSI_A",
+	"EValue":44,
+	"querySSPred":"CchHHHHHHHHHHh-hhhhHHHHHHHHHhccchhhhhhhccCCccHHHHHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLL-KIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~ll-kikpi~iesmlqemg~r~tq~fir~~~ng~~ee~~kaayl",
+	"alignment":"++..++++.|.+|+ +-+|..|   ----.+|.|+.|++.+-.    .+++..+.",
+	"targetStartFrom":558,
+	"targetConsensus":"~~~~~~~~~L~~li~~~~p~vI---GnGtasreT~~l~~~l~~----~~~~~~~~",
+	"targetFinishAt":605,
+	"target":"TNPEKFEDTLDNIIQSCQPNAI---GINGPNPKTQKFYKRLQE----VLHKKQIV",
+	"targetSSPred":"hhHHHHHHHHHHHHHHcCceEE---EeCCCCHhHHHHHHHHHH----HHhhhhhh",
+	"confidence":"67788999999988"
+},
+
+"protein39":
+{
+	"name":"3LUP_A",
+	"EValue":59,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHH--------------------HHHHHHHhccc--hhhhhhhccCCccHHHHHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIY--------------------IESMLQEMGPR--QTQMFIRSTSNGSAEEVRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~--------------------iesmlqemg~r--~tq~fir~~~ng~~ee~~kaayl",
+	"alignment":"----++--.++++|+||||+                    ++-|++.+..+  +....+-....|..|+..+-.-.",
+	"targetStartFrom":174,
+	"targetConsensus":"GRis~~~a~ig~lL~ikPIl~~~~~G~~~~~~k~R~~kka~~~l~~~~~~~~~~~~~~i~i~~~~~~e~a~~l~~~",
+	"targetFinishAt":249,
+	"target":"GRLSNGSAIIGNLLSIKPVLHFNEEGKIVVYEKVRTEKKALKRLAEIVKEMTADGEYDIAIIHSRAQDKAEQLYNL",
+	"targetSSPred":"CcccchHHHHHhhhceeEEEEEcCCCEEEEEeeccCHHHHHHHHHHHHHHhccCCceEEEEEecCCHHHHHHHHHH",
+	"confidence":"11224555678888888875"
+},
+
+"protein40":
+{
+	"name":"2WQH_A",
+	"EValue":1.8e+02,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHH------HHHHHHHhc",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIY------IESMLQEMG",
+	"queryFinishAt":29,
+	"queryConsensus":"sdtrkaidtla~llkikpi~------iesmlqemg",
+	"alignment":".+..+|+..+...+++.|=.      +--.+.+||",
+	"targetStartFrom":91,
+	"targetConsensus":"g~~~~A~~~~~~al~i~P~~~~~~~~~g~~~~~lG",
+	"targetFinishAt":125,
+	"target":"GDYDEAIEYYQKALELYPNNAEAKQNLGNAKQKQG",
+	"targetSSPred":"CCHHHHHHHHHHHHhhCCCCHHHHHHHHHHHHhcC",
+	"confidence":"66777777777777777733"
+},
+
+"protein41":
+{
+	"name":"3TPB_A",
+	"EValue":1.8e+02,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHHHHHHHHHhccchhh---hhhhccCCccHHHHHHh--hcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQ---MFIRSTSNGSAEEVRKA--AYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~iesmlqemg~r~tq---~fir~~~ng~~ee~~ka--ayl",
+	"alignment":"+-+++....++.-+++.|--.+++++++-.+-.|   .+.+.+..|.++.+...  .++",
+	"targetStartFrom":368,
+	"targetConsensus":"~i~~~~~~~~a~~~gl~~~~a~~~i~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~",
+	"targetFinishAt":426,
+	"target":"KIYPRHFLATAKVLRFPEVQMHEILSDFARMIPAALDNVKTSLPTDFPENVVTAVESNV",
+	"targetSSPred":"hccHHHHHHHHHHcCCCHHHHHHHHHHHHHHHHHHHHHHHHhcchhhhHHHHHHHHHHH",
+	"confidence":"2356677888899999999999999998865444"
+},
+
+"protein42":
+{
+	"name":"3C5B_A",
+	"EValue":1.5e+02,
+	"querySSPred":"CchHHHHHHH-HHHhhhhhHHHHHHHHHhccchhhhhhhccCCccHHHH---HHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTI-SNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEV---RKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtl-a~llkikpi~iesmlqemg~r~tq~fir~~~ng~~ee~---~kaayl",
+	"alignment":".|--+++-.+ .+.-+..-..++..++.||+...+.||---.++-++.+   .++.++",
+	"targetStartFrom":93,
+	"targetConsensus":"idVd~~La~L~gn~a~~~a~~~~~~ae~~g~~ee~afI~GDg~~~P~GfmGl~~r~~~",
+	"targetFinishAt":150,
+	"target":"GFVDKALADRSNNAAAFRVSENMGKLQGFNNKVARYSIYGNTDAEPEAFMGLAPRFNT",
+	"targetSSPred":"eeccHHHHhhcCcHHHHHHHhhHHHHHHHHHHHHHHhccCCCCCChhhhcChHhhhhc",
+	"confidence":"6666776322"
+},
+
+"protein43":
+{
+	"name":"3TE6_B",
+	"EValue":59,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHHHHHHHHH---------hccchhhhhhhccCCc",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIYIESMLQE---------MGPRQTQMFIRSTSNG",
+	"queryFinishAt":43,
+	"queryConsensus":"sdtrkaidtla~llkikpi~iesmlqe---------mg~r~tq~fir~~~ng",
+	"alignment":".|.|||+|.+.....+-=-  | -.+.         +-.-....++...-||",
+	"targetStartFrom":270,
+	"targetConsensus":"GD~RkAldilr~A~e~ae~--e-~~~~~~~~~~~~~~~~~~~~~~~~e~~~g",
+	"targetFinishAt":318,
+	"target":"GSTEKAFKICEAAVEISKK--D-FVRKGGLQKGKLVVSQEMVPRYFSEAING",
+	"targetSSPred":"ccHHHHHHHHHHHHHHHHH--H-HHhhccCCccccccchhhchHHHHhhccC",
+	"confidence":"6999999988765543200"
+},
+
+"protein44":
+{
+	"name":"3EGL_A",
+	"EValue":66,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHH-------------------HHHHHHHhccc--hhhhhhhccCCccHHHHHHh------hc",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIY-------------------IESMLQEMGPR--QTQMFIRSTSNGSAEEVRKA------AY",
+	"queryFinishAt":53,
+	"queryConsensus":"sdtrkaidtla~llkikpi~-------------------iesmlqemg~r--~tq~fir~~~ng~~ee~~ka------ay",
+	"alignment":"----++--.+++||+||||+                   ++-|+..+..+  .....+-....|..|+..+-      +|",
+	"targetStartFrom":153,
+	"targetConsensus":"GRis~~~a~ig~lL~IkPIl~~~~G~~~~~~K~R~~kka~~~l~~~~~~~~~~~~~~v~i~h~~~~~~a~~l~~~l~~~~",
+	"targetFinishAt":232,
+	"target":"GRISTATAMVSTALATRPIMRFNGGRMEIAAKTRTQSKAFAKLVELAQIRADGEPVFIAIGQNEAREAAKQLEELLRNAL",
+	"targetSSPred":"CeechhHHHHHhhhceeEEEEEECCEEEEEeeecCHHHHHHHHHHHHHHhcCCCceEEEEEecCCHHHHHHHHHHHHHhc",
+	"confidence":"12234556788899999984"
+},
+
+"protein45":
+{
+	"name":"3PL5_A",
+	"EValue":71,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHH--------------------HHHHHHHhccchhhhhhhccCCccHHHHHHhhc-C",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIY--------------------IESMLQEMGPRQTQMFIRSTSNGSAEEVRKAAY-L",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~--------------------iesmlqemg~r~tq~fir~~~ng~~ee~~kaay-l",
+	"alignment":"----++.-.+++||+||||+                    ++.|++.+-.+-....+-....|..|+..+-.- |",
+	"targetStartFrom":209,
+	"targetConsensus":"GRis~~~a~ig~lL~IkPIl~~~~~G~~~~~~K~R~~kka~~~l~~~~~~~~~~~~v~I~~a~~~e~a~~l~~~l",
+	"targetFinishAt":283,
+	"target":"GRLSKTSAIVGSLVNIKPLLWLDASGKLVPIAKLRGRKKGMKEMLKRATADVAHDTAVVAYANDSEAAENLKEQL",
+	"targetSSPred":"CCCcchHHHHHHhhCcEEEEEEcCCCcEEEeeccCCHHHHHHHHHHHHHhhccCCeEEEEECCCHHHHHHHHHHH",
+	"confidence":"11224455677888888873"
+},
+
+"protein46":
+{
+	"name":"3K85_A",
+	"EValue":2.3e+02,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHHHHHHHHHhccchhhhhhhccCCccHHHHHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~iesmlqemg~r~tq~fir~~~ng~~ee~~kaayl",
+	"alignment":"..|++++..+.....-+|-.+.+.+..|+. .+..++..+.+|..+++.+.-..",
+	"targetStartFrom":208,
+	"targetConsensus":"~~T~~~~~~~~~~~~~~~~~~~~~~~~i~~-~~~~~~~aL~~~d~~~lg~ll~~",
+	"targetFinishAt":260,
+	"target":"RSSAAIINEQKKNTSEGNQTAIEAMHKIKQ-SAIDTKLALLKGDVGEFARILGE",
+	"targetSSPred":"ccHHHHHHHHHHhhhcCHHHHHHHHHHHHH-HHHHHHHHHhcCCHHHHHHHHHH",
+	"confidence":"567777766666665666554444555554"
+},
+
+"protein47":
+{
+	"name":"3EQU_B",
+	"EValue":2.5e+02,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHHHHHHHHHhccchhhhhhhccCCccHHHHHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~iesmlqemg~r~tq~fir~~~ng~~ee~~kaayl",
+	"alignment":"++.-+.++.||.+|.+.|-.|+..|.+=   +. .|+..-.|=..|+..+-.-|",
+	"targetStartFrom":66,
+	"targetConsensus":"~~~~~~~~~La~~l~~~~~~i~~~l~~~---~~-~fv~l~r~i~~~~~~~I~~l",
+	"targetFinishAt":115,
+	"target":"MPSAAQLERLSELVDVPVDVLRNKLEQK---GK-SFIWIKRQLDPKVAEEVKAL",
+	"targetSSPred":"CCHHHHHHHHhhhcCCCHHHHHHHHhcC---CC-ceEEeecCCCHHHHHHHHhc",
+	"confidence":"4444557899999999998888777552"
+},
+
+"protein48":
+{
+	"name":"3OXP_B",
+	"EValue":1.5e+02,
+	"querySSPred":"CchHHHHHHHHHHh----hhhhHHHHHHHHH---hccchh-hhhhhccCCccHHH-HHHhhcC",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLL----KIKPIYIESMLQE---MGPRQT-QMFIRSTSNGSAEE-VRKAAYL",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~ll----kikpi~iesmlqe---mg~r~t-q~fir~~~ng~~ee-~~kaayl",
+	"alignment":"+|-+.||+.++.+|    .|+|=|++.||+.   +|+--- =..| ...-|-+|+ |.+.+-.",
+	"targetStartFrom":21,
+	"targetConsensus":"~~k~eAI~~~~~~L~~~g~v~~~yv~ami~~~e~~g~y~vig~gI-AiPHarpe~gV~~~~~s",
+	"targetFinishAt":82,
+	"target":"KDWRDAIAISCQPLIDNGAVEARYVEAIYRSHEAIGPYYVVGPGI-AMPHARPEDGVNRLSLA",
+	"targetSSPred":"CCHHHHHHHHHHHHHHcCCCCHHHHHHHHHHHHhcCCCccccCce-eccccCChhhcccceEE",
+	"confidence":"78888998888887"
+},
+
+"protein49":
+{
+	"name":"3PSF_A",
+	"EValue":48,
+	"querySSPred":"CchHHHHHHHHHHh-hhhhHHHHHHHHHhccchhhhhhhccCCccHHHHHHhhc----------C",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLL-KIKPIYIESMLQEMGPRQTQMFIRSTSNGSAEEVRKAAY----------L",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~ll-kikpi~iesmlqemg~r~tq~fir~~~ng~~ee~~kaay----------l",
+	"alignment":".+..++++.|.+|+ +-+|..|   ----.+|.||.|++.+-.    .+.+..+          .",
+	"targetStartFrom":561,
+	"targetConsensus":"~~~~~~~~~L~~li~~~~p~vI---GnGtasreT~~l~~~l~~----~~~~~~~~~~~~~~v~vv",
+	"targetFinishAt":618,
+	"target":"TNPEKFEDTLDNIIQSCQPNAI---GINGPNPKTQKFYKRLQE----VLHKKQIVDSRGHTIPII",
+	"targetSSPred":"hhHHHHHHHHHHHHHHcCCeEE---EECCCCHhHHHHHHHHHH----HHHhhhhcccccCCccEE",
+	"confidence":"67788999999987"
+},
+
+"protein50":
+{
+	"name":"2DT8_A",
+	"EValue":1e+02,
+	"querySSPred":"CchHHHHHHHHHHhhhhhHH-------------------HHHHHHHhcc----chhhhhhhccCCccHHHHHHhhc--C",
+	"queryStartFrom":1,
+	"queryPDB":"SDTRKAIDTISNLLKIKPIY-------------------IESMLQEMGP----RQTQMFIRSTSNGSAEEVRKAAY--L",
+	"queryFinishAt":54,
+	"queryConsensus":"sdtrkaidtla~llkikpi~-------------------iesmlqemg~----r~tq~fir~~~ng~~ee~~kaay--l",
+	"alignment":"--.-++.-.++++|+||||+                   ++.|++.+..    .+.+ .+-....|..|+..+...  +",
+	"targetStartFrom":169,
+	"targetConsensus":"GRis~~~a~ig~lL~IkPIl~~~~G~~~~~~K~R~~kka~~~l~~~~~~~~~~~~~~-~v~i~~~~~~~~~~~~~~~~~",
+	"targetFinishAt":246,
+	"target":"GRIGGAQAFLGTLLNLKPVLTLKEGRVEAAGRARGEKKAREEILKAFRAWAEGRKRI-RAYFLYSGDEDAVAALRQEVL",
+	"targetSSPred":"CCccchHHHHHhHhceeEEEEEECCEEEEEeeecCHHHHHHHHHHHHHHHhcCCCce-EEEEEecCChHHHHHHHHHHH",
+	"confidence":"22335566789999999984"
+},
+
+"finish":"end"
+}
